@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ISORIM_StrikeVehicleSignalTerminal.label>载具通讯终端</ISORIM_StrikeVehicleSignalTerminal.label>
+  <ISORIM_StrikeVehicleSignalTerminal.description>敌方调度终端。可以派殖民者破解并读取巡逻路线。</ISORIM_StrikeVehicleSignalTerminal.description>
+  <ISORIM_StrikeVehicleFuelTank.label>载具燃料罐</ISORIM_StrikeVehicleFuelTank.label>
+  <ISORIM_StrikeVehicleFuelTank.description>为敌方载具补充燃料的储罐。被摧毁时会爆炸。</ISORIM_StrikeVehicleFuelTank.description>
+  <ISORIM_StrikeVehiclePartsCrate.label>标记的载具零件箱</ISORIM_StrikeVehiclePartsCrate.label>
+  <ISORIM_StrikeVehiclePartsCrate.description>回收任务指定的货物。离开据点时带上这只箱子。</ISORIM_StrikeVehiclePartsCrate.description>
+</LanguageData>

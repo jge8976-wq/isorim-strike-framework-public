@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <Isorim.Vtol.GroundVehicleRaidDef>
+    <defName>ISORIM_RoadkillPatrol</defName>
+    <vehicle>VVE_Roadkill</vehicle>
+    <chassisPoints>600</chassisPoints>
+    <weaponPoints>220</weaponPoints>
+  </Isorim.Vtol.GroundVehicleRaidDef>
+  <Isorim.Vtol.GroundVehicleRaidDef>
+    <defName>ISORIM_BadgerPatrol</defName>
+    <vehicle>VVE_Badger</vehicle>
+    <chassisPoints>970</chassisPoints>
+    <weaponPoints>280</weaponPoints>
+  </Isorim.Vtol.GroundVehicleRaidDef>
+  <Isorim.Vtol.GroundVehicleRaidDef>
+    <defName>ISORIM_MarshalPatrol</defName>
+    <vehicle>VVE_Marshal</vehicle>
+    <chassisPoints>1550</chassisPoints>
+    <weaponPoints>520</weaponPoints>
+  </Isorim.Vtol.GroundVehicleRaidDef>
+  <IncidentDef>
+    <defName>ISORIM_StrikeGroundVehicleRaid</defName>
+    <label>hostile vehicle patrol</label>
+    <category>ThreatBig</category>
+    <workerClass>Isorim.Vtol.IncidentWorker_GroundVehicleRaid</workerClass>
+    <targetTags><li>Map_PlayerHome</li></targetTags>
+    <baseChance>0.12</baseChance>
+    <earliestDay>30</earliestDay>
+    <minRefireDays>8</minRefireDays>
+  </IncidentDef>
+  <IncidentDef>
+    <defName>ISORIM_StrikeVehicleDepot</defName>
+    <label>vehicle site mission</label>
+    <category>Misc</category>
+    <workerClass>Isorim.Vtol.IncidentWorker_VehicleDepot</workerClass>
+    <targetTags><li>Map_PlayerHome</li></targetTags>
+    <baseChance>0.17</baseChance>
+    <earliestDay>25</earliestDay>
+    <minRefireDays>14</minRefireDays>
+  </IncidentDef>
+  <SitePartDef>
+    <defName>ISORIM_StrikeVehicleDepot</defName>
+    <label>armored supply depot</label>
+    <description>A supply relay guarded by hostile vehicles. Destroy the relay and salvage the supplies.</description>
+    <workerClass>Isorim.Vtol.SitePartWorker_VehicleDepot</workerClass>
+    <siteTexture>World/WorldObjects/Sites/Outpost</siteTexture>
+    <expandingIconTexture>World/WorldObjects/Expanding/Sites/Outpost</expandingIconTexture>
+    <applyFactionColorToSiteTexture>true</applyFactionColorToSiteTexture>
+    <showFactionInInspectString>true</showFactionInInspectString>
+    <requiresFaction>true</requiresFaction>
+    <wantsThreatPoints>true</wantsThreatPoints>
+    <disallowsAutomaticDetectionTimerStart>true</disallowsAutomaticDetectionTimerStart>
+  </SitePartDef>
+  <QuestScriptDef>
+    <defName>ISORIM_StrikeVehicleDepotMission</defName>
+    <root Class="Isorim.Vtol.VehicleDepotQuest" />
+    <autoAccept>true</autoAccept>
+    <questNameRules>
+      <rulesStrings><li>questName->Armored supply depot</li></rulesStrings>
+    </questNameRules>
+    <questDescriptionRules>
+      <rulesStrings><li>questDescription->A nearby hostile faction is using a relay to direct vehicle supply runs. Travel to the site and destroy the relay to reveal fuel and silver. Watch for vehicles waiting to ambush approaching units.</li></rulesStrings>
+    </questDescriptionRules>
+  </QuestScriptDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>ISORIM_StrikeVehicleDepotRelay</defName>
+    <label>vehicle supply relay</label>
+    <description>A relay that coordinates hostile vehicle logistics.</description>
+    <thingClass>Isorim.Vtol.VehicleDepotRelay</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Misc/DropBeacon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <selectable>true</selectable>
+    <useHitPoints>true</useHitPoints>
+    <statBases><MaxHitPoints>170</MaxHitPoints><Flammability>0.4</Flammability></statBases>
+    <building><isInert>true</isInert><deconstructible>false</deconstructible></building>
+  </ThingDef>
+</Defs>

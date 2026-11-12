@@ -1,28 +1,28 @@
 {
   "workshopItemId": 3833895567,
   "packageId": "isorim.strike.framework",
-  "version": "0.6.4-air-recon-vt-r1",
-  "workshopBaselineVersion": "0.6.4-air-recon-vt-r1",
+  "version": "0.6.7-formation-raids-r1",
+  "workshopBaselineVersion": "0.6.7-formation-raids-r1",
   "files": {
     "1.7/Assemblies/ISORIM.StrikeFramework.dll": {
-      "bytes": 118784,
-      "sha256": "64e0b26671e2749fb69f5e5a49bfc561a8c27e2637c403c710dd9012a73ce594"
+      "bytes": 185344,
+      "sha256": "3fcc0e1fabf17ca2dfa2c380053e1a61335f130d37246b5cfe70b1ff929598e3"
     },
     "About/About.xml": {
-      "bytes": 6776,
-      "sha256": "fd660a1433af45034fa6a124762fba0e11aec66508dfee3a5a0bc1745ba7b3a2"
+      "bytes": 7800,
+      "sha256": "b2ca0c02df8ee7e7d76a0f1ad7160a660f59059931c9b3329ab802f96598a45b"
     },
     "About/ChineseSimplified/About.xml": {
-      "bytes": 9868,
-      "sha256": "723ec820afbd1c22f1e0bef6686d942540a08c42c072d4a1c045112abfdc35e4"
+      "bytes": 10286,
+      "sha256": "afadfe200d7799943ff86285b7dcf4885107e61846e323c7503e60a59d9f9d44"
     },
     "About/Description-Chinese.txt": {
-      "bytes": 7404,
-      "sha256": "59d8329490fec64181ccb5830d801f56ea2c94694931b34964bde62289bcad50"
+      "bytes": 7819,
+      "sha256": "f29700c0b858162998b41e9bc92b44ddaa003c3dba628e04d1ba6c5abc2d958e"
     },
     "About/Description-English.txt": {
-      "bytes": 4307,
-      "sha256": "9b52c777a4eca867110d4313aceb27e2aea1dd14841848295a4915e43502480e"
+      "bytes": 5328,
+      "sha256": "0eedf5abbb0b6a0667c4978fbd22a75ef2c3404d93a9725f4662bc5ed7911df5"
     },
     "About/Description.en.txt": {
       "bytes": 4562,
@@ -33,8 +33,8 @@
       "sha256": "56a2eb0c8f0836eafc46ca19fb7a6037d025520ed16f51e62c53c5edf3be612e"
     },
     "About/English/About.xml": {
-      "bytes": 6776,
-      "sha256": "fd660a1433af45034fa6a124762fba0e11aec66508dfee3a5a0bc1745ba7b3a2"
+      "bytes": 7800,
+      "sha256": "b2ca0c02df8ee7e7d76a0f1ad7160a660f59059931c9b3329ab802f96598a45b"
     },
     "About/Preview.png": {
       "bytes": 245488,
@@ -112,13 +112,41 @@
       "bytes": 8600,
       "sha256": "3c740875b002d3a26f2216f74e75df8a4b47f01929f92becd246ea7dd8f50734"
     },
+    "Defs/VehicleRaidEvents.xml": {
+      "bytes": 3705,
+      "sha256": "b7ba9d579aa92280021316523714a3e2635a65213cd319230db5c4dab470ea4c"
+    },
+    "Defs/VehicleSiteMissions.xml": {
+      "bytes": 8468,
+      "sha256": "0f237e8813636f0a041e5497ed834eb23eb21b1146d57963760118f19c3bb2bd"
+    },
     "Languages/ChineseSimplified/DefInjected/IncidentDef/AirRaids.xml": {
       "bytes": 166,
       "sha256": "d4842f20c3b3e8876b630acf2a883acfc17748b95429a4d60a942da805f980aa"
     },
+    "Languages/ChineseSimplified/DefInjected/IncidentDef/VehicleRaidEvents.xml": {
+      "bytes": 259,
+      "sha256": "d8a406dcba050aad3a6bbd8f8c0ba41b4fd26877052d2a410a24dec4bdc27c62"
+    },
+    "Languages/ChineseSimplified/DefInjected/QuestScriptDef/VehicleRaidEvents.xml": {
+      "bytes": 604,
+      "sha256": "fae08a9629c3aa3f12c6d98dc14541a00c6ce1094ee444b9400afd793f4bb332"
+    },
+    "Languages/ChineseSimplified/DefInjected/QuestScriptDef/VehicleSiteMissions.xml": {
+      "bytes": 2108,
+      "sha256": "6e26f9e100aab62f464073ee57419ffe21589f42bb1dde8c6c3670645f03f909"
+    },
     "Languages/ChineseSimplified/DefInjected/RecipeDef/LightAmmunition.xml": {
       "bytes": 1153,
       "sha256": "9c98360ad043578d8eae5cadf8ac9b50da7b8dd440f873cfde59d43e58eb341f"
+    },
+    "Languages/ChineseSimplified/DefInjected/SitePartDef/VehicleRaidEvents.xml": {
+      "bytes": 309,
+      "sha256": "cb5d3371abbc4a1d5f73e9478d83cf53a145568634f2d2196160de524a5d963a"
+    },
+    "Languages/ChineseSimplified/DefInjected/SitePartDef/VehicleSiteMissions.xml": {
+      "bytes": 1018,
+      "sha256": "b572a7457c5b801719e85e12aa0598728a370652894e332a7237b6944ea5aaa9"
     },
     "Languages/ChineseSimplified/DefInjected/ThingDef/CrashRescue.xml": {
       "bytes": 269,
@@ -127,6 +155,14 @@
     "Languages/ChineseSimplified/DefInjected/ThingDef/LightAmmunition.xml": {
       "bytes": 1689,
       "sha256": "f4d5f19d8dc127d8e224cb183f14d36b7eea6dbfd1639212dd02238e0c8a2f06"
+    },
+    "Languages/ChineseSimplified/DefInjected/ThingDef/VehicleRaidEvents.xml": {
+      "bytes": 311,
+      "sha256": "080e2688493cb9584fe635505ed388f6c2e6ff36f73a948e489d6e590407110f"
+    },
+    "Languages/ChineseSimplified/DefInjected/ThingDef/VehicleSiteMissions.xml": {
+      "bytes": 849,
+      "sha256": "aa9143b22c61a52b1bc743ee52770776dd4097596c51924b7fcc9f8b9035c69a"
     },
     "Languages/ChineseSimplified/DefInjected/Vehicles.UpgradeTreeDef/LightWeapons.xml": {
       "bytes": 38217,

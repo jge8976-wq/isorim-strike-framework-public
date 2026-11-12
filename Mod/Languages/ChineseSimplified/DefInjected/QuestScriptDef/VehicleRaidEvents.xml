@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ISORIM_StrikeVehicleDepotMission.questNameRules.rulesStrings>
+    <li>questName-&gt;装甲补给站</li>
+  </ISORIM_StrikeVehicleDepotMission.questNameRules.rulesStrings>
+  <ISORIM_StrikeVehicleDepotMission.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;附近的敌对派系正用一座中继站调度载具补给。前往该地摧毁中继站，即可获得燃料与白银。小心埋伏在附近、会追击接近单位的载具。</li>
+  </ISORIM_StrikeVehicleDepotMission.questDescriptionRules.rulesStrings>
+</LanguageData>

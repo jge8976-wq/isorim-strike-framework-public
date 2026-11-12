@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ISORIM_StrikeVehicleConvoyMission.questNameRules.rulesStrings>
+    <li>questName-&gt;装甲车队截击</li>
+  </ISORIM_StrikeVehicleConvoyMission.questNameRules.rulesStrings>
+  <ISORIM_StrikeVehicleConvoyMission.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;一辆敌方装甲载具即将穿过这片区域。进入据点，在载具驶出对侧地图边缘前击毁它。报酬将空投到殖民地。</li>
+  </ISORIM_StrikeVehicleConvoyMission.questDescriptionRules.rulesStrings>
+  <ISORIM_StrikeVehicleSignalMission.questNameRules.rulesStrings>
+    <li>questName-&gt;敌方通讯截获</li>
+  </ISORIM_StrikeVehicleSignalMission.questNameRules.rulesStrings>
+  <ISORIM_StrikeVehicleSignalMission.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;敌方通讯站存有附近巡逻队的路线。派殖民者破解终端。打毁终端会丢失情报。报酬将空投到殖民地。</li>
+  </ISORIM_StrikeVehicleSignalMission.questDescriptionRules.rulesStrings>
+  <ISORIM_StrikeVehicleFuelMission.questNameRules.rulesStrings>
+    <li>questName-&gt;破坏载具燃料补给</li>
+  </ISORIM_StrikeVehicleFuelMission.questNameRules.rulesStrings>
+  <ISORIM_StrikeVehicleFuelMission.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;敌方巡逻队在此处的两座燃料罐加油。摧毁两座罐子，切断补给线。攻击时保持距离。报酬将空投到殖民地。</li>
+  </ISORIM_StrikeVehicleFuelMission.questDescriptionRules.rulesStrings>
+  <ISORIM_StrikeVehicleRecoveryMission.questNameRules.rulesStrings>
+    <li>questName-&gt;载具零件回收</li>
+  </ISORIM_StrikeVehicleRecoveryMission.questNameRules.rulesStrings>
+  <ISORIM_StrikeVehicleRecoveryMission.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;敌方拆解场有一只标记过的载具零件箱。把箱子装进远行队并离开据点，或将它送到我方殖民地地图。报酬将空投到殖民地。</li>
+  </ISORIM_StrikeVehicleRecoveryMission.questDescriptionRules.rulesStrings>
+</LanguageData>

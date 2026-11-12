@@ -1,3 +1,9 @@
+[h2]0.6.7[/h2]
+Developer raids with 8 or more aircraft now stage arrivals along the selected edge in flights of up to three. Each flight shares an altitude and a strike plan, and its survivors continue that plan. Ground-attack crews commit to a strafing line or rocket area and update their aim after pulling out. Preset raids also offer 12 and 16 aircraft. Includes the five loadout presets for each of eight aircraft and the four new vehicle sites.
+
+[h2]0.6.6[/h2]
+Developer actions now offer five raid presets for Frog, Toad, Mosquito, Warbird, Smuggler, Cherokee, Louie and Goliath. Choose recon/self-defense, economy, bombing, multirole or full loadout, then launch 1, 2, 4 or 8 aircraft. Chassis, weapons and loaded/reserve ammunition are weighted separately. Added ground vehicle patrols alongside the original supply depot and four new world-site missions. Intercept an armored convoy, decode enemy communications, destroy two fuel tanks, or extract a parts crate. Tested with and without Combat Extended.
+
 [h2]0.6.4[/h2]
 Routine air raids carry machine guns up to 7.62 mm or 40 mm HE/airburst. Rockets and 20 mm cannons are reserved for harder or boss encounters. Eight VVE airframes use compatible hardpoint loadouts and raid costs. The single-seat Frog with one 5.56 mm gun costs 450 raid points. Unarmed scouts circle the colony for four game hours. A completed survey has an 80% chance to schedule a raid with a countdown and arrival direction. Supported airburst weapons offer a proximity-fuzed anti-air mode with shock and fragmentation.
 

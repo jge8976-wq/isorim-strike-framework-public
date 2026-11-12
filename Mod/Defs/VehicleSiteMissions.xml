@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SitePartDef Name="ISORIM_VehicleMissionSiteBase" Abstract="True">
+    <workerClass>Isorim.Vtol.SitePartWorker_VehicleMission</workerClass>
+    <siteTexture>World/WorldObjects/Sites/Outpost</siteTexture>
+    <expandingIconTexture>World/WorldObjects/Expanding/Sites/Outpost</expandingIconTexture>
+    <applyFactionColorToSiteTexture>true</applyFactionColorToSiteTexture>
+    <showFactionInInspectString>true</showFactionInInspectString>
+    <requiresFaction>true</requiresFaction>
+    <wantsThreatPoints>true</wantsThreatPoints>
+    <disallowsAutomaticDetectionTimerStart>true</disallowsAutomaticDetectionTimerStart>
+  </SitePartDef>
+  <QuestScriptDef Name="ISORIM_VehicleMissionQuestBase" Abstract="True">
+    <root Class="Isorim.Vtol.VehicleSiteMissionQuest" />
+    <autoAccept>true</autoAccept>
+  </QuestScriptDef>
+
+  <SitePartDef ParentName="ISORIM_VehicleMissionSiteBase">
+    <defName>ISORIM_StrikeVehicleConvoy</defName>
+    <label>armored convoy crossing</label>
+    <description>Intercept the hostile armored vehicle before it reaches the opposite edge.</description>
+    <modExtensions>
+      <li Class="Isorim.Vtol.VehicleMissionExtension">
+        <quest>ISORIM_StrikeVehicleConvoyMission</quest>
+        <objective>InterceptConvoy</objective>
+        <durationDays>4</durationDays>
+        <rewards>
+          <Silver>350</Silver>
+          <Steel>70</Steel>
+        </rewards>
+      </li>
+    </modExtensions>
+  </SitePartDef>
+  <QuestScriptDef ParentName="ISORIM_VehicleMissionQuestBase">
+    <defName>ISORIM_StrikeVehicleConvoyMission</defName>
+    <questNameRules><rulesStrings><li>questName-&gt;Armored convoy interception</li></rulesStrings></questNameRules>
+    <questDescriptionRules><rulesStrings><li>questDescription-&gt;A hostile armored vehicle is about to cross the region. Enter the site and destroy it before it drives off the opposite edge. Your payment will be delivered to your colony.</li></rulesStrings></questDescriptionRules>
+  </QuestScriptDef>
+
+  <SitePartDef ParentName="ISORIM_VehicleMissionSiteBase">
+    <defName>ISORIM_StrikeVehicleSignal</defName>
+    <label>vehicle signals station</label>
+    <description>Hack the guarded terminal to retrieve enemy vehicle routing data.</description>
+    <modExtensions>
+      <li Class="Isorim.Vtol.VehicleMissionExtension">
+        <quest>ISORIM_StrikeVehicleSignalMission</quest>
+        <objective>DecodeSignal</objective>
+        <objectiveThing>ISORIM_StrikeVehicleSignalTerminal</objectiveThing>
+        <durationDays>7</durationDays>
+        <rewards>
+          <Silver>270</Silver>
+          <ComponentIndustrial>8</ComponentIndustrial>
+        </rewards>
+      </li>
+    </modExtensions>
+  </SitePartDef>
+  <QuestScriptDef ParentName="ISORIM_VehicleMissionQuestBase">
+    <defName>ISORIM_StrikeVehicleSignalMission</defName>
+    <questNameRules><rulesStrings><li>questName-&gt;Enemy signals interception</li></rulesStrings></questNameRules>
+    <questDescriptionRules><rulesStrings><li>questDescription-&gt;A hostile signals station carries the routes of nearby patrols. Use a colonist to hack its terminal. Destroying the terminal will lose the data. Your payment will be delivered to your colony.</li></rulesStrings></questDescriptionRules>
+  </QuestScriptDef>
+
+  <SitePartDef ParentName="ISORIM_VehicleMissionSiteBase">
+    <defName>ISORIM_StrikeVehicleFuel</defName>
+    <label>vehicle refuelling point</label>
+    <description>Destroy both fuel tanks. Each tank can explode when destroyed.</description>
+    <modExtensions>
+      <li Class="Isorim.Vtol.VehicleMissionExtension">
+        <quest>ISORIM_StrikeVehicleFuelMission</quest>
+        <objective>SabotageFuel</objective>
+        <objectiveThing>ISORIM_StrikeVehicleFuelTank</objectiveThing>
+        <durationDays>6</durationDays>
+        <rewards>
+          <Silver>240</Silver>
+          <Chemfuel>120</Chemfuel>
+        </rewards>
+      </li>
+    </modExtensions>
+  </SitePartDef>
+  <QuestScriptDef ParentName="ISORIM_VehicleMissionQuestBase">
+    <defName>ISORIM_StrikeVehicleFuelMission</defName>
+    <questNameRules><rulesStrings><li>questName-&gt;Vehicle fuel sabotage</li></rulesStrings></questNameRules>
+    <questDescriptionRules><rulesStrings><li>questDescription-&gt;Enemy patrols refuel at two tanks at this site. Destroy both tanks to cut the supply line. Keep your distance when attacking them. Your payment will be delivered to your colony.</li></rulesStrings></questDescriptionRules>
+  </QuestScriptDef>
+
+  <SitePartDef ParentName="ISORIM_VehicleMissionSiteBase">
+    <defName>ISORIM_StrikeVehicleRecovery</defName>
+    <label>vehicle salvage yard</label>
+    <description>Recover the tagged parts crate and take it away with your caravan or return it to your colony.</description>
+    <modExtensions>
+      <li Class="Isorim.Vtol.VehicleMissionExtension">
+        <quest>ISORIM_StrikeVehicleRecoveryMission</quest>
+        <objective>RecoverParts</objective>
+        <objectiveThing>ISORIM_StrikeVehiclePartsCrate</objectiveThing>
+        <durationDays>8</durationDays>
+        <rewards>
+          <ComponentIndustrial>12</ComponentIndustrial>
+          <Plasteel>40</Plasteel>
+        </rewards>
+      </li>
+    </modExtensions>
+  </SitePartDef>
+  <QuestScriptDef ParentName="ISORIM_VehicleMissionQuestBase">
+    <defName>ISORIM_StrikeVehicleRecoveryMission</defName>
+    <questNameRules><rulesStrings><li>questName-&gt;Vehicle parts recovery</li></rulesStrings></questNameRules>
+    <questDescriptionRules><rulesStrings><li>questDescription-&gt;A hostile salvage yard holds a marked crate of vehicle parts. Load that crate into your caravan and leave the site, or bring it to a player home map. Your payment will be delivered to your colony.</li></rulesStrings></questDescriptionRules>
+  </QuestScriptDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>ISORIM_StrikeVehicleSignalTerminal</defName>
+    <label>vehicle signals terminal</label>
+    <description>An enemy routing terminal. Use a colonist to hack it and extract the patrol schedules.</description>
+    <graphicData>
+      <texPath>Things/Building/Misc/DropBeacon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <selectable>true</selectable>
+    <useHitPoints>true</useHitPoints>
+    <statBases><MaxHitPoints>160</MaxHitPoints><Flammability>0.4</Flammability></statBases>
+    <building><isInert>true</isInert><deconstructible>false</deconstructible><claimable>false</claimable></building>
+    <comps>
+      <li Class="CompProperties_Hackable"><defence>1800</defence></li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>ISORIM_StrikeVehicleFuelTank</defName>
+    <label>vehicle fuel tank</label>
+    <description>A volatile tank used to refuel hostile vehicles. It explodes when destroyed.</description>
+    <graphicData>
+      <texPath>Things/Building/Ruins/AncientFuelNode</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <useHitPoints>true</useHitPoints>
+    <tickerType>Normal</tickerType>
+    <statBases><MaxHitPoints>150</MaxHitPoints><Flammability>1</Flammability></statBases>
+    <building><isInert>true</isInert><deconstructible>false</deconstructible><claimable>false</claimable></building>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.5</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <explodeOnKilled>true</explodeOnKilled>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>ISORIM_StrikeVehiclePartsCrate</defName>
+    <label>marked vehicle parts crate</label>
+    <description>The marked shipment identified in the recovery mission. Take this crate when leaving the site.</description>
+    <graphicData>
+      <texPath>Things/Building/Ruins/AncientHermeticCrate</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.1, 1.45)</drawSize>
+    </graphicData>
+    <stackLimit>1</stackLimit>
+    <useHitPoints>true</useHitPoints>
+    <statBases><MaxHitPoints>90</MaxHitPoints><Mass>8</Mass><MarketValue>40</MarketValue><Flammability>0.65</Flammability></statBases>
+  </ThingDef>
+</Defs>

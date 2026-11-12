@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ISORIM_StrikeVehicleConvoy.label>装甲车队通道</ISORIM_StrikeVehicleConvoy.label>
+  <ISORIM_StrikeVehicleConvoy.description>在敌方装甲载具抵达对侧地图边缘前击毁它。</ISORIM_StrikeVehicleConvoy.description>
+  <ISORIM_StrikeVehicleSignal.label>载具通讯站</ISORIM_StrikeVehicleSignal.label>
+  <ISORIM_StrikeVehicleSignal.description>破解守卫保护的通讯终端，读取敌方载具的调度情报。</ISORIM_StrikeVehicleSignal.description>
+  <ISORIM_StrikeVehicleFuel.label>载具加油点</ISORIM_StrikeVehicleFuel.label>
+  <ISORIM_StrikeVehicleFuel.description>摧毁两座燃料罐。燃料罐被摧毁时会爆炸。</ISORIM_StrikeVehicleFuel.description>
+  <ISORIM_StrikeVehicleRecovery.label>载具拆解场</ISORIM_StrikeVehicleRecovery.label>
+  <ISORIM_StrikeVehicleRecovery.description>回收标记的零件箱，用远行队带离据点或送回殖民地。</ISORIM_StrikeVehicleRecovery.description>
+</LanguageData>
