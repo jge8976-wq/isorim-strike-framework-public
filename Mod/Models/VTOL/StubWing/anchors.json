@@ -1,0 +1,193 @@
+{
+  "id": "StubWing",
+  "defaultFile": "StubWing.obj",
+  "triangleCount": 596,
+  "bounds": {
+    "min": [
+      -1.1200000047683716,
+      -0.12000000476837158,
+      -0.44999998807907104
+    ],
+    "max": [
+      1.1200000047683716,
+      0.03099999949336052,
+      0.30000001192092896
+    ]
+  },
+  "anchors": {
+    "Store_L_1": [
+      -0.48,
+      -0.12,
+      -0.08
+    ],
+    "Store_L_2": [
+      -0.95,
+      -0.12,
+      -0.08
+    ],
+    "Store_R_1": [
+      0.48,
+      -0.12,
+      -0.08
+    ],
+    "Store_R_2": [
+      0.95,
+      -0.12,
+      -0.08
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Mount",
+      "file": "StubWing__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "WingLeft",
+      "file": "StubWing__WingLeft.obj",
+      "triangleCount": 276,
+      "objects": [
+        "Left stub wing",
+        "Wing root doubler",
+        "Wing root fastener",
+        "Wing root fastener.001",
+        "Wing root fastener.002",
+        "Wing rail lug",
+        "Wing rail lug.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "WingRight",
+      "file": "StubWing__WingRight.obj",
+      "triangleCount": 276,
+      "objects": [
+        "Right stub wing",
+        "Wing root doubler.001",
+        "Wing root fastener.003",
+        "Wing root fastener.004",
+        "Wing root fastener.005",
+        "Wing rail lug.002",
+        "Wing rail lug.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

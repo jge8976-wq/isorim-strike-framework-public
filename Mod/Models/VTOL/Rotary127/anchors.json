@@ -1,0 +1,245 @@
+{
+  "id": "Rotary127",
+  "defaultFile": "Rotary127.obj",
+  "triangleCount": 756,
+  "bounds": {
+    "min": [
+      -0.24000000953674316,
+      -0.5199999809265137,
+      -0.8299999833106995
+    ],
+    "max": [
+      0.24000000953674316,
+      0.0,
+      1.0499999523162842
+    ]
+  },
+  "anchors": {
+    "Muzzle_1": [
+      0.09,
+      -0.27,
+      1.05
+    ],
+    "Muzzle_2": [
+      -0.04499999999999998,
+      -0.19205771365940055,
+      1.05
+    ],
+    "Muzzle_3": [
+      -0.04500000000000004,
+      -0.3479422863405995,
+      1.05
+    ],
+    "RotorPivot": [
+      0.0,
+      -0.27,
+      0.0
+    ],
+    "PitchPivot": [
+      0.0,
+      -0.28,
+      -0.2
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Mount",
+      "file": "Rotary127__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "Rotary127__Pitch.obj",
+      "triangleCount": 60,
+      "objects": [
+        "Breech rotor housing"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "PodShell",
+      "file": "Rotary127__PodShell.obj",
+      "triangleCount": 244,
+      "objects": [
+        "Pod shell",
+        "Access blister",
+        "Access blister.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rotor",
+      "file": "Rotary127__Rotor.obj",
+      "triangleCount": 408,
+      "objects": [
+        "Barrel_01",
+        "Barrel_02",
+        "Barrel_03",
+        "Rotor barrel clamp",
+        "Rotor barrel clamp.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "RotorPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "RotorPivot": {
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "part": "Rotor"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

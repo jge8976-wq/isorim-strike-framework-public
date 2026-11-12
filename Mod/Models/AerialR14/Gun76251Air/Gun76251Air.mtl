@@ -1,0 +1,8 @@
+newmtl Gun76251Air_Exterior
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 22
+d 1
+illum 2
+map_Kd ../../../Textures/Gun76251Air_Albedo.png

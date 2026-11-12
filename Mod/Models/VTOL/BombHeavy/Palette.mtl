@@ -1,0 +1,56 @@
+newmtl Steel
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+
+newmtl Dark
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+
+newmtl Olive
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+
+newmtl Light
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+
+newmtl Brass
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+
+newmtl Rubber
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+
+newmtl Stripe
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+
+newmtl Seeker
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSVTOLR2/BombHeavy/Palette.png
+

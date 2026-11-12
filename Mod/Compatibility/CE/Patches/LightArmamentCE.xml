@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/CombatExtended.AmmoSetDef[defName="AmmoSet_556x45mmNATO"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun556Air"]/ammunition</xpath>
+          <value>
+            <ammunition>
+              <thingDefs>
+                <li>Ammo_556x45mmNATO_FMJ</li>
+                <li>Ammo_556x45mmNATO_AP</li>
+                <li>Ammo_556x45mmNATO_HP</li>
+                <li>Ammo_556x45mmNATO_Incendiary</li>
+                <li>Ammo_556x45mmNATO_HE</li>
+                <li>Ammo_556x45mmNATO_Sabot</li>
+              </thingDefs>
+            </ammunition>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun556Air"]/projectile</xpath>
+          <value>
+            <projectile>Bullet_556x45mmNATO_FMJ</projectile>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun556Air"]/genericAmmo</xpath>
+          <value>
+            <genericAmmo>false</genericAmmo>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun556Air"]</xpath>
+          <value>
+            <li Class="Vehicles.CETurretDataDefModExtension">
+              <ammoSet>AmmoSet_556x45mmNATO</ammoSet>
+              <shotHeight>2</shotHeight>
+              <spread>0.25</spread>
+              <sway>0</sway>
+              <recoil>0</recoil>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/CombatExtended.AmmoSetDef[defName="AmmoSet_762x51mmNATO"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76251Air"]/ammunition</xpath>
+          <value>
+            <ammunition>
+              <thingDefs>
+                <li>Ammo_762x51mmNATO_FMJ</li>
+                <li>Ammo_762x51mmNATO_AP</li>
+                <li>Ammo_762x51mmNATO_HP</li>
+                <li>Ammo_762x51mmNATO_Incendiary</li>
+                <li>Ammo_762x51mmNATO_HE</li>
+                <li>Ammo_762x51mmNATO_Sabot</li>
+              </thingDefs>
+            </ammunition>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76251Air"]/projectile</xpath>
+          <value>
+            <projectile>Bullet_762x51mmNATO_FMJ</projectile>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76251Air"]/genericAmmo</xpath>
+          <value>
+            <genericAmmo>false</genericAmmo>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76251Air"]</xpath>
+          <value>
+            <li Class="Vehicles.CETurretDataDefModExtension">
+              <ammoSet>AmmoSet_762x51mmNATO</ammoSet>
+              <shotHeight>2</shotHeight>
+              <spread>0.25</spread>
+              <sway>0</sway>
+              <recoil>0</recoil>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/CombatExtended.AmmoSetDef[defName="AmmoSet_762x54mmR"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76254RAir"]/ammunition</xpath>
+          <value>
+            <ammunition>
+              <thingDefs>
+                <li>Ammo_762x54mmR_FMJ</li>
+                <li>Ammo_762x54mmR_AP</li>
+                <li>Ammo_762x54mmR_HP</li>
+                <li>Ammo_762x54mmR_Incendiary</li>
+                <li>Ammo_762x54mmR_HE</li>
+                <li>Ammo_762x54mmR_Sabot</li>
+              </thingDefs>
+            </ammunition>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76254RAir"]/projectile</xpath>
+          <value>
+            <projectile>Bullet_762x54mmR_FMJ</projectile>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76254RAir"]/genericAmmo</xpath>
+          <value>
+            <genericAmmo>false</genericAmmo>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Gun76254RAir"]</xpath>
+          <value>
+            <li Class="Vehicles.CETurretDataDefModExtension">
+              <ammoSet>AmmoSet_762x54mmR</ammoSet>
+              <shotHeight>2</shotHeight>
+              <spread>0.25</spread>
+              <sway>0</sway>
+              <recoil>0</recoil>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/CombatExtended.AmmoSetDef[defName="AmmoSet_12Gauge"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Shotgun12Air"]/ammunition</xpath>
+          <value>
+            <ammunition>
+              <thingDefs>
+                <li>Ammo_12Gauge_Buck</li>
+                <li>Ammo_12Gauge_Slug</li>
+                <li>Ammo_12Gauge_Beanbag</li>
+                <li>Ammo_12Gauge_ElectroSlug</li>
+              </thingDefs>
+            </ammunition>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Shotgun12Air"]/projectile</xpath>
+          <value>
+            <projectile>Bullet_12Gauge_Buck</projectile>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Shotgun12Air"]/genericAmmo</xpath>
+          <value>
+            <genericAmmo>false</genericAmmo>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>Defs/Vehicles.VehicleTurretDef[defName="VTOL_Air_Shotgun12Air"]</xpath>
+          <value>
+            <li Class="Vehicles.CETurretDataDefModExtension">
+              <ammoSet>AmmoSet_12Gauge</ammoSet>
+              <shotHeight>2</shotHeight>
+              <spread>4</spread>
+              <sway>0</sway>
+              <recoil>0</recoil>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

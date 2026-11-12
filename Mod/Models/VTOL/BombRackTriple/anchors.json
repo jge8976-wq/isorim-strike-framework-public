@@ -1,0 +1,270 @@
+{
+  "id": "BombRackTriple",
+  "defaultFile": "BombRackTriple.obj",
+  "triangleCount": 528,
+  "bounds": {
+    "min": [
+      -0.5099999904632568,
+      -0.30000001192092896,
+      -0.6200000047683716
+    ],
+    "max": [
+      0.5099999904632568,
+      0.0,
+      0.6200000047683716
+    ]
+  },
+  "anchors": {
+    "Release_1": [
+      -0.42,
+      -0.3,
+      0.0
+    ],
+    "Store_1": [
+      -0.42,
+      -0.3,
+      0.0
+    ],
+    "Release_2": [
+      0.0,
+      -0.3,
+      0.0
+    ],
+    "Store_2": [
+      0.0,
+      -0.3,
+      0.0
+    ],
+    "Release_3": [
+      0.42,
+      -0.3,
+      0.0
+    ],
+    "Store_3": [
+      0.42,
+      -0.3,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Hook_1",
+      "file": "BombRackTriple__Hook_1.obj",
+      "triangleCount": 88,
+      "objects": [
+        "Suspension hook",
+        "Suspension hook.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Hook_2",
+      "file": "BombRackTriple__Hook_2.obj",
+      "triangleCount": 88,
+      "objects": [
+        "Suspension hook.002",
+        "Suspension hook.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Hook_3",
+      "file": "BombRackTriple__Hook_3.obj",
+      "triangleCount": 88,
+      "objects": [
+        "Suspension hook.004",
+        "Suspension hook.005"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "BombRackTriple__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rack",
+      "file": "BombRackTriple__Rack.obj",
+      "triangleCount": 220,
+      "objects": [
+        "Rack spine",
+        "Release cross arm",
+        "Release station longitudinal rail",
+        "Release station longitudinal rail.001",
+        "Release station longitudinal rail.002"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

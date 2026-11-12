@@ -1,0 +1,218 @@
+{
+  "id": "PylonHeavy",
+  "defaultFile": "PylonHeavy.obj",
+  "triangleCount": 628,
+  "bounds": {
+    "min": [
+      -0.28600001335144043,
+      -0.41999998688697815,
+      -0.4399999976158142
+    ],
+    "max": [
+      0.28600001335144043,
+      0.0,
+      0.4399999976158142
+    ]
+  },
+  "anchors": {
+    "Store_1": [
+      0.0,
+      -0.42,
+      0.0
+    ],
+    "Release_1": [
+      0.0,
+      -0.42,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Body",
+      "file": "PylonHeavy__Body.obj",
+      "triangleCount": 88,
+      "objects": [
+        "Reinforcement rib",
+        "Reinforcement rib.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "PylonHeavy__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pylon",
+      "file": "PylonHeavy__Pylon.obj",
+      "triangleCount": 276,
+      "objects": [
+        "Tapered pylon casting",
+        "Pylon fitting bolt",
+        "Pylon fitting bolt.001",
+        "Pylon fitting bolt.002",
+        "Pylon fitting bolt.003",
+        "Pylon fitting bolt.004",
+        "Pylon fitting bolt.005"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "StoreInterface",
+      "file": "PylonHeavy__StoreInterface.obj",
+      "triangleCount": 220,
+      "objects": [
+        "Lower store interface",
+        "Sway brace",
+        "Sway brace.001",
+        "Store actuator cover",
+        "Store actuator cover.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

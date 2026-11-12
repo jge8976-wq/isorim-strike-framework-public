@@ -1,0 +1,201 @@
+{
+  "id": "ChinMount",
+  "defaultFile": "ChinMount.obj",
+  "triangleCount": 548,
+  "bounds": {
+    "min": [
+      -0.25,
+      -0.41999998688697815,
+      -0.3100000023841858
+    ],
+    "max": [
+      0.33500000834465027,
+      0.020999999716877937,
+      0.25
+    ]
+  },
+  "anchors": {
+    "YawPivot": [
+      0.0,
+      -0.08,
+      0.0
+    ],
+    "PitchPivot": [
+      0.0,
+      -0.31,
+      0.0
+    ],
+    "Store_1": [
+      0.0,
+      -0.31,
+      0.05
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Mount",
+      "file": "ChinMount__Mount.obj",
+      "triangleCount": 296,
+      "objects": [
+        "Mount lug",
+        "Fixed fuselage ring",
+        "Fixed ring fastener",
+        "Fixed ring fastener.001",
+        "Fixed ring fastener.002",
+        "Fixed ring fastener.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "ChinMount__Pitch.obj",
+      "triangleCount": 60,
+      "objects": [
+        "Pitch drum"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Yaw",
+      "file": "ChinMount__Yaw.obj",
+      "triangleCount": 192,
+      "objects": [
+        "Yaw motor",
+        "Elevation cheek",
+        "Elevation cheek.001",
+        "Elevation servo"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "YawPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "YawPivot": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "Yaw"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

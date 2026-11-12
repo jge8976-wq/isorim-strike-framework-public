@@ -1,0 +1,263 @@
+{
+  "id": "Cannon20",
+  "defaultFile": "Cannon20.obj",
+  "triangleCount": 1044,
+  "bounds": {
+    "min": [
+      -0.24000000953674316,
+      -0.5199999809265137,
+      -0.8299999833106995
+    ],
+    "max": [
+      0.24000000953674316,
+      0.0,
+      1.25
+    ]
+  },
+  "anchors": {
+    "Muzzle_1": [
+      0.1,
+      -0.27,
+      1.25
+    ],
+    "Muzzle_2": [
+      0.05000000000000002,
+      -0.18339745962155615,
+      1.25
+    ],
+    "Muzzle_3": [
+      -0.04999999999999998,
+      -0.18339745962155612,
+      1.25
+    ],
+    "Muzzle_4": [
+      -0.1,
+      -0.27,
+      1.25
+    ],
+    "Muzzle_5": [
+      -0.050000000000000044,
+      -0.35660254037844386,
+      1.25
+    ],
+    "Muzzle_6": [
+      0.05000000000000002,
+      -0.35660254037844386,
+      1.25
+    ],
+    "RotorPivot": [
+      0.0,
+      -0.27,
+      0.0
+    ],
+    "PitchPivot": [
+      0.0,
+      -0.28,
+      -0.2
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Mount",
+      "file": "Cannon20__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "Cannon20__Pitch.obj",
+      "triangleCount": 60,
+      "objects": [
+        "Breech rotor housing"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "PodShell",
+      "file": "Cannon20__PodShell.obj",
+      "triangleCount": 244,
+      "objects": [
+        "Pod shell",
+        "Access blister",
+        "Access blister.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rotor",
+      "file": "Cannon20__Rotor.obj",
+      "triangleCount": 696,
+      "objects": [
+        "Barrel_01",
+        "Barrel_02",
+        "Barrel_03",
+        "Barrel_04",
+        "Barrel_05",
+        "Barrel_06",
+        "Rotor barrel clamp",
+        "Rotor barrel clamp.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "RotorPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "RotorPivot": {
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "part": "Rotor"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

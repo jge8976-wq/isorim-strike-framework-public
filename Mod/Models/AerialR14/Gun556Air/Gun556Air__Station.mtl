@@ -1,0 +1,85 @@
+newmtl Brass
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.38
+Pm 0.74
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl DarkInsert
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.58
+Pm 0.18
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl MachinedEdges
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.36
+Pm 0.72
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl OlivePolymer
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.69
+Pm 0.05
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl Oxide
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.45
+Pm 0.63
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl Parkerized
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.47
+Pm 0.66
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl Receiver
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.43
+Pm 0.65
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl Stencil
+Ka 0 0 0
+Kd 1 1 1
+Ks .16 .16 .16
+Ns 25
+Pr 0.68
+Pm 0.05
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png
+
+newmtl Gun556Air_MountSteel
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_MountPalette.png
+
+newmtl Gun556Air_YawDark
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_MountPalette.png

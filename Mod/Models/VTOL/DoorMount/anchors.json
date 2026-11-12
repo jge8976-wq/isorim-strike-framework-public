@@ -1,0 +1,238 @@
+{
+  "id": "DoorMount",
+  "defaultFile": "DoorMount.obj",
+  "triangleCount": 588,
+  "bounds": {
+    "min": [
+      -0.09300000220537186,
+      -0.17000000178813934,
+      -0.3100000023841858
+    ],
+    "max": [
+      0.7399999499320984,
+      0.11500000208616257,
+      0.15000000596046448
+    ]
+  },
+  "anchors": {
+    "YawPivot": [
+      0.6,
+      -0.12,
+      0.0
+    ],
+    "PitchPivot": [
+      0.6,
+      0.06,
+      0.0
+    ],
+    "Store_1": [
+      0.6,
+      0.06,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Arm",
+      "file": "DoorMount__Arm.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Outboard support arm",
+        "Arm root gusset",
+        "Arm root gusset.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "DoorMount__Mount.obj",
+      "triangleCount": 264,
+      "objects": [
+        "Mount lug",
+        "Cabin mounting plate",
+        "Cabin plate fastener",
+        "Cabin plate fastener.001",
+        "Cabin plate fastener.002",
+        "Cabin plate fastener.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "DoorMount__Pitch.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Pitch cross pin"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Yaw",
+      "file": "DoorMount__Yaw.obj",
+      "triangleCount": 148,
+      "objects": [
+        "Yaw bearing",
+        "Yoke cheek",
+        "Yoke cheek.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "YawPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "YawPivot": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "Yaw"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

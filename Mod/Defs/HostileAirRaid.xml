@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <IncidentDef>
+    <defName>ISORIM_VTOL_HostileAirRaid</defName>
+    <label>hostile aircraft inbound</label>
+    <category>ThreatBig</category>
+    <workerClass>Isorim.Vtol.IncidentWorker_VtolAirRaid</workerClass>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <baseChance>0.15</baseChance>
+    <earliestDay>30</earliestDay>
+    <minRefireDays>5</minRefireDays>
+  </IncidentDef>
+</Defs>

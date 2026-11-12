@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTOL_AirAmmo_Gun556AirRound.label>5.56×45 毫米机载轻机枪弹药</VTOL_AirAmmo_Gun556AirRound.label>
+  <VTOL_AirAmmo_Gun556AirRound.description>对应机载武器使用。启用 CE 时使用同口径的 CE 原生弹药。</VTOL_AirAmmo_Gun556AirRound.description>
+  <VTOL_AirBullet_Gun556AirProjectile.label>5.56×45 毫米机载轻机枪弹丸</VTOL_AirBullet_Gun556AirProjectile.label>
+  <VTOL_AirAmmo_Gun76251AirRound.label>7.62×51 毫米 M240 机载机枪弹药</VTOL_AirAmmo_Gun76251AirRound.label>
+  <VTOL_AirAmmo_Gun76251AirRound.description>对应机载武器使用。启用 CE 时使用同口径的 CE 原生弹药。</VTOL_AirAmmo_Gun76251AirRound.description>
+  <VTOL_AirBullet_Gun76251AirProjectile.label>7.62×51 毫米 M240 机载机枪弹丸</VTOL_AirBullet_Gun76251AirProjectile.label>
+  <VTOL_AirAmmo_Gun76254RAirRound.label>7.62×54R 毫米 PKM 机载机枪弹药</VTOL_AirAmmo_Gun76254RAirRound.label>
+  <VTOL_AirAmmo_Gun76254RAirRound.description>对应机载武器使用。启用 CE 时使用同口径的 CE 原生弹药。</VTOL_AirAmmo_Gun76254RAirRound.description>
+  <VTOL_AirBullet_Gun76254RAirProjectile.label>7.62×54R 毫米 PKM 机载机枪弹丸</VTOL_AirBullet_Gun76254RAirProjectile.label>
+  <VTOL_AirAmmo_Shotgun12AirRound.label>12 号鹿弹</VTOL_AirAmmo_Shotgun12AirRound.label>
+  <VTOL_AirAmmo_Shotgun12AirRound.description>对应机载武器使用。启用 CE 时使用同口径的 CE 原生弹药。</VTOL_AirAmmo_Shotgun12AirRound.description>
+  <VTOL_AirBullet_Shotgun12AirProjectile.label>12 号鹿弹弹丸</VTOL_AirBullet_Shotgun12AirProjectile.label>
+</LanguageData>

@@ -1,0 +1,217 @@
+{
+  "id": "BombMedium",
+  "defaultFile": "BombMedium.obj",
+  "triangleCount": 1082,
+  "bounds": {
+    "min": [
+      -0.4659999907016754,
+      -0.7559999823570251,
+      -1.2039999961853027
+    ],
+    "max": [
+      0.4659999907016754,
+      0.17599999904632568,
+      1.2259999513626099
+    ]
+  },
+  "anchors": {
+    "Release_1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Store_1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Body",
+      "file": "BombMedium__Body.obj",
+      "triangleCount": 512,
+      "objects": [
+        "Identification band",
+        "Identification band.001",
+        "Identification band.002",
+        "Identification band.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Bomb",
+      "file": "BombMedium__Bomb.obj",
+      "triangleCount": 330,
+      "objects": [
+        "Bomb forged casing",
+        "Nose fuze cap"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "BombMedium__Mount.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Mount lug",
+        "Suspension lug",
+        "Suspension lug.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Tail",
+      "file": "BombMedium__Tail.obj",
+      "triangleCount": 108,
+      "objects": [
+        "Tail stabilizer",
+        "Tail stabilizer.001",
+        "Tail stabilizer.002",
+        "Tail stabilizer.003",
+        "Tail collar"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

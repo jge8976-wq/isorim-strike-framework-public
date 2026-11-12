@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps/li[@Class="Vehicles.CompProperties_UpgradeTree"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_UpgradeTree">
+          <def>VTOL_Upgrades_VVE_Frog</def>
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps/li[@Class="Isorim.Vtol.LoadoutProperties"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps</xpath>
+      <value>
+        <li Class="Isorim.Vtol.LoadoutProperties" />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Frog"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_VehicleTurrets">
+          <turrets />
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps/li[@Class="Vehicles.CompProperties_UpgradeTree"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_UpgradeTree">
+          <def>VTOL_Upgrades_VVE_Mosquito</def>
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps/li[@Class="Isorim.Vtol.LoadoutProperties"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps</xpath>
+      <value>
+        <li Class="Isorim.Vtol.LoadoutProperties" />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Mosquito"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_VehicleTurrets">
+          <turrets />
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps/li[@Class="Vehicles.CompProperties_UpgradeTree"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_UpgradeTree">
+          <def>VTOL_Upgrades_VVE_Smuggler</def>
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps/li[@Class="Isorim.Vtol.LoadoutProperties"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps</xpath>
+      <value>
+        <li Class="Isorim.Vtol.LoadoutProperties" />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Smuggler"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_VehicleTurrets">
+          <turrets />
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps/li[@Class="Vehicles.CompProperties_UpgradeTree"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_UpgradeTree">
+          <def>VTOL_Upgrades_VVE_Toad</def>
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps/li[@Class="Isorim.Vtol.LoadoutProperties"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps</xpath>
+      <value>
+        <li Class="Isorim.Vtol.LoadoutProperties" />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Toad"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_VehicleTurrets">
+          <turrets />
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps/li[@Class="Vehicles.CompProperties_UpgradeTree"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_UpgradeTree">
+          <def>VTOL_Upgrades_VVE_Warbird</def>
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps/li[@Class="Isorim.Vtol.LoadoutProperties"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps</xpath>
+      <value>
+        <li Class="Isorim.Vtol.LoadoutProperties" />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]/turrets/li[starts-with(key,"FPS_AirLoadout_") or starts-with(key,"FPS_AirTrial")]</xpath>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps/li[@Class="Vehicles.CompProperties_VehicleTurrets"]</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/Vehicles.VehicleDef[defName="VVE_Warbird"]/comps</xpath>
+      <value>
+        <li Class="Vehicles.CompProperties_VehicleTurrets">
+          <turrets />
+        </li>
+      </value>
+    </nomatch>
+  </Operation>
+</Patch>

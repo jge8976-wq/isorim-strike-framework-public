@@ -1,0 +1,234 @@
+{
+  "id": "Cannon30",
+  "defaultFile": "Cannon30.obj",
+  "triangleCount": 512,
+  "bounds": {
+    "min": [
+      -0.4100000262260437,
+      -0.42000001668930054,
+      -0.6050000190734863
+    ],
+    "max": [
+      0.2849999964237213,
+      0.0,
+      1.100000023841858
+    ]
+  },
+  "anchors": {
+    "YawPivot": [
+      0.0,
+      -0.08,
+      -0.16
+    ],
+    "PitchPivot": [
+      0.0,
+      -0.28,
+      -0.25
+    ],
+    "Muzzle_1": [
+      0.0,
+      -0.28,
+      1.1
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "FeedBox",
+      "file": "Cannon30__FeedBox.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Feed cassette"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "Cannon30__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "Cannon30__Pitch.obj",
+      "triangleCount": 364,
+      "objects": [
+        "Chain gun receiver",
+        "Single cannon barrel",
+        "Barrel cooling collar",
+        "Chain drive housing",
+        "Elevation trunnion",
+        "Elevation trunnion.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Yaw",
+      "file": "Cannon30__Yaw.obj",
+      "triangleCount": 60,
+      "objects": [
+        "Yaw turntable"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "YawPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "YawPivot": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "Yaw"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

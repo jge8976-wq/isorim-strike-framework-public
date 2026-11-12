@@ -1,0 +1,1096 @@
+{
+  "id": "Rocket70Nineteen",
+  "defaultFile": "Rocket70Nineteen.obj",
+  "triangleCount": 2580,
+  "bounds": {
+    "min": [
+      -0.4526999890804291,
+      -0.9726999998092651,
+      -0.8525000214576721
+    ],
+    "max": [
+      0.4526999890804291,
+      0.0,
+      0.7095000147819519
+    ]
+  },
+  "anchors": {
+    "Muzzle_1": [
+      0.0,
+      -0.52,
+      0.7125
+    ],
+    "Release_1": [
+      0.0,
+      -0.52,
+      0.4975
+    ],
+    "Muzzle_2": [
+      0.159,
+      -0.52,
+      0.7125
+    ],
+    "Release_2": [
+      0.159,
+      -0.52,
+      0.4975
+    ],
+    "Muzzle_3": [
+      0.07950000000000002,
+      -0.3823019607982743,
+      0.7125
+    ],
+    "Release_3": [
+      0.07950000000000002,
+      -0.3823019607982743,
+      0.4975
+    ],
+    "Muzzle_4": [
+      -0.07949999999999996,
+      -0.3823019607982743,
+      0.7125
+    ],
+    "Release_4": [
+      -0.07949999999999996,
+      -0.3823019607982743,
+      0.4975
+    ],
+    "Muzzle_5": [
+      -0.159,
+      -0.52,
+      0.7125
+    ],
+    "Release_5": [
+      -0.159,
+      -0.52,
+      0.4975
+    ],
+    "Muzzle_6": [
+      -0.07950000000000007,
+      -0.6576980392017258,
+      0.7125
+    ],
+    "Release_6": [
+      -0.07950000000000007,
+      -0.6576980392017258,
+      0.4975
+    ],
+    "Muzzle_7": [
+      0.07950000000000002,
+      -0.6576980392017258,
+      0.7125
+    ],
+    "Release_7": [
+      0.07950000000000002,
+      -0.6576980392017258,
+      0.4975
+    ],
+    "Muzzle_8": [
+      0.30374999999999996,
+      -0.52,
+      0.7125
+    ],
+    "Release_8": [
+      0.30374999999999996,
+      -0.52,
+      0.4975
+    ],
+    "Muzzle_9": [
+      0.26305521639952323,
+      -0.36812500000000004,
+      0.7125
+    ],
+    "Release_9": [
+      0.26305521639952323,
+      -0.36812500000000004,
+      0.4975
+    ],
+    "Muzzle_10": [
+      0.151875,
+      -0.25694478360047684,
+      0.7125
+    ],
+    "Release_10": [
+      0.151875,
+      -0.25694478360047684,
+      0.4975
+    ],
+    "Muzzle_11": [
+      1.8599323262050424e-17,
+      -0.21625000000000005,
+      0.7125
+    ],
+    "Release_11": [
+      1.8599323262050424e-17,
+      -0.21625000000000005,
+      0.4975
+    ],
+    "Muzzle_12": [
+      -0.15187499999999993,
+      -0.2569447836004768,
+      0.7125
+    ],
+    "Release_12": [
+      -0.15187499999999993,
+      -0.2569447836004768,
+      0.4975
+    ],
+    "Muzzle_13": [
+      -0.26305521639952323,
+      -0.36812500000000004,
+      0.7125
+    ],
+    "Release_13": [
+      -0.26305521639952323,
+      -0.36812500000000004,
+      0.4975
+    ],
+    "Muzzle_14": [
+      -0.30374999999999996,
+      -0.52,
+      0.7125
+    ],
+    "Release_14": [
+      -0.30374999999999996,
+      -0.52,
+      0.4975
+    ],
+    "Muzzle_15": [
+      -0.2630552163995233,
+      -0.6718749999999999,
+      0.7125
+    ],
+    "Release_15": [
+      -0.2630552163995233,
+      -0.6718749999999999,
+      0.4975
+    ],
+    "Muzzle_16": [
+      -0.15187500000000012,
+      -0.7830552163995232,
+      0.7125
+    ],
+    "Release_16": [
+      -0.15187500000000012,
+      -0.7830552163995232,
+      0.4975
+    ],
+    "Muzzle_17": [
+      -5.579796978615127e-17,
+      -0.82375,
+      0.7125
+    ],
+    "Release_17": [
+      -5.579796978615127e-17,
+      -0.82375,
+      0.4975
+    ],
+    "Muzzle_18": [
+      0.151875,
+      -0.7830552163995232,
+      0.7125
+    ],
+    "Release_18": [
+      0.151875,
+      -0.7830552163995232,
+      0.4975
+    ],
+    "Muzzle_19": [
+      0.2630552163995231,
+      -0.6718750000000001,
+      0.7125
+    ],
+    "Release_19": [
+      0.2630552163995231,
+      -0.6718750000000001,
+      0.4975
+    ],
+    "Store_1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "EndCap",
+      "file": "Rocket70Nineteen__EndCap.obj",
+      "triangleCount": 46,
+      "objects": [
+        "Rear bulkhead"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "Rocket70Nineteen__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "PodShell",
+      "file": "Rocket70Nineteen__PodShell.obj",
+      "triangleCount": 400,
+      "objects": [
+        "Pod aerodynamic outer shell",
+        "Identification band",
+        "Identification band.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_01",
+      "file": "Rocket70Nineteen__Round_01.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_01"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_02",
+      "file": "Rocket70Nineteen__Round_02.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_02"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_03",
+      "file": "Rocket70Nineteen__Round_03.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_03"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_04",
+      "file": "Rocket70Nineteen__Round_04.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_04"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_05",
+      "file": "Rocket70Nineteen__Round_05.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_05"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_06",
+      "file": "Rocket70Nineteen__Round_06.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_06"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_07",
+      "file": "Rocket70Nineteen__Round_07.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_07"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_08",
+      "file": "Rocket70Nineteen__Round_08.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_08"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_09",
+      "file": "Rocket70Nineteen__Round_09.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_09"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_10",
+      "file": "Rocket70Nineteen__Round_10.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_10"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_11",
+      "file": "Rocket70Nineteen__Round_11.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_11"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_12",
+      "file": "Rocket70Nineteen__Round_12.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_12"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_13",
+      "file": "Rocket70Nineteen__Round_13.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_13"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_14",
+      "file": "Rocket70Nineteen__Round_14.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_14"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_15",
+      "file": "Rocket70Nineteen__Round_15.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_15"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_16",
+      "file": "Rocket70Nineteen__Round_16.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_16"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_17",
+      "file": "Rocket70Nineteen__Round_17.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_17"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_18",
+      "file": "Rocket70Nineteen__Round_18.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_18"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Round_19",
+      "file": "Rocket70Nineteen__Round_19.obj",
+      "triangleCount": 30,
+      "objects": [
+        "Round_19"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "TubeLiners",
+      "file": "Rocket70Nineteen__TubeLiners.obj",
+      "triangleCount": 1520,
+      "objects": [
+        "Tube_01",
+        "Tube_02",
+        "Tube_03",
+        "Tube_04",
+        "Tube_05",
+        "Tube_06",
+        "Tube_07",
+        "Tube_08",
+        "Tube_09",
+        "Tube_10",
+        "Tube_11",
+        "Tube_12",
+        "Tube_13",
+        "Tube_14",
+        "Tube_15",
+        "Tube_16",
+        "Tube_17",
+        "Tube_18",
+        "Tube_19"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

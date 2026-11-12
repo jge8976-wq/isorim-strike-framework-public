@@ -1,0 +1,181 @@
+{
+  "id": "PylonLight",
+  "defaultFile": "PylonLight.obj",
+  "triangleCount": 540,
+  "bounds": {
+    "min": [
+      -0.15600000321865082,
+      -0.29999998211860657,
+      -0.3100000023841858
+    ],
+    "max": [
+      0.15600000321865082,
+      0.0,
+      0.3100000023841858
+    ]
+  },
+  "anchors": {
+    "Store_1": [
+      0.0,
+      -0.3,
+      0.0
+    ],
+    "Release_1": [
+      0.0,
+      -0.3,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Mount",
+      "file": "PylonLight__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pylon",
+      "file": "PylonLight__Pylon.obj",
+      "triangleCount": 276,
+      "objects": [
+        "Tapered pylon casting",
+        "Pylon fitting bolt",
+        "Pylon fitting bolt.001",
+        "Pylon fitting bolt.002",
+        "Pylon fitting bolt.003",
+        "Pylon fitting bolt.004",
+        "Pylon fitting bolt.005"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "StoreInterface",
+      "file": "PylonLight__StoreInterface.obj",
+      "triangleCount": 220,
+      "objects": [
+        "Lower store interface",
+        "Sway brace",
+        "Sway brace.001",
+        "Store actuator cover",
+        "Store actuator cover.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

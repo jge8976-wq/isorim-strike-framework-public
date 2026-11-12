@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTOL_Upgrades_VVE_Frog.nodes.0.label>轻型挂架 1</VTOL_Upgrades_VVE_Frog.nodes.0.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.0.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Frog.nodes.0.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.1.label>7.62毫米机枪</VTOL_Upgrades_VVE_Frog.nodes.1.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.1.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Frog.nodes.1.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.2.label>轻型挂架 2</VTOL_Upgrades_VVE_Frog.nodes.2.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.2.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Frog.nodes.2.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.3.label>40毫米榴弹发射器</VTOL_Upgrades_VVE_Frog.nodes.3.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.3.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Frog.nodes.3.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.4.label>轻型挂架 4</VTOL_Upgrades_VVE_Frog.nodes.4.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.4.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Frog.nodes.4.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.5.label>制导导弹发射器</VTOL_Upgrades_VVE_Frog.nodes.5.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.5.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Frog.nodes.5.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.0.label>机腹武器安装座 1</VTOL_Upgrades_VVE_Mosquito.nodes.0.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.0.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Mosquito.nodes.0.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.1.label>30毫米机炮</VTOL_Upgrades_VVE_Mosquito.nodes.1.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.1.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Mosquito.nodes.1.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.2.label>轻型挂架 2</VTOL_Upgrades_VVE_Mosquito.nodes.2.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.2.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Mosquito.nodes.2.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.3.label>70毫米火箭巢</VTOL_Upgrades_VVE_Mosquito.nodes.3.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.3.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Mosquito.nodes.3.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.4.label>轻型挂架 4</VTOL_Upgrades_VVE_Mosquito.nodes.4.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.4.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Mosquito.nodes.4.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.5.label>制导导弹发射器</VTOL_Upgrades_VVE_Mosquito.nodes.5.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.5.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Mosquito.nodes.5.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.0.label>轻型挂架 1</VTOL_Upgrades_VVE_Smuggler.nodes.0.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.0.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Smuggler.nodes.0.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.1.label>12.7毫米重机枪</VTOL_Upgrades_VVE_Smuggler.nodes.1.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.1.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Smuggler.nodes.1.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.2.label>轻型挂架 2</VTOL_Upgrades_VVE_Smuggler.nodes.2.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.2.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Smuggler.nodes.2.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.3.label>40毫米榴弹发射器</VTOL_Upgrades_VVE_Smuggler.nodes.3.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.3.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Smuggler.nodes.3.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.4.label>轻型挂架 4</VTOL_Upgrades_VVE_Smuggler.nodes.4.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.4.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Smuggler.nodes.4.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.5.label>制导导弹发射器</VTOL_Upgrades_VVE_Smuggler.nodes.5.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.5.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Smuggler.nodes.5.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.0.label>轻型挂架 1</VTOL_Upgrades_VVE_Toad.nodes.0.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.0.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Toad.nodes.0.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.1.label>12.7毫米重机枪</VTOL_Upgrades_VVE_Toad.nodes.1.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.1.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Toad.nodes.1.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.2.label>轻型挂架 2</VTOL_Upgrades_VVE_Toad.nodes.2.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.2.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Toad.nodes.2.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.3.label>70毫米火箭巢</VTOL_Upgrades_VVE_Toad.nodes.3.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.3.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Toad.nodes.3.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.4.label>轻型挂架 4</VTOL_Upgrades_VVE_Toad.nodes.4.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.4.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Toad.nodes.4.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.5.label>制导导弹发射器</VTOL_Upgrades_VVE_Toad.nodes.5.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.5.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Toad.nodes.5.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.0.label>轻型挂架 1</VTOL_Upgrades_VVE_Warbird.nodes.0.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.0.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Warbird.nodes.0.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.1.label>20毫米转管机炮</VTOL_Upgrades_VVE_Warbird.nodes.1.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.1.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Warbird.nodes.1.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.2.label>轻型挂架 2</VTOL_Upgrades_VVE_Warbird.nodes.2.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.2.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Warbird.nodes.2.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.3.label>80毫米火箭巢</VTOL_Upgrades_VVE_Warbird.nodes.3.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.3.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Warbird.nodes.3.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.4.label>轻型挂架 3</VTOL_Upgrades_VVE_Warbird.nodes.4.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.4.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Warbird.nodes.4.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.5.label>航空炸弹挂架</VTOL_Upgrades_VVE_Warbird.nodes.5.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.5.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Warbird.nodes.5.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.6.label>轻型挂架 4</VTOL_Upgrades_VVE_Warbird.nodes.6.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.6.description>先施工安装挂架或安装座，不附送武器和弹药。</VTOL_Upgrades_VVE_Warbird.nodes.6.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.7.label>制导导弹发射器</VTOL_Upgrades_VVE_Warbird.nodes.7.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.7.description>先完成对应安装座，再搬运材料施工。改装完成后才安装武器并显示开火按钮；弹药另行装填。</VTOL_Upgrades_VVE_Warbird.nodes.7.description>
+</LanguageData>

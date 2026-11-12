@@ -1,0 +1,357 @@
+<Defs>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Gun762</defName>
+    <label>7.62mm aircraft gun</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Gun762</assetId>
+    <category>Gun</category>
+    <sizeClass>1</sizeClass>
+    <capacity>100</capacity>
+    <steelPerBatch>10</steelPerBatch>
+    <chemfuelPerBatch>2</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_762x51mmNATO</ceAmmoSet>
+    <stations>
+      <li>Nose</li>
+      <li>Door</li>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+      <li>PodSide</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Gun127</defName>
+    <label>12.7mm aircraft gun</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Gun127</assetId>
+    <category>Gun</category>
+    <sizeClass>1</sizeClass>
+    <capacity>100</capacity>
+    <steelPerBatch>15</steelPerBatch>
+    <chemfuelPerBatch>3</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_50BMG</ceAmmoSet>
+    <stations>
+      <li>Nose</li>
+      <li>Door</li>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+      <li>PodSide</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Minigun762</defName>
+    <label>7.62mm minigun</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Minigun762</assetId>
+    <category>Gun</category>
+    <sizeClass>1</sizeClass>
+    <capacity>200</capacity>
+    <steelPerBatch>20</steelPerBatch>
+    <chemfuelPerBatch>4</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_762x51mmNATO</ceAmmoSet>
+    <stations>
+      <li>Nose</li>
+      <li>Door</li>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Rotary127</defName>
+    <label>12.7mm rotary gun pod</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Rotary127</assetId>
+    <category>Gun</category>
+    <sizeClass>2</sizeClass>
+    <capacity>150</capacity>
+    <steelPerBatch>24</steelPerBatch>
+    <chemfuelPerBatch>5</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_50BMG</ceAmmoSet>
+    <stations>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Cannon20</defName>
+    <label>20mm rotary cannon pod</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Cannon20</assetId>
+    <category>Cannon</category>
+    <sizeClass>2</sizeClass>
+    <capacity>100</capacity>
+    <steelPerBatch>20</steelPerBatch>
+    <chemfuelPerBatch>8</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_20x102mmNATO</ceAmmoSet>
+    <stations>
+      <li>Nose</li>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Cannon30</defName>
+    <label>30mm chain cannon</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Cannon30</assetId>
+    <category>Cannon</category>
+    <sizeClass>2</sizeClass>
+    <capacity>60</capacity>
+    <steelPerBatch>24</steelPerBatch>
+    <chemfuelPerBatch>10</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_30x113mmB</ceAmmoSet>
+    <stations>
+      <li>Chin</li>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Grenade40</defName>
+    <label>40mm grenade launcher pod</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Grenade40</assetId>
+    <category>Grenade</category>
+    <sizeClass>1</sizeClass>
+    <capacity>12</capacity>
+    <steelPerBatch>12</steelPerBatch>
+    <chemfuelPerBatch>6</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_40x53mmGrenade</ceAmmoSet>
+    <stations>
+      <li>Door</li>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+      <li>PodSide</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Rocket70Seven</defName>
+    <label>70mm seven-tube pod</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Rocket70Seven</assetId>
+    <category>Rocket</category>
+    <sizeClass>1</sizeClass>
+    <capacity>7</capacity>
+    <steelPerBatch>14</steelPerBatch>
+    <chemfuelPerBatch>7</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_70mmAPKWS</ceAmmoSet>
+    <stations>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+      <li>PodSide</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Rocket70Nineteen</defName>
+    <label>70mm nineteen-tube pod</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Rocket70Nineteen</assetId>
+    <category>Rocket</category>
+    <sizeClass>2</sizeClass>
+    <capacity>19</capacity>
+    <steelPerBatch>38</steelPerBatch>
+    <chemfuelPerBatch>19</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_70mmAPKWS</ceAmmoSet>
+    <stations>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Rocket80Twenty</defName>
+    <label>80mm twenty-tube pod</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Rocket80Twenty</assetId>
+    <category>Rocket</category>
+    <sizeClass>3</sizeClass>
+    <capacity>20</capacity>
+    <steelPerBatch>60</steelPerBatch>
+    <chemfuelPerBatch>30</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_80mmRocket_direct</ceAmmoSet>
+    <stations>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_Rocket57Sixteen</defName>
+    <label>57mm sixteen-tube pod</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>Rocket57Sixteen</assetId>
+    <category>Rocket</category>
+    <sizeClass>2</sizeClass>
+    <capacity>16</capacity>
+    <steelPerBatch>24</steelPerBatch>
+    <chemfuelPerBatch>12</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_57mmRocket_direct</ceAmmoSet>
+    <stations>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_MissileATSingle</defName>
+    <label>Single anti-armor missile rack</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>MissileATSingle</assetId>
+    <category>Missile</category>
+    <sizeClass>2</sizeClass>
+    <capacity>1</capacity>
+    <steelPerBatch>16</steelPerBatch>
+    <chemfuelPerBatch>8</chemfuelPerBatch>
+    <guidanceRequired>true</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_BGM71</ceAmmoSet>
+    <stations>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+      <li>PodSide</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_MissileATQuad</defName>
+    <label>Quad anti-armor missile rack</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>MissileATQuad</assetId>
+    <category>Missile</category>
+    <sizeClass>3</sizeClass>
+    <capacity>4</capacity>
+    <steelPerBatch>64</steelPerBatch>
+    <chemfuelPerBatch>32</chemfuelPerBatch>
+    <guidanceRequired>true</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_BGM71</ceAmmoSet>
+    <stations>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_MissileAArail</defName>
+    <label>Short-range air-to-air missile rail</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>MissileAArail</assetId>
+    <category>Missile</category>
+    <sizeClass>2</sizeClass>
+    <capacity>1</capacity>
+    <steelPerBatch>18</steelPerBatch>
+    <chemfuelPerBatch>10</chemfuelPerBatch>
+    <guidanceRequired>true</guidanceRequired>
+    <dropRequired>false</dropRequired>
+    <artReady>false</artReady>
+    <stations>
+      <li>Wingtip</li>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_BombLight</defName>
+    <label>Light gravity bomb</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>BombLight</assetId>
+    <category>Bomb</category>
+    <sizeClass>1</sizeClass>
+    <capacity>1</capacity>
+    <steelPerBatch>0</steelPerBatch>
+    <chemfuelPerBatch>0</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>true</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_81mmMortarShell</ceAmmoSet>
+    <vanillaShell>Shell_HighExplosive</vanillaShell>
+    <stations>
+      <li>LightPylon</li>
+      <li>HeavyPylon</li>
+      <li>BombBay</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_BombMedium</defName>
+    <label>Medium gravity bomb</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>BombMedium</assetId>
+    <category>Bomb</category>
+    <sizeClass>2</sizeClass>
+    <capacity>1</capacity>
+    <steelPerBatch>0</steelPerBatch>
+    <chemfuelPerBatch>0</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>true</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_81mmMortarShell</ceAmmoSet>
+    <vanillaShell>Shell_HighExplosive</vanillaShell>
+    <stations>
+      <li>HeavyPylon</li>
+      <li>BombBay</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_BombHeavy</defName>
+    <label>Heavy gravity bomb</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>BombHeavy</assetId>
+    <category>Bomb</category>
+    <sizeClass>3</sizeClass>
+    <capacity>1</capacity>
+    <steelPerBatch>0</steelPerBatch>
+    <chemfuelPerBatch>0</chemfuelPerBatch>
+    <guidanceRequired>false</guidanceRequired>
+    <dropRequired>true</dropRequired>
+    <artReady>false</artReady>
+    <ceAmmoSet>AmmoSet_81mmMortarShell</ceAmmoSet>
+    <vanillaShell>Shell_HighExplosive</vanillaShell>
+    <stations>
+      <li>HeavyPylon</li>
+      <li>BombBay</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+  <Isorim.Vtol.VtolModuleDef>
+    <defName>FPSVTOL_BombGlide</defName>
+    <label>Glide bomb</label>
+    <description>Development catalog. Requires accepted model, calibrated mount and a gameplay adapter before installation.</description>
+    <assetId>BombGlide</assetId>
+    <category>Bomb</category>
+    <sizeClass>3</sizeClass>
+    <capacity>1</capacity>
+    <steelPerBatch>0</steelPerBatch>
+    <chemfuelPerBatch>0</chemfuelPerBatch>
+    <guidanceRequired>true</guidanceRequired>
+    <dropRequired>true</dropRequired>
+    <artReady>false</artReady>
+    <vanillaShell>Shell_HighExplosive</vanillaShell>
+    <stations>
+      <li>HeavyPylon</li>
+      <li>BombBay</li>
+    </stations>
+  </Isorim.Vtol.VtolModuleDef>
+</Defs>

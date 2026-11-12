@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>VTOL_AirAmmo_Gun556AirRound</defName>
+    <label>5.56x45mm airborne light machine gun ammunition</label>
+    <description>Ammunition for the matching aircraft mount. With Combat Extended, use native ammunition of the same caliber.</description>
+    <stackLimit>500</stackLimit>
+    <projectileWhenLoaded>VTOL_AirBullet_Gun556AirProjectile</projectileWhenLoaded>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Gun556Air</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <Mass>0.012</Mass>
+      <MarketValue>1</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>VTOL_AirBullet_Gun556AirProjectile</defName>
+    <label>5.56x45mm airborne light machine gun projectile</label>
+    <thingClass>Bullet</thingClass>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>10</damageAmountBase>
+      <armorPenetrationBase>0.15</armorPenetrationBase>
+      <speed>180</speed>
+    </projectile>
+  </ThingDef>
+  <Vehicles.VehicleTurretDef ParentName="VehicleTurretBase">
+    <defName>VTOL_Air_Gun556Air</defName>
+    <label>5.56x45mm airborne light machine gun</label>
+    <description>Mounts on a compatible aircraft hardpoint. AI attack range: 48 tiles. Raid cost: 160 points.</description>
+    <turretType>Rotatable</turretType>
+    <projectile>VTOL_AirBullet_Gun556AirProjectile</projectile>
+    <warmUpTimer>0</warmUpTimer>
+    <rotationSpeed>80</rotationSpeed>
+    <reloadTimer>2.6</reloadTimer>
+    <magazineCapacity>80</magazineCapacity>
+    <chargePerAmmoCount>1</chargePerAmmoCount>
+    <genericAmmo>true</genericAmmo>
+    <autoSnapTargeting>false</autoSnapTargeting>
+    <projectileOffset>1.2</projectileOffset>
+    <maxRange>48</maxRange>
+    <minRange>0</minRange>
+    <shotSound>Shot_AssaultRifle</shotSound>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Gun556Air</texPath>
+      <graphicClass>Vehicles.Graphic_Turret</graphicClass>
+      <drawSize>(0.6,0.6)</drawSize>
+    </graphicData>
+    <ammunition>
+      <thingDefs>
+        <li>VTOL_AirAmmo_Gun556AirRound</li>
+      </thingDefs>
+    </ammunition>
+    <fireModes>
+      <li>
+        <shotsPerBurst>9</shotsPerBurst>
+        <ticksBetweenShots>5</ticksBetweenShots>
+        <ticksBetweenBursts>8</ticksBetweenBursts>
+        <spreadRadius>0</spreadRadius>
+        <label>Automatic</label>
+        <texPath>UI/Gizmos/FireRate_Single</texPath>
+      </li>
+    </fireModes>
+    <modExtensions>
+      <li Class="Isorim.Vtol.WeaponExtension">
+        <kind>Gun</kind>
+        <raidPoints>160</raidPoints>
+        <quickFire>true</quickFire>
+        <mountFraction>(-0.55,0.55,0.7)</mountFraction>
+        <barrels>1</barrels>
+        <barrelRadius>0.07</barrelRadius>
+        <barrelLength>0.65</barrelLength>
+        <scopeTemplate>MachineGun</scopeTemplate>
+        <ceAmmoSet>AmmoSet_556x45mmNATO</ceAmmoSet>
+        <aiRange>48</aiRange>
+      </li>
+    </modExtensions>
+    <gizmoIconTexPath>UI/FPSVTOL/ModelIconsR1/Gun556Air</gizmoIconTexPath>
+  </Vehicles.VehicleTurretDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>VTOL_AirAmmo_Gun76251AirRound</defName>
+    <label>7.62x51mm airborne M240 ammunition</label>
+    <description>Ammunition for the matching aircraft mount. With Combat Extended, use native ammunition of the same caliber.</description>
+    <stackLimit>500</stackLimit>
+    <projectileWhenLoaded>VTOL_AirBullet_Gun76251AirProjectile</projectileWhenLoaded>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Gun76251Air</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <Mass>0.025</Mass>
+      <MarketValue>1</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>VTOL_AirBullet_Gun76251AirProjectile</defName>
+    <label>7.62x51mm airborne M240 projectile</label>
+    <thingClass>Bullet</thingClass>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>13</damageAmountBase>
+      <armorPenetrationBase>0.22</armorPenetrationBase>
+      <speed>190</speed>
+    </projectile>
+  </ThingDef>
+  <Vehicles.VehicleTurretDef ParentName="VehicleTurretBase">
+    <defName>VTOL_Air_Gun76251Air</defName>
+    <label>7.62x51mm airborne M240</label>
+    <description>Mounts on a compatible aircraft hardpoint. AI attack range: 58 tiles. Raid cost: 240 points.</description>
+    <turretType>Rotatable</turretType>
+    <projectile>VTOL_AirBullet_Gun76251AirProjectile</projectile>
+    <warmUpTimer>0</warmUpTimer>
+    <rotationSpeed>80</rotationSpeed>
+    <reloadTimer>3.2</reloadTimer>
+    <magazineCapacity>120</magazineCapacity>
+    <chargePerAmmoCount>1</chargePerAmmoCount>
+    <genericAmmo>true</genericAmmo>
+    <autoSnapTargeting>false</autoSnapTargeting>
+    <projectileOffset>1.2</projectileOffset>
+    <maxRange>58</maxRange>
+    <minRange>0</minRange>
+    <shotSound>Shot_AssaultRifle</shotSound>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Gun76251Air</texPath>
+      <graphicClass>Vehicles.Graphic_Turret</graphicClass>
+      <drawSize>(0.6,0.6)</drawSize>
+    </graphicData>
+    <ammunition>
+      <thingDefs>
+        <li>VTOL_AirAmmo_Gun76251AirRound</li>
+      </thingDefs>
+    </ammunition>
+    <fireModes>
+      <li>
+        <shotsPerBurst>10</shotsPerBurst>
+        <ticksBetweenShots>6</ticksBetweenShots>
+        <ticksBetweenBursts>9</ticksBetweenBursts>
+        <spreadRadius>0</spreadRadius>
+        <label>Automatic</label>
+        <texPath>UI/Gizmos/FireRate_Single</texPath>
+      </li>
+    </fireModes>
+    <modExtensions>
+      <li Class="Isorim.Vtol.WeaponExtension">
+        <kind>Gun</kind>
+        <raidPoints>240</raidPoints>
+        <quickFire>true</quickFire>
+        <mountFraction>(-0.55,0.55,0.7)</mountFraction>
+        <barrels>1</barrels>
+        <barrelRadius>0.07</barrelRadius>
+        <barrelLength>0.65</barrelLength>
+        <scopeTemplate>MachineGun</scopeTemplate>
+        <ceAmmoSet>AmmoSet_762x51mmNATO</ceAmmoSet>
+        <aiRange>58</aiRange>
+      </li>
+    </modExtensions>
+    <gizmoIconTexPath>UI/FPSVTOL/ModelIconsR1/Gun76251Air</gizmoIconTexPath>
+  </Vehicles.VehicleTurretDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>VTOL_AirAmmo_Gun76254RAirRound</defName>
+    <label>7.62x54R airborne PKM ammunition</label>
+    <description>Ammunition for the matching aircraft mount. With Combat Extended, use native ammunition of the same caliber.</description>
+    <stackLimit>500</stackLimit>
+    <projectileWhenLoaded>VTOL_AirBullet_Gun76254RAirProjectile</projectileWhenLoaded>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Gun76254RAir</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <Mass>0.025</Mass>
+      <MarketValue>1</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>VTOL_AirBullet_Gun76254RAirProjectile</defName>
+    <label>7.62x54R airborne PKM projectile</label>
+    <thingClass>Bullet</thingClass>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>15</damageAmountBase>
+      <armorPenetrationBase>0.24</armorPenetrationBase>
+      <speed>190</speed>
+    </projectile>
+  </ThingDef>
+  <Vehicles.VehicleTurretDef ParentName="VehicleTurretBase">
+    <defName>VTOL_Air_Gun76254RAir</defName>
+    <label>7.62x54R airborne PKM</label>
+    <description>Mounts on a compatible aircraft hardpoint. AI attack range: 62 tiles. Raid cost: 270 points.</description>
+    <turretType>Rotatable</turretType>
+    <projectile>VTOL_AirBullet_Gun76254RAirProjectile</projectile>
+    <warmUpTimer>0</warmUpTimer>
+    <rotationSpeed>80</rotationSpeed>
+    <reloadTimer>3.3</reloadTimer>
+    <magazineCapacity>100</magazineCapacity>
+    <chargePerAmmoCount>1</chargePerAmmoCount>
+    <genericAmmo>true</genericAmmo>
+    <autoSnapTargeting>false</autoSnapTargeting>
+    <projectileOffset>1.2</projectileOffset>
+    <maxRange>62</maxRange>
+    <minRange>0</minRange>
+    <shotSound>Shot_AssaultRifle</shotSound>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Gun76254RAir</texPath>
+      <graphicClass>Vehicles.Graphic_Turret</graphicClass>
+      <drawSize>(0.6,0.6)</drawSize>
+    </graphicData>
+    <ammunition>
+      <thingDefs>
+        <li>VTOL_AirAmmo_Gun76254RAirRound</li>
+      </thingDefs>
+    </ammunition>
+    <fireModes>
+      <li>
+        <shotsPerBurst>10</shotsPerBurst>
+        <ticksBetweenShots>5</ticksBetweenShots>
+        <ticksBetweenBursts>9</ticksBetweenBursts>
+        <spreadRadius>0</spreadRadius>
+        <label>Automatic</label>
+        <texPath>UI/Gizmos/FireRate_Single</texPath>
+      </li>
+    </fireModes>
+    <modExtensions>
+      <li Class="Isorim.Vtol.WeaponExtension">
+        <kind>Gun</kind>
+        <raidPoints>270</raidPoints>
+        <quickFire>true</quickFire>
+        <mountFraction>(-0.55,0.55,0.7)</mountFraction>
+        <barrels>1</barrels>
+        <barrelRadius>0.07</barrelRadius>
+        <barrelLength>0.65</barrelLength>
+        <scopeTemplate>MachineGun</scopeTemplate>
+        <ceAmmoSet>AmmoSet_762x54mmR</ceAmmoSet>
+        <aiRange>62</aiRange>
+      </li>
+    </modExtensions>
+    <gizmoIconTexPath>UI/FPSVTOL/ModelIconsR1/Gun76254RAir</gizmoIconTexPath>
+  </Vehicles.VehicleTurretDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>VTOL_AirAmmo_Shotgun12AirRound</defName>
+    <label>12-gauge buckshot shells</label>
+    <description>Ammunition for the matching aircraft mount. With Combat Extended, use native ammunition of the same caliber.</description>
+    <stackLimit>125</stackLimit>
+    <projectileWhenLoaded>VTOL_AirBullet_Shotgun12AirProjectile</projectileWhenLoaded>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Shotgun12Air</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <Mass>0.046</Mass>
+      <MarketValue>2</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>VTOL_AirBullet_Shotgun12AirProjectile</defName>
+    <label>12-gauge buckshot pellet</label>
+    <thingClass>Isorim.Vtol.AircraftBuckshot</thingClass>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>4</damageAmountBase>
+      <armorPenetrationBase>0.09</armorPenetrationBase>
+      <speed>95</speed>
+    </projectile>
+  </ThingDef>
+  <Vehicles.VehicleTurretDef ParentName="VehicleTurretBase">
+    <defName>VTOL_Air_Shotgun12Air</defName>
+    <label>12-gauge airborne automatic shotgun</label>
+    <description>Mounts on a compatible aircraft hardpoint. AI attack range: 24 tiles. Raid cost: 195 points.</description>
+    <turretType>Rotatable</turretType>
+    <projectile>VTOL_AirBullet_Shotgun12AirProjectile</projectile>
+    <warmUpTimer>0</warmUpTimer>
+    <rotationSpeed>80</rotationSpeed>
+    <reloadTimer>2.7</reloadTimer>
+    <magazineCapacity>16</magazineCapacity>
+    <chargePerAmmoCount>1</chargePerAmmoCount>
+    <genericAmmo>true</genericAmmo>
+    <autoSnapTargeting>false</autoSnapTargeting>
+    <projectileOffset>1.2</projectileOffset>
+    <maxRange>24</maxRange>
+    <minRange>0</minRange>
+    <shotSound>Shot_Shotgun</shotSound>
+    <graphicData>
+      <texPath>UI/FPSVTOL/ModelIconsR1/Shotgun12Air</texPath>
+      <graphicClass>Vehicles.Graphic_Turret</graphicClass>
+      <drawSize>(0.6,0.6)</drawSize>
+    </graphicData>
+    <ammunition>
+      <thingDefs>
+        <li>VTOL_AirAmmo_Shotgun12AirRound</li>
+      </thingDefs>
+    </ammunition>
+    <fireModes>
+      <li>
+        <shotsPerBurst>3</shotsPerBurst>
+        <ticksBetweenShots>12</ticksBetweenShots>
+        <ticksBetweenBursts>20</ticksBetweenBursts>
+        <spreadRadius>0</spreadRadius>
+        <label>Automatic</label>
+        <texPath>UI/Gizmos/FireRate_Single</texPath>
+      </li>
+    </fireModes>
+    <modExtensions>
+      <li Class="Isorim.Vtol.WeaponExtension">
+        <kind>Gun</kind>
+        <raidPoints>195</raidPoints>
+        <quickFire>true</quickFire>
+        <mountFraction>(-0.55,0.55,0.7)</mountFraction>
+        <barrels>1</barrels>
+        <barrelRadius>0.07</barrelRadius>
+        <barrelLength>0.65</barrelLength>
+        <scopeTemplate>MachineGun</scopeTemplate>
+        <ceAmmoSet>AmmoSet_12Gauge</ceAmmoSet>
+        <aiRange>24</aiRange>
+        <vanillaSpreadDegrees>4</vanillaSpreadDegrees>
+      </li>
+    </modExtensions>
+    <gizmoIconTexPath>UI/FPSVTOL/ModelIconsR1/Shotgun12Air</gizmoIconTexPath>
+  </Vehicles.VehicleTurretDef>
+</Defs>

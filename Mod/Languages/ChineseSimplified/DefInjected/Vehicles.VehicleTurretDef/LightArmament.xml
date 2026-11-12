@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTOL_Air_Gun556Air.label>5.56×45 毫米机载轻机枪</VTOL_Air_Gun556Air.label>
+  <VTOL_Air_Gun556Air.description>可装入兼容的机载挂点。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Air_Gun556Air.description>
+  <VTOL_Air_Gun76251Air.label>7.62×51 毫米 M240 机载机枪</VTOL_Air_Gun76251Air.label>
+  <VTOL_Air_Gun76251Air.description>可装入兼容的机载挂点。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Air_Gun76251Air.description>
+  <VTOL_Air_Gun76254RAir.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Air_Gun76254RAir.label>
+  <VTOL_Air_Gun76254RAir.description>可装入兼容的机载挂点。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Air_Gun76254RAir.description>
+  <VTOL_Air_Shotgun12Air.label>12 号机载自动霰弹枪</VTOL_Air_Shotgun12Air.label>
+  <VTOL_Air_Shotgun12Air.description>可装入兼容的机载挂点。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Air_Shotgun12Air.description>
+</LanguageData>

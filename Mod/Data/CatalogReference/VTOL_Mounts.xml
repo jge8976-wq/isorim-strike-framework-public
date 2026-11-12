@@ -1,0 +1,38 @@
+<Defs>
+  <Isorim.Vtol.VtolMountAssetDef>
+    <defName>FPSVTOL_PylonLight</defName>
+    <label>Light pylon</label>
+    <assetId>PylonLight</assetId>
+    <artReady>false</artReady>
+  </Isorim.Vtol.VtolMountAssetDef>
+  <Isorim.Vtol.VtolMountAssetDef>
+    <defName>FPSVTOL_PylonHeavy</defName>
+    <label>Heavy pylon</label>
+    <assetId>PylonHeavy</assetId>
+    <artReady>false</artReady>
+  </Isorim.Vtol.VtolMountAssetDef>
+  <Isorim.Vtol.VtolMountAssetDef>
+    <defName>FPSVTOL_StubWing</defName>
+    <label>Helicopter stub wing</label>
+    <assetId>StubWing</assetId>
+    <artReady>false</artReady>
+  </Isorim.Vtol.VtolMountAssetDef>
+  <Isorim.Vtol.VtolMountAssetDef>
+    <defName>FPSVTOL_ChinMount</defName>
+    <label>Chin gun mount</label>
+    <assetId>ChinMount</assetId>
+    <artReady>false</artReady>
+  </Isorim.Vtol.VtolMountAssetDef>
+  <Isorim.Vtol.VtolMountAssetDef>
+    <defName>FPSVTOL_DoorMount</defName>
+    <label>Door gun mount</label>
+    <assetId>DoorMount</assetId>
+    <artReady>false</artReady>
+  </Isorim.Vtol.VtolMountAssetDef>
+  <Isorim.Vtol.VtolMountAssetDef>
+    <defName>FPSVTOL_BombRackTriple</defName>
+    <label>Triple bomb rack</label>
+    <assetId>BombRackTriple</assetId>
+    <artReady>false</artReady>
+  </Isorim.Vtol.VtolMountAssetDef>
+</Defs>

@@ -1,0 +1,549 @@
+{
+  "id": "MissileATQuad",
+  "defaultFile": "MissileATQuad.obj",
+  "triangleCount": 2304,
+  "bounds": {
+    "min": [
+      -0.41499999165534973,
+      -0.7049999833106995,
+      -0.7689999938011169
+    ],
+    "max": [
+      0.41499999165534973,
+      0.0,
+      0.890999972820282
+    ]
+  },
+  "anchors": {
+    "Release_AT1": [
+      -0.23,
+      -0.165,
+      0.0
+    ],
+    "Muzzle_AT1": [
+      -0.23,
+      -0.23,
+      0.891
+    ],
+    "Release_1": [
+      -0.23,
+      -0.23,
+      0.0
+    ],
+    "Store_1": [
+      -0.23,
+      -0.14,
+      0.0
+    ],
+    "Release_AT2": [
+      0.23,
+      -0.165,
+      0.0
+    ],
+    "Muzzle_AT2": [
+      0.23,
+      -0.23,
+      0.891
+    ],
+    "Release_2": [
+      0.23,
+      -0.23,
+      0.0
+    ],
+    "Store_2": [
+      0.23,
+      -0.14,
+      0.0
+    ],
+    "Release_AT3": [
+      -0.23,
+      -0.455,
+      0.0
+    ],
+    "Muzzle_AT3": [
+      -0.23,
+      -0.52,
+      0.891
+    ],
+    "Release_3": [
+      -0.23,
+      -0.52,
+      0.0
+    ],
+    "Store_3": [
+      -0.23,
+      -0.43000000000000005,
+      0.0
+    ],
+    "Release_AT4": [
+      0.23,
+      -0.455,
+      0.0
+    ],
+    "Muzzle_AT4": [
+      0.23,
+      -0.52,
+      0.891
+    ],
+    "Release_4": [
+      0.23,
+      -0.52,
+      0.0
+    ],
+    "Store_4": [
+      0.23,
+      -0.43000000000000005,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Muzzle_1": [
+      -0.23,
+      -0.23,
+      0.891
+    ],
+    "Muzzle_2": [
+      0.23,
+      -0.23,
+      0.891
+    ],
+    "Muzzle_3": [
+      -0.23,
+      -0.52,
+      0.891
+    ],
+    "Muzzle_4": [
+      0.23,
+      -0.52,
+      0.891
+    ]
+  },
+  "parts": [
+    {
+      "id": "Missile_1",
+      "file": "MissileATQuad__Missile_1.obj",
+      "triangleCount": 422,
+      "objects": [
+        "AT1 body",
+        "AT1 guidance collar",
+        "AT1 guidance collar.001",
+        "AT1 tail fin",
+        "AT1 tail fin.001",
+        "AT1 tail fin.002",
+        "AT1 tail fin.003",
+        "Identification band"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Missile_2",
+      "file": "MissileATQuad__Missile_2.obj",
+      "triangleCount": 422,
+      "objects": [
+        "AT2 body",
+        "AT2 guidance collar",
+        "AT2 guidance collar.001",
+        "AT2 tail fin",
+        "AT2 tail fin.001",
+        "AT2 tail fin.002",
+        "AT2 tail fin.003",
+        "Identification band.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Missile_3",
+      "file": "MissileATQuad__Missile_3.obj",
+      "triangleCount": 422,
+      "objects": [
+        "AT3 body",
+        "AT3 guidance collar",
+        "AT3 guidance collar.001",
+        "AT3 tail fin",
+        "AT3 tail fin.001",
+        "AT3 tail fin.002",
+        "AT3 tail fin.003",
+        "Identification band.002"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Missile_4",
+      "file": "MissileATQuad__Missile_4.obj",
+      "triangleCount": 422,
+      "objects": [
+        "AT4 body",
+        "AT4 guidance collar",
+        "AT4 guidance collar.001",
+        "AT4 tail fin",
+        "AT4 tail fin.001",
+        "AT4 tail fin.002",
+        "AT4 tail fin.003",
+        "Identification band.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "MissileATQuad__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rack",
+      "file": "MissileATQuad__Rack.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Quad rail central beam"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rail_1",
+      "file": "MissileATQuad__Rail_1.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Rail spine",
+        "Rail retaining lug",
+        "Rail retaining lug.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rail_2",
+      "file": "MissileATQuad__Rail_2.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Rail spine.001",
+        "Rail retaining lug.002",
+        "Rail retaining lug.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rail_3",
+      "file": "MissileATQuad__Rail_3.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Rail spine.002",
+        "Rail retaining lug.004",
+        "Rail retaining lug.005"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rail_4",
+      "file": "MissileATQuad__Rail_4.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Rail spine.003",
+        "Rail retaining lug.006",
+        "Rail retaining lug.007"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

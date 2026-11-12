@@ -1,0 +1,294 @@
+{
+  "id": "Shotgun12Air",
+  "defaultFile": "Shotgun12Air.obj",
+  "triangleCount": 2076,
+  "bounds": {
+    "min": [
+      -0.0909999982,
+      -0.667499959,
+      -0.381999999
+    ],
+    "max": [
+      0.131500006,
+      -0.0705000013,
+      0.665000021
+    ],
+    "size": [
+      0.2225000042,
+      0.5969999577,
+      1.04700002
+    ]
+  },
+  "anchors": {
+    "Mount": [
+      0,
+      0,
+      0
+    ],
+    "YawPivot": [
+      0,
+      -0.08,
+      0.08
+    ],
+    "PitchPivot": [
+      0,
+      -0.24,
+      0.08
+    ],
+    "Muzzle_1": [
+      0,
+      -0.26,
+      0.665
+    ],
+    "MagazinePivot": [
+      0,
+      -0.336,
+      -0.023
+    ]
+  },
+  "anchorSpace": "ASSET_MOUNT_FRAME",
+  "hierarchy": {
+    "Mount": "ROOT",
+    "YawPivot": "Mount",
+    "PitchPivot": "YawPivot",
+    "Muzzle_1": "PitchPivot",
+    "MagazinePivot": "PitchPivot",
+    "FeedBox": "MagazinePivot"
+  },
+  "parts": [
+    {
+      "id": "Pitch",
+      "file": "Shotgun12Air__Pitch.obj",
+      "triangleCount": 1840,
+      "objects": [
+        "receiver_core",
+        "upper_receiver",
+        "rear_cap",
+        "rear_cap_pad",
+        "handle_rear_leg",
+        "handle_front_leg",
+        "handle_bridge",
+        "rear_sight",
+        "port_recess",
+        "bolt_visible_face",
+        "port_top_rim",
+        "port_lower_rim",
+        "port_back_rim",
+        "port_front_rim",
+        "charging_stem",
+        "charging_knob",
+        "left_receiver_inset",
+        "short_pistol_grip",
+        "trigger_guard_0",
+        "trigger_guard_1",
+        "trigger_guard_2",
+        "trigger",
+        "fore_end_core",
+        "fore_end_rib_0",
+        "fore_end_rib_1",
+        "fore_end_rib_2",
+        "fore_end_rib_3",
+        "fore_end_rib_4",
+        "fore_end_rib_5",
+        "short_barrel",
+        "muzzle_collar",
+        "upper_gas_tube",
+        "front_sight_base",
+        "front_sight_post",
+        "magazine_release",
+        "receiver_pin",
+        "receiver_pin_slot",
+        "receiver_pin.001",
+        "receiver_pin_slot.001",
+        "receiver_pin.002",
+        "receiver_pin_slot.002",
+        "receiver_pin.003",
+        "receiver_pin_slot.003",
+        "receiver_pin.004",
+        "receiver_pin_slot.004",
+        "receiver_pin.005",
+        "receiver_pin_slot.005",
+        "selector_lever"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "FeedBox",
+      "file": "Shotgun12Air__FeedBox.obj",
+      "triangleCount": 236,
+      "objects": [
+        "box_magazine",
+        "magazine_collar",
+        "magazine_floorplate",
+        "magazine_rib",
+        "magazine_rib.001",
+        "magazine_rib.002",
+        "magazine_rib.003",
+        "magazine_rib.004",
+        "magazine_rib.005"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "YawPivot": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "Pitch",
+      "children": [
+        "PitchPivot"
+      ]
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch",
+      "children": [
+        "FeedBox",
+        "Muzzle_1"
+      ]
+    }
+  },
+  "assemblyRule": "The two part meshes share asset-mount coordinates at rest. Apply the ordered YawPivot then PitchPivot transforms to both. The full default mesh is an alternative combined draw.",
+  "magazineRemoval": {
+    "part": "FeedBox",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "pivot": "MagazinePivot",
+    "offlinePreviewTranslation": 0.25
+  },
+  "muzzles": [
+    {
+      "name": "Muzzle_1",
+      "position": [
+        0,
+        -0.26,
+        0.665
+      ],
+      "forward": [
+        0,
+        0,
+        1
+      ],
+      "openingRadius": 0.027,
+      "verifiedError": 2.110411834234566e-08
+    }
+  ],
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit, same mount frame as Gun762",
+  "uniformScale": 1.0,
+  "scalePolicy": "Apply one uniform scale to geometry, anchor positions and muzzle position together.",
+  "materials": [
+    "Receiver",
+    "Polymer",
+    "Barrel",
+    "Magazine",
+    "EdgeSteel",
+    "Recess",
+    "Rubber",
+    "Marking"
+  ],
+  "texture": "Textures/Shotgun12Air_BaseColor.png",
+  "icon": "Shotgun12Air_Icon.png",
+  "existingMount": {
+    "reference": "E:\\rimworld1.7  fps\\Investigations\\FixedWing-Burst-Tracking-20261111-R1\\AirOptions\\Framework\\Content-RecoveredAircraftFuel\\Models\\VTOL\\Gun762\\anchors.json",
+    "mountOrigin": [
+      0,
+      0,
+      0
+    ],
+    "reuse": "The integration owner supplies the existing aircraft mount and yaw bridge."
+  },
+  "referenceFrameCorrection": {
+    "originalAnchorZ": -0.08,
+    "rawYawMeshBoundsZ": [
+      0,
+      0.159999996
+    ],
+    "rawYawMeshCenterZ": 0.079999998,
+    "newYawAndPitchZ": 0.08,
+    "reason": "Gun762 raw OBJ Z coordinates disagree with the Z sign in its anchors metadata. This asset uses the raw mount geometry center and an actual +Z muzzle plane."
+  },
+  "verification": {
+    "geometry": "Evidence/geometry-audit.json",
+    "sourceAndArticulation": "Evidence/blender-audit.json"
+  },
+  "runtime": "NOT_RUN"
+}

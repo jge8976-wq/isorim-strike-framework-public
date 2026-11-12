@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+ <ThingDef ParentName="BuildingBase">
+  <defName>VTOL_CrashSite</defName><label>aircraft crash site</label>
+  <description>A crashed aircraft. A repairable aircraft retains its real installed weapons and remaining ammunition. Repair fully before claiming. Deconstruct a wreck for materials and 30% of the ammunition that remained on impact.</description>
+  <thingClass>Isorim.Vtol.CrashSite</thingClass><altitudeLayer>Building</altitudeLayer><useHitPoints>true</useHitPoints>
+  <selectable>true</selectable><tickerType>Never</tickerType><passability>PassThroughOnly</passability><pathCost>40</pathCost>
+  <graphicData><texPath>Things/Building/Exotic/ShipChunk</texPath><graphicClass>Graphic_Random</graphicClass><drawSize>(2,2)</drawSize></graphicData>
+  <statBases><MaxHitPoints>500</MaxHitPoints><WorkToBuild>1800</WorkToBuild><Flammability>0</Flammability></statBases>
+  <building><isEdifice>false</isEdifice><deconstructible>true</deconstructible><repairable>false</repairable></building>
+  <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+ </ThingDef>
+ <JobDef><defName>VTOL_RepairCrash</defName><driverClass>Isorim.Vtol.JobDriver_RepairCrash</driverClass><reportString>Repairing crashed aircraft.</reportString><casualInterruptible>true</casualInterruptible></JobDef>
+ <SoundDef><defName>VTOL_AirRaidAlarm</defName><context>MapOnly</context><maxSimultaneous>1</maxSimultaneous><subSounds><li><onCamera>true</onCamera><grains><li Class="AudioGrain_Clip"><clipPath>VTOL/AirRaidAlarm15</clipPath></li></grains><volumeRange>55</volumeRange></li></subSounds></SoundDef>
+</Defs>

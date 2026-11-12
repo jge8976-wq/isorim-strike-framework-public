@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.26.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.26.description>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.27.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.27.description>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.28.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.28.description>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.29.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.29.description>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.30.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.30.description>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.31.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.31.description>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.32.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.32.description>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_RT_C130_Vehicle.nodes.33.label>
+  <VTOL_Upgrades_RT_C130_Vehicle.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_RT_C130_Vehicle.nodes.33.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.26.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.26.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.27.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.27.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.28.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.28.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.29.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.29.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.30.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.30.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.31.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.31.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.32.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.32.description>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.33.label>
+  <VTOL_Upgrades_RT_CH53E_Vehicle.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_RT_CH53E_Vehicle.nodes.33.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.26.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.26.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.27.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.27.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.28.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.28.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.29.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.29.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.30.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.30.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.31.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.31.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.32.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.32.description>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_RT_UH60_Vehicle.nodes.33.label>
+  <VTOL_Upgrades_RT_UH60_Vehicle.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_RT_UH60_Vehicle.nodes.33.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle.nodes.26.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.26.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle.nodes.27.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.27.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle.nodes.28.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.28.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle.nodes.29.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.29.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle.nodes.30.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.30.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle.nodes.31.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.31.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle.nodes.32.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.32.description>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle.nodes.33.label>
+  <VTOL_Upgrades_SoS2_Shuttle.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle.nodes.33.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.26.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.26.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.27.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.27.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.28.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.28.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.29.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.29.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.30.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.30.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.31.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.31.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.32.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.32.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.33.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle_Heavy.nodes.33.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.26.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.26.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.27.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.27.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.28.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.28.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.29.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.29.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.30.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.30.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.31.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.31.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.32.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.32.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.33.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle_Personal.nodes.33.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.26.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.26.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.27.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.27.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.28.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.28.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.29.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.29.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.30.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.30.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.31.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.31.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.32.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.32.description>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.33.label>
+  <VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_SoS2_Shuttle_Superheavy.nodes.33.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Cherokee.nodes.26.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Cherokee.nodes.26.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Cherokee.nodes.27.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Cherokee.nodes.27.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Cherokee.nodes.28.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Cherokee.nodes.28.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Cherokee.nodes.29.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Cherokee.nodes.29.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Cherokee.nodes.30.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Cherokee.nodes.30.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Cherokee.nodes.31.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Cherokee.nodes.31.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Cherokee.nodes.32.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Cherokee.nodes.32.description>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Cherokee.nodes.33.label>
+  <VTOL_Upgrades_VVE_Cherokee.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Cherokee.nodes.33.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.32.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Frog.nodes.32.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Frog.nodes.32.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.33.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Frog.nodes.33.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Frog.nodes.33.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.34.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Frog.nodes.34.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.34.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Frog.nodes.34.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.35.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Frog.nodes.35.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.35.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Frog.nodes.35.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.36.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Frog.nodes.36.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.36.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Frog.nodes.36.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.37.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Frog.nodes.37.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.37.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Frog.nodes.37.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.38.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Frog.nodes.38.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.38.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Frog.nodes.38.description>
+  <VTOL_Upgrades_VVE_Frog.nodes.39.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Frog.nodes.39.label>
+  <VTOL_Upgrades_VVE_Frog.nodes.39.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Frog.nodes.39.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Goliath.nodes.26.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Goliath.nodes.26.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Goliath.nodes.27.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Goliath.nodes.27.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Goliath.nodes.28.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Goliath.nodes.28.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Goliath.nodes.29.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Goliath.nodes.29.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Goliath.nodes.30.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Goliath.nodes.30.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Goliath.nodes.31.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Goliath.nodes.31.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Goliath.nodes.32.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Goliath.nodes.32.description>
+  <VTOL_Upgrades_VVE_Goliath.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Goliath.nodes.33.label>
+  <VTOL_Upgrades_VVE_Goliath.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Goliath.nodes.33.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.26.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Louie.nodes.26.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.26.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Louie.nodes.26.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.27.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Louie.nodes.27.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.27.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Louie.nodes.27.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.28.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Louie.nodes.28.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.28.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Louie.nodes.28.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.29.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Louie.nodes.29.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.29.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Louie.nodes.29.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.30.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Louie.nodes.30.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.30.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Louie.nodes.30.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.31.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Louie.nodes.31.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.31.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Louie.nodes.31.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.32.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Louie.nodes.32.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Louie.nodes.32.description>
+  <VTOL_Upgrades_VVE_Louie.nodes.33.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Louie.nodes.33.label>
+  <VTOL_Upgrades_VVE_Louie.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Louie.nodes.33.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.32.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Mosquito.nodes.32.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Mosquito.nodes.32.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.33.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Mosquito.nodes.33.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Mosquito.nodes.33.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.34.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Mosquito.nodes.34.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.34.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Mosquito.nodes.34.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.35.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Mosquito.nodes.35.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.35.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Mosquito.nodes.35.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.36.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Mosquito.nodes.36.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.36.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Mosquito.nodes.36.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.37.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Mosquito.nodes.37.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.37.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Mosquito.nodes.37.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.38.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Mosquito.nodes.38.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.38.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Mosquito.nodes.38.description>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.39.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Mosquito.nodes.39.label>
+  <VTOL_Upgrades_VVE_Mosquito.nodes.39.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Mosquito.nodes.39.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.32.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Smuggler.nodes.32.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Smuggler.nodes.32.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.33.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Smuggler.nodes.33.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Smuggler.nodes.33.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.34.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Smuggler.nodes.34.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.34.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Smuggler.nodes.34.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.35.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Smuggler.nodes.35.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.35.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Smuggler.nodes.35.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.36.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Smuggler.nodes.36.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.36.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Smuggler.nodes.36.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.37.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Smuggler.nodes.37.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.37.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Smuggler.nodes.37.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.38.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Smuggler.nodes.38.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.38.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Smuggler.nodes.38.description>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.39.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Smuggler.nodes.39.label>
+  <VTOL_Upgrades_VVE_Smuggler.nodes.39.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Smuggler.nodes.39.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.32.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Toad.nodes.32.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.32.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Toad.nodes.32.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.33.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Toad.nodes.33.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.33.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Toad.nodes.33.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.34.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Toad.nodes.34.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.34.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Toad.nodes.34.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.35.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Toad.nodes.35.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.35.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Toad.nodes.35.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.36.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Toad.nodes.36.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.36.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Toad.nodes.36.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.37.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Toad.nodes.37.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.37.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Toad.nodes.37.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.38.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Toad.nodes.38.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.38.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Toad.nodes.38.description>
+  <VTOL_Upgrades_VVE_Toad.nodes.39.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Toad.nodes.39.label>
+  <VTOL_Upgrades_VVE_Toad.nodes.39.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Toad.nodes.39.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.34.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Warbird.nodes.34.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.34.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Warbird.nodes.34.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.35.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Warbird.nodes.35.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.35.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Warbird.nodes.35.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.36.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Warbird.nodes.36.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.36.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Warbird.nodes.36.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.37.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Warbird.nodes.37.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.37.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Warbird.nodes.37.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.38.label>5.56×45 毫米机载轻机枪</VTOL_Upgrades_VVE_Warbird.nodes.38.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.38.description>完成对应挂点后可安装。AI 攻击距离 48 格，敌方袭击消耗 160 点。</VTOL_Upgrades_VVE_Warbird.nodes.38.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.39.label>7.62×51 毫米 M240 机载机枪</VTOL_Upgrades_VVE_Warbird.nodes.39.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.39.description>完成对应挂点后可安装。AI 攻击距离 58 格，敌方袭击消耗 240 点。</VTOL_Upgrades_VVE_Warbird.nodes.39.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.40.label>7.62×54R 毫米 PKM 机载机枪</VTOL_Upgrades_VVE_Warbird.nodes.40.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.40.description>完成对应挂点后可安装。AI 攻击距离 62 格，敌方袭击消耗 270 点。</VTOL_Upgrades_VVE_Warbird.nodes.40.description>
+  <VTOL_Upgrades_VVE_Warbird.nodes.41.label>12 号机载自动霰弹枪</VTOL_Upgrades_VVE_Warbird.nodes.41.label>
+  <VTOL_Upgrades_VVE_Warbird.nodes.41.description>完成对应挂点后可安装。AI 攻击距离 24 格，敌方袭击消耗 195 点。</VTOL_Upgrades_VVE_Warbird.nodes.41.description>
+</LanguageData>

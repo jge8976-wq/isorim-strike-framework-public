@@ -1,0 +1,35 @@
+[h2]0.6.4[/h2]
+Routine air raids carry machine guns up to 7.62 mm or 40 mm HE/airburst. Rockets and 20 mm cannons are reserved for harder or boss encounters. Eight VVE airframes use compatible hardpoint loadouts and raid costs. The single-seat Frog with one 5.56 mm gun costs 450 raid points. Unarmed scouts circle the colony for four game hours. A completed survey has an 80% chance to schedule a raid with a countdown and arrival direction. Supported airburst weapons offer a proximity-fuzed anti-air mode with shock and fragmentation.
+
+[h1]0.6.0 aircraft compatibility — November 9, 2026[/h1]
+[list]
+[*]Unified the supported aircraft station and upgrade layouts across the tested aircraft fleet.
+[*]Fixed the parachute support reflection call for the current IsoRim optional-parameter signature, preventing the repeating Parameter count mismatch exception.
+[*]Preserves existing weapons, raids, salvage and animations. FPS direct control remains optional.
+[/list]
+
+[h2]Previous release information[/h2]
+[h1]ISORIM 3D Strike Framework[/h1]
+Build, upgrade and fly native aircraft, conduct ground attacks and air combat, bail out with a parachute, rescue survivors and recover enemy aircraft. FPS cockpit and external control are optional; the framework also retains normal tactical play.
+
+[h2]Aircraft, upgrades and combat[/h2]
+[list]
+[*]Choose supported native aircraft and install their frame, engine, wing, armor and weapon upgrades. Upgrade nodes follow each aircraft layout rather than a shared fixed coordinate sheet.
+[*]Fly and land in physical 3D space. Crew stations, passengers, fuel, aircraft status and native vehicle systems remain active.
+[*]Use supported guns, rockets, guided missiles and bombs against ground or air targets. Weapon support depends on the source vehicle and installed modules.
+[*]Enemy aircraft can appear through the framework's aerial encounter systems. Shooting them down can leave survivors, salvage or a recoverable airframe.
+[*]Bail out, descend with a parachute and recover crew. Rescue and recovery use the native map and floor surfaces. Current support queries accept IsoRim's optional-parameter signature.
+[*]Vanilla and Combat Extended projectile routes are supported through matching optional integrations; installing CE is not required for the framework itself.
+[/list]
+
+[h2]Default controls with the matching FPS update[/h2]
+Select a supported, crewed friendly vehicle and enter its FPS control. Mouse front side button/P cycles supported views; mouse rear side button returns to god view. WASD drives or taxis. Mouse aims the pilot view. LMB fires the selected weapon; RMB uses its optic. Tab changes weapons, B changes supported single/burst/automatic modes, G fires the supported machine gun directly, and R requests reload in direct control.
+Space: takeoff/ascend. Rotorcraft/pods: Ctrl descends, double Left Ctrl requests landing. Fixed wing: Left Ctrl brakes; L requests automatic landing. Shift: fixed-wing afterburner. T: supported orbit/hover point command. In god view, select an airborne aircraft and right-click a point to issue its aerial order. Bindings can be changed; another mod or an existing saved binding may override a default.
+
+[h2]Installation and package relationship[/h2]
+Required: Harmony, Vehicle Framework, Vanilla Vehicles Expanded, VVE - Upgrades, IsoRim Waylith and ISORIM Vehicles Models - Standalone. Install source mods and their own prerequisites separately. Install the matching FPS Control Bridge for direct flight, true-3D combat, raids and rescue. FPS is optional only for native upgrade/loadout use. CE is optional.
+Disable the old VTOL R1/R2/R3 prototype packages instead of loading duplicate definitions. Use one FPS assembly, fully restart after updates, and keep a save backup when changing a large mod list. Private exhibition helpers, test saves, raw videos and upstream DLLs are not bundled in this mod.
+
+The cover is AI promotional artwork. The gallery contains actual in-game captures and player footage; GIF previews are short, silent excerpts of the supplied videos. Thanks to the upstream authors, artists and testers.
+
+Optional direct-control partner: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3824599915]ISORIM FPS Control Bridge (CE&Vanilla)[/url].

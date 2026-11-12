@@ -1,0 +1,310 @@
+{
+  "id": "Minigun762",
+  "defaultFile": "Minigun762.obj",
+  "triangleCount": 1864,
+  "bounds": {
+    "min": [
+      -0.29295873641967773,
+      -0.4916417598724365,
+      -0.5218753814697266
+    ],
+    "max": [
+      0.43603163957595825,
+      0.0,
+      0.9538191556930542
+    ]
+  },
+  "anchors": {
+    "YawPivot": [
+      0.0,
+      -0.08,
+      -0.08
+    ],
+    "PitchPivot": [
+      0.0,
+      -0.24,
+      -0.08
+    ],
+    "RotorPivot": [
+      0.0,
+      -0.26,
+      0.0
+    ],
+    "Muzzle_1": [
+      0.09946970941,
+      -0.259999971,
+      0.953819156
+    ],
+    "Muzzle_2": [
+      0.04973485545,
+      -0.1738566907,
+      0.953819156
+    ],
+    "Muzzle_3": [
+      -0.04973485545,
+      -0.1738566907,
+      0.953819156
+    ],
+    "Muzzle_4": [
+      -0.09946970941,
+      -0.259999971,
+      0.953819156
+    ],
+    "Muzzle_5": [
+      -0.04973485545,
+      -0.3461432635,
+      0.953819156
+    ],
+    "Muzzle_6": [
+      0.04973485545,
+      -0.3461432635,
+      0.953819156
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "FeedBox",
+      "file": "Minigun762__FeedBox.obj",
+      "triangleCount": 224,
+      "objects": [
+        "Detachable feed box",
+        "Feed link cartridge",
+        "Feed link cartridge.001",
+        "Feed link cartridge.002",
+        "Feed link cartridge.003",
+        "Feed link cartridge.004",
+        "Feed link cartridge.005"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "Minigun762__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "Minigun762__Pitch.obj",
+      "triangleCount": 592,
+      "objects": [
+        "Minigun762_pitch",
+        "Pitch trunnion"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rotor",
+      "file": "Minigun762__Rotor.obj",
+      "triangleCount": 960,
+      "objects": [
+        "Minigun762_spin"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "RotorPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Yaw",
+      "file": "Minigun762__Yaw.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount bearing bridge"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "YawPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "YawPivot": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "Yaw"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch"
+    },
+    "RotorPivot": {
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "part": "Rotor"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

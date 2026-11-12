@@ -1,0 +1,63 @@
+newmtl Steel
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png
+
+newmtl Parkerized
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png
+
+newmtl Olive
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png
+
+newmtl Brass
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png
+
+newmtl Edges
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png
+
+newmtl Rubber
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png
+
+newmtl Interior
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png
+
+newmtl Marking
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.13 0.13 0.13
+Ns 24
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png

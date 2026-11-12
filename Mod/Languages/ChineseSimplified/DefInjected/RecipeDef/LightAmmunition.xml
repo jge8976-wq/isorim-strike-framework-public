@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTOL_Make_VTOL_AirAmmo_Gun556AirRound.label>制造5.56×45 毫米机载轻机枪弹药</VTOL_Make_VTOL_AirAmmo_Gun556AirRound.label>
+  <VTOL_Make_VTOL_AirAmmo_Gun556AirRound.jobString>正在制造机载弹药。</VTOL_Make_VTOL_AirAmmo_Gun556AirRound.jobString>
+  <VTOL_Make_VTOL_AirAmmo_Gun76251AirRound.label>制造7.62×51 毫米 M240 机载机枪弹药</VTOL_Make_VTOL_AirAmmo_Gun76251AirRound.label>
+  <VTOL_Make_VTOL_AirAmmo_Gun76251AirRound.jobString>正在制造机载弹药。</VTOL_Make_VTOL_AirAmmo_Gun76251AirRound.jobString>
+  <VTOL_Make_VTOL_AirAmmo_Gun76254RAirRound.label>制造7.62×54R 毫米 PKM 机载机枪弹药</VTOL_Make_VTOL_AirAmmo_Gun76254RAirRound.label>
+  <VTOL_Make_VTOL_AirAmmo_Gun76254RAirRound.jobString>正在制造机载弹药。</VTOL_Make_VTOL_AirAmmo_Gun76254RAirRound.jobString>
+  <VTOL_Make_VTOL_AirAmmo_Shotgun12AirRound.label>制造12 号鹿弹</VTOL_Make_VTOL_AirAmmo_Shotgun12AirRound.label>
+  <VTOL_Make_VTOL_AirAmmo_Shotgun12AirRound.jobString>正在制造机载弹药。</VTOL_Make_VTOL_AirAmmo_Shotgun12AirRound.jobString>
+</LanguageData>

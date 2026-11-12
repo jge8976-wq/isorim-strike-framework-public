@@ -1,0 +1,56 @@
+newmtl Steel
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+
+newmtl Dark
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+
+newmtl Olive
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+
+newmtl Light
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+
+newmtl Brass
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+
+newmtl Rubber
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+
+newmtl Stripe
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+
+newmtl Seeker
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd FPSR14/BombLight/Palette
+

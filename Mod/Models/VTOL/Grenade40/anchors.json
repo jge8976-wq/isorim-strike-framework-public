@@ -1,0 +1,211 @@
+{
+  "id": "Grenade40",
+  "defaultFile": "Grenade40.obj",
+  "triangleCount": 600,
+  "bounds": {
+    "min": [
+      -0.22100000083446503,
+      -0.4399999976158142,
+      -0.6000000238418579
+    ],
+    "max": [
+      0.4749999940395355,
+      0.0,
+      0.699999988079071
+    ]
+  },
+  "anchors": {
+    "Muzzle_1": [
+      0.0,
+      -0.25,
+      0.7
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "FeedBox",
+      "file": "Grenade40__FeedBox.obj",
+      "triangleCount": 164,
+      "objects": [
+        "Ammunition box",
+        "Grenade belt",
+        "Grenade belt.001",
+        "Grenade belt.002",
+        "Grenade belt.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "Grenade40__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "Grenade40__Pitch.obj",
+      "triangleCount": 172,
+      "objects": [
+        "Grenade receiver",
+        "Short large-bore barrel"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "PodShell",
+      "file": "Grenade40__PodShell.obj",
+      "triangleCount": 220,
+      "objects": [
+        "Grenade pod shell",
+        "Pod access fastener",
+        "Pod access fastener.001",
+        "Pod access fastener.002",
+        "Pod access fastener.003"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

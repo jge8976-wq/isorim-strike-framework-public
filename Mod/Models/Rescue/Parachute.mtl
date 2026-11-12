@@ -1,0 +1,55 @@
+newmtl Canopy_Ivory
+Kd 0.76000 0.74500 0.65000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+map_Kd FabricAtlas.png
+
+newmtl Canopy_Sage
+Kd 0.43000 0.49000 0.37000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+map_Kd FabricAtlas.png
+
+newmtl Inner_Ivory
+Kd 0.71000 0.70500 0.62000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+map_Kd FabricAtlas.png
+
+newmtl Inner_Sage
+Kd 0.49000 0.53000 0.42000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+map_Kd FabricAtlas.png
+
+newmtl Binding
+Kd 0.30000 0.35000 0.27000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+map_Kd FabricAtlas.png
+
+newmtl Suspension
+Kd 0.18000 0.20500 0.20500
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+map_Kd FabricAtlas.png
+
+newmtl Attachment
+Kd 0.33000 0.36500 0.31000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+map_Kd FabricAtlas.png

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTOL_Air_BombTrialHE.label>航空炸弹挂架</VTOL_Air_BombTrialHE.label>
+  <VTOL_Air_VVE_Frog_MG762.label>7.62毫米机枪</VTOL_Air_VVE_Frog_MG762.label>
+  <VTOL_Air_VVE_Frog_Grenade40L.label>40毫米榴弹发射器</VTOL_Air_VVE_Frog_Grenade40L.label>
+  <VTOL_Air_VVE_Mosquito_Cannon30.label>30毫米机炮</VTOL_Air_VVE_Mosquito_Cannon30.label>
+  <VTOL_Air_VVE_Mosquito_Rocket70.label>70毫米火箭巢</VTOL_Air_VVE_Mosquito_Rocket70.label>
+  <VTOL_Air_VVE_Smuggler_HMG127.label>12.7毫米重机枪</VTOL_Air_VVE_Smuggler_HMG127.label>
+  <VTOL_Air_VVE_Smuggler_Grenade40H.label>40毫米榴弹发射器</VTOL_Air_VVE_Smuggler_Grenade40H.label>
+  <VTOL_Air_VVE_Toad_HMG127.label>12.7毫米重机枪</VTOL_Air_VVE_Toad_HMG127.label>
+  <VTOL_Air_VVE_Toad_Rocket70.label>70毫米火箭巢</VTOL_Air_VVE_Toad_Rocket70.label>
+  <VTOL_Air_VVE_Warbird_Rotary20.label>20毫米转管机炮</VTOL_Air_VVE_Warbird_Rotary20.label>
+  <VTOL_Air_VVE_Warbird_Rocket80.label>80毫米火箭巢</VTOL_Air_VVE_Warbird_Rocket80.label>
+  <VTOL_Air_SeekerTrial80.label>制导导弹发射器</VTOL_Air_SeekerTrial80.label>
+</LanguageData>

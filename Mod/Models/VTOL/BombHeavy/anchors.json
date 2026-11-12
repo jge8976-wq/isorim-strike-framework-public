@@ -1,0 +1,217 @@
+{
+  "id": "BombHeavy",
+  "defaultFile": "BombHeavy.obj",
+  "triangleCount": 914,
+  "bounds": {
+    "min": [
+      -0.6140000224113464,
+      -0.984000027179718,
+      -1.371999979019165
+    ],
+    "max": [
+      0.6140000224113464,
+      0.24400000274181366,
+      1.4079999923706055
+    ]
+  },
+  "anchors": {
+    "Release_1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Store_1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Body",
+      "file": "BombHeavy__Body.obj",
+      "triangleCount": 344,
+      "objects": [
+        "Identification band",
+        "Identification band.001",
+        "Heavy saddle rib",
+        "Heavy saddle rib.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Bomb",
+      "file": "BombHeavy__Bomb.obj",
+      "triangleCount": 330,
+      "objects": [
+        "Bomb forged casing",
+        "Nose fuze cap"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "BombHeavy__Mount.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Mount lug",
+        "Suspension lug",
+        "Suspension lug.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Tail",
+      "file": "BombHeavy__Tail.obj",
+      "triangleCount": 108,
+      "objects": [
+        "Tail stabilizer",
+        "Tail stabilizer.001",
+        "Tail stabilizer.002",
+        "Tail stabilizer.003",
+        "Tail collar"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "Gun556Air",
+  "defaultFile": "Gun556Air__Station.obj",
+  "stationDefWeaponModel": "Models/AerialR14/Gun556Air/Gun556Air__Station.obj",
+  "anchors": {
+    "Mount": [
+      0,
+      0,
+      0
+    ],
+    "YawPivot": [
+      0,
+      -0.08,
+      -0.08
+    ],
+    "PitchPivot": [
+      0,
+      -0.24,
+      -0.08
+    ],
+    "Muzzle_1": [
+      0,
+      -0.29,
+      0.558
+    ]
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "serializedForward": [
+    0,
+    0,
+    -1
+  ],
+  "triangleCount": 2828,
+  "bounds": {
+    "min": [
+      -0.15199999511241913,
+      -0.4729999899864197,
+      -0.3400000035762787
+    ],
+    "max": [
+      0.09000000357627869,
+      0.0,
+      0.5580000281333923
+    ]
+  },
+  "uniformNominal": 1.0,
+  "unit": "game-unit; use uniform scale at installation",
+  "composition": "Single rigid rest-pose model; Gun556Air plus Gun762 Mount and Yaw."
+}

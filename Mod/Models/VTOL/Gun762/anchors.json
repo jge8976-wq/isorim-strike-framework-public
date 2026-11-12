@@ -1,0 +1,236 @@
+{
+  "id": "Gun762",
+  "defaultFile": "Gun762.obj",
+  "triangleCount": 1264,
+  "bounds": {
+    "min": [
+      -0.12999999523162842,
+      -0.4490624964237213,
+      -0.4388541281223297
+    ],
+    "max": [
+      0.4300000071525574,
+      0.0,
+      0.7677083015441895
+    ]
+  },
+  "anchors": {
+    "YawPivot": [
+      0.0,
+      -0.08,
+      -0.08
+    ],
+    "PitchPivot": [
+      0.0,
+      -0.24,
+      -0.08
+    ],
+    "Muzzle_1": [
+      2.1633297429166684e-19,
+      -0.260000016625,
+      0.767708302
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "FeedBox",
+      "file": "Gun762__FeedBox.obj",
+      "triangleCount": 224,
+      "objects": [
+        "Detachable feed box",
+        "Feed link cartridge",
+        "Feed link cartridge.001",
+        "Feed link cartridge.002",
+        "Feed link cartridge.003",
+        "Feed link cartridge.004",
+        "Feed link cartridge.005"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "Gun762__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Pitch",
+      "file": "Gun762__Pitch.obj",
+      "triangleCount": 952,
+      "objects": [
+        "Gun762_pitch",
+        "Pitch trunnion"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Yaw",
+      "file": "Gun762__Yaw.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount bearing bridge"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "YawPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "YawPivot": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "Yaw"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "part": "Pitch"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "MissileATSingle",
+  "defaultFile": "MissileATSingle.obj",
+  "triangleCount": 598,
+  "bounds": {
+    "min": [
+      -0.1850000023841858,
+      -0.4650000035762787,
+      -0.7689999938011169
+    ],
+    "max": [
+      0.1850000023841858,
+      0.0,
+      0.890999972820282
+    ]
+  },
+  "anchors": {
+    "Release_AT": [
+      0.0,
+      -0.21500000000000002,
+      0.0
+    ],
+    "Muzzle_AT": [
+      0.0,
+      -0.28,
+      0.891
+    ],
+    "Store_1": [
+      0.0,
+      -0.13,
+      0.0
+    ],
+    "Release_1": [
+      0.0,
+      -0.28,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Muzzle_1": [
+      0.0,
+      -0.28,
+      0.891
+    ]
+  },
+  "parts": [
+    {
+      "id": "Missile",
+      "file": "MissileATSingle__Missile.obj",
+      "triangleCount": 422,
+      "objects": [
+        "AT body",
+        "AT guidance collar",
+        "AT guidance collar.001",
+        "AT tail fin",
+        "AT tail fin.001",
+        "AT tail fin.002",
+        "AT tail fin.003",
+        "Identification band"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "MissileATSingle__Mount.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Mount lug"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Rail",
+      "file": "MissileATSingle__Rail.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Rail spine",
+        "Rail retaining lug",
+        "Rail retaining lug.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {},
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

@@ -1,0 +1,12 @@
+ISORIM VTOL - Airframe & Armament, test candidate R1.
+
+Uses the native Vehicle Framework upgrade/material/turret APIs and optional FPS Aerial integration.
+Original airframe definitions belong to Vanilla Vehicles Expanded.
+Models and runtime integration in this package come from the ISORIM team's existing local VTOL assets.
+This package contains no Vehicle Framework, VVE, IsoRim, Combat Extended or FPS Bridge DLLs.
+The promotional cover is AI-generated. Offline render gallery images are labeled accordingly.
+
+Upstream API references:
+https://github.com/SmashPhil/Vehicle-Framework/blob/develop/Source/Vehicles/CustomFeatures/Upgrades/UpgradeNode.cs
+https://github.com/SmashPhil/Vehicle-Framework/blob/develop/Source/Vehicles/CustomFeatures/Upgrades/Node/TurretUpgrade.cs
+https://steamcommunity.com/sharedfiles/filedetails/?id=3302208420

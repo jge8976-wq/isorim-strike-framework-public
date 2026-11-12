@@ -1,0 +1,350 @@
+{
+  "id": "BombGlide",
+  "defaultFile": "BombGlide.obj",
+  "triangleCount": 798,
+  "bounds": {
+    "min": [
+      -0.8700000047683716,
+      -0.5619999766349792,
+      -1.0839999914169312
+    ],
+    "max": [
+      0.8700000047683716,
+      0.1120000034570694,
+      1.0959999561309814
+    ]
+  },
+  "anchors": {
+    "WingPivotLeft": [
+      -0.09,
+      -0.054999999999999966,
+      -0.12
+    ],
+    "WingPivotRight": [
+      0.09,
+      -0.054999999999999966,
+      -0.12
+    ],
+    "Release_1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Store_1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Mount": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "parts": [
+    {
+      "id": "Body",
+      "file": "BombGlide__Body.obj",
+      "triangleCount": 256,
+      "objects": [
+        "Identification band",
+        "Identification band.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Bomb",
+      "file": "BombGlide__Bomb.obj",
+      "triangleCount": 234,
+      "objects": [
+        "Bomb forged casing",
+        "Nose fuze cap"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Mount",
+      "file": "BombGlide__Mount.obj",
+      "triangleCount": 132,
+      "objects": [
+        "Mount lug",
+        "Suspension lug",
+        "Suspension lug.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Tail",
+      "file": "BombGlide__Tail.obj",
+      "triangleCount": 108,
+      "objects": [
+        "Tail stabilizer",
+        "Tail stabilizer.001",
+        "Tail stabilizer.002",
+        "Tail stabilizer.003",
+        "Tail collar"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "WingHinge",
+      "file": "BombGlide__WingHinge.obj",
+      "triangleCount": 44,
+      "objects": [
+        "Wing hinge housing"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "ROOT",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "WingLeft",
+      "file": "BombGlide__WingLeft.obj",
+      "triangleCount": 12,
+      "objects": [
+        "Deployable glide wing"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "WingPivotLeft",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "WingRight",
+      "file": "BombGlide__WingRight.obj",
+      "triangleCount": 12,
+      "objects": [
+        "Deployable glide wing.001"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "WingPivotRight",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "WingPivotLeft": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "WingLeft"
+    },
+    "WingPivotRight": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "part": "WingRight"
+    }
+  },
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit; use uniform scale at installation",
+  "materials": [
+    "Steel",
+    "Dark",
+    "Olive",
+    "Light",
+    "Brass",
+    "Rubber",
+    "Stripe",
+    "Seeker"
+  ]
+}

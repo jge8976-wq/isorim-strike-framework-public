@@ -1,0 +1,121 @@
+newmtl Receiver
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+newmtl Polymer
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+newmtl Barrel
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+newmtl Magazine
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+newmtl EdgeSteel
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+newmtl Recess
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+newmtl Rubber
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+newmtl Marking
+Kd 1 1 1
+Ks .12 .12 .12
+Ns 24
+d 1
+illum 2
+map_Kd Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png
+
+
+newmtl Mount_Steel
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+
+newmtl Mount_Dark
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+
+newmtl Mount_Olive
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+
+newmtl Mount_Light
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+
+newmtl Mount_Brass
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+
+newmtl Mount_Rubber
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+
+newmtl Mount_Stripe
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+
+newmtl Mount_Seeker
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.16 0.16 0.16
+Ns 25
+map_Kd Textures/FPSR14/AerialR14/Gun762/Palette.png
+

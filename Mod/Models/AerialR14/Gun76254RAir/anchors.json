@@ -1,0 +1,358 @@
+{
+  "id": "Gun76254RAir",
+  "defaultFile": "Gun76254RAir.obj",
+  "triangleCount": 3648,
+  "bounds": {
+    "min": [
+      -0.12200000137090683,
+      -0.43700000643730164,
+      -0.4388541281223297
+    ],
+    "max": [
+      0.40799999237060547,
+      0.0,
+      0.7677083015441895
+    ]
+  },
+  "anchors": {
+    "Mount": [
+      0,
+      0,
+      0
+    ],
+    "YawPivot": [
+      0.0,
+      -0.08,
+      -0.08
+    ],
+    "PitchPivot": [
+      0.0,
+      -0.24,
+      -0.08
+    ],
+    "Muzzle_1": [
+      0,
+      -0.26,
+      0.767708302
+    ]
+  },
+  "parts": [
+    {
+      "id": "Receiver",
+      "file": "Parts/Gun76254RAir__Receiver.obj",
+      "triangleCount": 712,
+      "objects": [
+        "Stamped_receiver_shell",
+        "Rear_receiver_cap",
+        "Lower_receiver_seam",
+        "Recessed_side_panel",
+        "Pressed_panel_upper_edge",
+        "Pressed_panel_lower_edge",
+        "Side_retention_pin",
+        "Side_retention_pin.001",
+        "Side_retention_pin.002",
+        "Side_retention_pin.003",
+        "Receiver_crown_contact",
+        "Feed_mouth_lower_lip",
+        "Feed_mouth_upper_lip",
+        "Feed_throat_shadow"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Cover",
+      "file": "Parts/Gun76254RAir__Cover.obj",
+      "triangleCount": 404,
+      "objects": [
+        "Pressed_feed_cover",
+        "Cover_stiffening_rib",
+        "Cover_stiffening_rib.001",
+        "Cover_stiffening_rib.002",
+        "Cover_stiffening_rib.003",
+        "Cover_hinge",
+        "Rear_cover_latch"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Barrel",
+      "file": "Parts/Gun76254RAir__Barrel.obj",
+      "triangleCount": 728,
+      "objects": [
+        "Barrel_stepped_exterior",
+        "Lower_forward_tube",
+        "Forward_collar_bridge",
+        "Forward_clamp_band",
+        "Clamp_lower_contact",
+        "Muzzle_collar_ring"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Muzzle",
+      "file": "Parts/Gun76254RAir__Muzzle.obj",
+      "triangleCount": 460,
+      "objects": [
+        "Slotted_muzzle_shell",
+        "Blind_muzzle_recess_back"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Belt",
+      "file": "Parts/Gun76254RAir__Belt.obj",
+      "triangleCount": 760,
+      "objects": [
+        "Cartridge_silhouette_01",
+        "Dark_belt_link_01",
+        "Cartridge_silhouette_02",
+        "Dark_belt_link_02",
+        "Cartridge_silhouette_03",
+        "Dark_belt_link_03",
+        "Cartridge_silhouette_04",
+        "Dark_belt_link_04",
+        "Cartridge_silhouette_05",
+        "Dark_belt_link_05"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "FeedBox",
+      "file": "Parts/Gun76254RAir__FeedBox.obj",
+      "triangleCount": 584,
+      "objects": [
+        "Reshaped_Gun762_feed_box_shell",
+        "Feed_box_removable_lid",
+        "Lid_seam",
+        "Box_pressed_rib",
+        "Box_pressed_rib.001",
+        "Box_pressed_rib.002",
+        "Box_label_plate",
+        "Lid_fastening_catch",
+        "Lid_fastening_catch.001",
+        "Box_exit_rim"
+      ],
+      "geometrySpace": "ASSET_MOUNT_FRAME",
+      "parentPivot": "PitchPivot",
+      "localToAssetAtRest": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "rotationAxes": {
+    "YawPivot": {
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "parent": "Mount"
+    },
+    "PitchPivot": {
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "parent": "YawPivot"
+    }
+  },
+  "muzzleParent": "PitchPivot",
+  "muzzleDirection": [
+    0,
+    0,
+    1
+  ],
+  "up": [
+    0,
+    1,
+    0
+  ],
+  "forward": [
+    0,
+    0,
+    1
+  ],
+  "right": [
+    1,
+    0,
+    0
+  ],
+  "unit": "game-unit",
+  "defaultUniformScale": 1.0,
+  "stationScale": "Keep station-specific weaponScale; reference Frog station uses 0.5.",
+  "geometryIncludesPylon": false,
+  "geometryIncludesReceiverContactFace": true,
+  "sourceInterface": {
+    "anchors": "E:\\rimworld1.7  fps\\Investigations\\FixedWing-Burst-Tracking-20261111-R1\\AirOptions\\Framework\\Content-RecoveredAircraftFuel\\Models\\VTOL\\Gun762\\anchors.json",
+    "sha256": "a0d06e92cd383588f3093ecb6c780a5d6387117da4fbaf183233ae68a2b4c629"
+  },
+  "materials": [
+    "Steel",
+    "Parkerized",
+    "Olive",
+    "Brass",
+    "Edges",
+    "Rubber",
+    "Interior",
+    "Marking"
+  ]
+}
