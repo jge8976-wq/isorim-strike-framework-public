@@ -1,3 +1,6 @@
+[h2]0.6.8[/h2]
+A claimed damaged vehicle now enters your faction’s repair list and can be repaired through Vehicle Framework. When a hostile pilot is incapacitated, a helicopter attempts a vertical landing at its current position or a nearby clear spot. Fixed-wing aircraft at or below 15 cells above the surface glide and roll to a stop if the route is clear. Higher aircraft crash and leave a recoverable wreck. Intact aircraft can be claimed after stopping and wrecks after repair. Update both ISORIM FPS Control Bridge and ISORIM 3D Strike Framework for these changes.
+
 [h2]0.6.7[/h2]
 Developer raids with 8 or more aircraft now stage arrivals along the selected edge in flights of up to three. Each flight shares an altitude and a strike plan, and its survivors continue that plan. Ground-attack crews commit to a strafing line or rocket area and update their aim after pulling out. Preset raids also offer 12 and 16 aircraft. Includes the five loadout presets for each of eight aircraft and the four new vehicle sites.
 

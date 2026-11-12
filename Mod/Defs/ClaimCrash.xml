@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <JobDef>
+    <defName>VTOL_ClaimCrash</defName>
+    <driverClass>Isorim.Vtol.JobDriver_ClaimCrash</driverClass>
+    <reportString>Claiming repaired TargetA.</reportString>
+    <playerInterruptible>true</playerInterruptible>
+  </JobDef>
+</Defs>

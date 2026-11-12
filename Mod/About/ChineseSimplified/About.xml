@@ -3,7 +3,7 @@
   <name>ISORIM 立体打击框架</name>
   <author>ISORIM FPS team</author>
   <packageId>isorim.strike.framework</packageId>
-  <modVersion IgnoreIfNoMatchingField="true">0.6.7-formation-raids-r1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="true">0.6.8-vehicle-recovery-r1</modVersion>
   <supportedVersions>
     <li>1.7</li>
   </supportedVersions>
@@ -49,8 +49,8 @@
     <li>hsk.fpsbridge.control.r4</li>
     <li>hsk.importedmodels.vehicles</li>
   </loadAfter>
-  <description>[h2]0.6.7[/h2]
-开发者测试中，8 架及以上编队以三机为一组沿选定地图边缘分批铺开，各组错层入场，同组共用高度和攻击航线，减员后由幸存飞行器接续。对地攻击按一轮扫射线或火箭打击区飞行，拉起后再更新目标位置。武器模板支持 12、16 架编队，继续包含八种飞行载具的五套模板与四种新载具据点任务。
+  <description>[h2]0.6.8[/h2]
+认领受损载具后，车辆会加入我方维修名单，可按 Vehicle Framework 的正常流程维修。敌方飞行员失能后，直升机尝试原地垂直降落，原位受阻时寻找附近安全落点。离地 15 格及以内的固定翼在路线安全时滑翔接地并滑跑停稳，高空固定翼会坠毁并留下可修复残骸。完整飞机停稳后可认领，残骸修好后可认领。请同时更新 ISORIM 第一人称控制桥和 ISORIM 立体打击框架。
 
 [h2]0.6.4[/h2]
 常规空袭使用 7.62 毫米及以下机枪、40 毫米高爆弹或空爆弹。火箭弹和 20 毫米机炮用于高难度或 Boss 空战。八种原版载具拓展飞行器按机体与挂架计点。单人 Frog 加一挺 5.56 毫米机枪共 450 点。无武装侦察机盘旋四个游戏小时，侦察完成后有 80% 概率触发带倒计时和入场方向的空袭。兼容的空爆弹武器新增近炸防空模式，支持冲击波和空中破片。

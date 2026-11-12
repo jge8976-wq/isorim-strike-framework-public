@@ -1,2272 +1,2283 @@
 {
   "workshopItemId": 3833895567,
   "packageId": "isorim.strike.framework",
-  "version": "0.6.7-formation-raids-r1",
-  "workshopBaselineVersion": "0.6.7-formation-raids-r1",
+  "version": "0.6.8-vehicle-recovery-r1",
   "files": {
     "1.7/Assemblies/ISORIM.StrikeFramework.dll": {
-      "bytes": 185344,
-      "sha256": "3fcc0e1fabf17ca2dfa2c380053e1a61335f130d37246b5cfe70b1ff929598e3"
+      "sha256": "46e94e5fed516bbfbb95450760cd5f52c876edd1b97d64940b7f46a6745ebf74",
+      "bytes": 197632
     },
     "About/About.xml": {
-      "bytes": 7800,
-      "sha256": "b2ca0c02df8ee7e7d76a0f1ad7160a660f59059931c9b3329ab802f96598a45b"
+      "sha256": "eb402e84401bf5ea9a2bef582c3895fd12466c988931f95bfecb74954d4d6bff",
+      "bytes": 8380
     },
     "About/ChineseSimplified/About.xml": {
-      "bytes": 10286,
-      "sha256": "afadfe200d7799943ff86285b7dcf4885107e61846e323c7503e60a59d9f9d44"
+      "sha256": "2522069281732464fa0216aafbbeb059bfa0b2df2d56a7d53e01f149d33f6848",
+      "bytes": 10375
     },
     "About/Description-Chinese.txt": {
-      "bytes": 7819,
-      "sha256": "f29700c0b858162998b41e9bc92b44ddaa003c3dba628e04d1ba6c5abc2d958e"
+      "sha256": "40b9de42580fa661e7c7fbb8c9484b027f8e66f3fad6ae343a8428ad31265bbc",
+      "bytes": 7907
     },
     "About/Description-English.txt": {
-      "bytes": 5328,
-      "sha256": "0eedf5abbb0b6a0667c4978fbd22a75ef2c3404d93a9725f4662bc5ed7911df5"
+      "sha256": "be8d8b3590d16b45ed418374cfc1e4b0b8e757517f39cdd9ad23a1f5c46fcdc8",
+      "bytes": 5907
     },
     "About/Description.en.txt": {
-      "bytes": 4562,
-      "sha256": "9e0431fa1501bd2482c577256f182fa85ffc882e3098b1951a80d9cad904d369"
+      "sha256": "9e0431fa1501bd2482c577256f182fa85ffc882e3098b1951a80d9cad904d369",
+      "bytes": 4562
     },
     "About/Description.zh-CN.txt": {
-      "bytes": 7647,
-      "sha256": "56a2eb0c8f0836eafc46ca19fb7a6037d025520ed16f51e62c53c5edf3be612e"
+      "sha256": "56a2eb0c8f0836eafc46ca19fb7a6037d025520ed16f51e62c53c5edf3be612e",
+      "bytes": 7647
     },
     "About/English/About.xml": {
-      "bytes": 7800,
-      "sha256": "b2ca0c02df8ee7e7d76a0f1ad7160a660f59059931c9b3329ab802f96598a45b"
+      "sha256": "eb402e84401bf5ea9a2bef582c3895fd12466c988931f95bfecb74954d4d6bff",
+      "bytes": 8380
+    },
+    "About/Gallery/gallery-01.jpg": {
+      "sha256": "10330b883f5e51904294723ae1a6c0f1dae62ffdc797e6c0781d8f0236300797",
+      "bytes": 281611
+    },
+    "About/Gallery/gallery-02.jpg": {
+      "sha256": "bcb4ab2b5e5d40f7a72cd3d28af8ce260bfd7721e364edcd3ddb86dec6fcfacf",
+      "bytes": 233470
+    },
+    "About/Gallery/gallery-03.jpg": {
+      "sha256": "607068eb82dc65dd3130e0dd72f1bb2041aa43640b64e4c87ce6deda5a1856ef",
+      "bytes": 237408
     },
     "About/Preview.png": {
-      "bytes": 245488,
-      "sha256": "f11010e7516bb79910b9271e0d14983f1f5f080c8c5caccecf21c143621915ba"
+      "sha256": "f11010e7516bb79910b9271e0d14983f1f5f080c8c5caccecf21c143621915ba",
+      "bytes": 245488
     },
     "About/PublishedFileId.txt": {
-      "bytes": 10,
-      "sha256": "1a01fb5686cc83779c1d109ec3fd655dbcdc46a299054725d50a03a7ecbb7bed"
+      "sha256": "1a01fb5686cc83779c1d109ec3fd655dbcdc46a299054725d50a03a7ecbb7bed",
+      "bytes": 10
     },
     "Compatibility/CE/Patches/AerialBombTrialCE.xml": {
-      "bytes": 1638,
-      "sha256": "77a0f10ab2e30eebefd48aefd3e5589c134edddda992490b8d619ebf069d053c"
+      "sha256": "77a0f10ab2e30eebefd48aefd3e5589c134edddda992490b8d619ebf069d053c",
+      "bytes": 1638
     },
     "Compatibility/CE/Patches/AerialSeekerTrialCE.xml": {
-      "bytes": 1743,
-      "sha256": "6eeeda98b8ded76879ca4cc9bdc5f9fca041ef36a3524eba0a1986266f7b735b"
+      "sha256": "6eeeda98b8ded76879ca4cc9bdc5f9fca041ef36a3524eba0a1986266f7b735b",
+      "bytes": 1743
     },
     "Compatibility/CE/Patches/ArmamentCE.xml": {
-      "bytes": 17273,
-      "sha256": "1dcfc9211ad314ac03221dd677afee06ddddfca2b9f507ad65d1e08d4824ca2b"
+      "sha256": "1dcfc9211ad314ac03221dd677afee06ddddfca2b9f507ad65d1e08d4824ca2b",
+      "bytes": 17273
     },
     "Compatibility/CE/Patches/HideVanillaRecipes.xml": {
-      "bytes": 187,
-      "sha256": "a58d15da34ddbc735281a58c230b0dd06be2b7795265726f3174abc0611b8cc3"
+      "sha256": "a58d15da34ddbc735281a58c230b0dd06be2b7795265726f3174abc0611b8cc3",
+      "bytes": 187
     },
     "Compatibility/CE/Patches/LightArmamentCE.xml": {
-      "bytes": 7213,
-      "sha256": "8995bde95f1a2a09be3de914e44d6e037be025f773fd841dc7d7ae59473ac1e2"
+      "sha256": "8995bde95f1a2a09be3de914e44d6e037be025f773fd841dc7d7ae59473ac1e2",
+      "bytes": 7213
     },
     "Data/CatalogReference/VTOL_Airframes.xml": {
-      "bytes": 5690,
-      "sha256": "a225448b9f4af3296e79ff8dc1fcd6fa8820cd14236d6f527236edb16dc5d0f9"
+      "sha256": "a225448b9f4af3296e79ff8dc1fcd6fa8820cd14236d6f527236edb16dc5d0f9",
+      "bytes": 5690
     },
     "Data/CatalogReference/VTOL_Mounts.xml": {
-      "bytes": 1313,
-      "sha256": "d4d55d3d598a61676b13426e943b3703153ec8b33c46152a7435642f432f804f"
+      "sha256": "d4d55d3d598a61676b13426e943b3703153ec8b33c46152a7435642f432f804f",
+      "bytes": 1313
     },
     "Data/CatalogReference/VTOL_Weapons.xml": {
-      "bytes": 13882,
-      "sha256": "aa0adf4d1fdd3c7bc6d77dda99501a2ca8d9fa1cfe4cc6b764fa9bf69699d184"
+      "sha256": "aa0adf4d1fdd3c7bc6d77dda99501a2ca8d9fa1cfe4cc6b764fa9bf69699d184",
+      "bytes": 13882
     },
     "Defs/Armament.xml": {
-      "bytes": 35323,
-      "sha256": "47d2fabaddf685c34536bbc3498cf9fd56fdea782f10233ff89d7ca665194384"
+      "sha256": "47d2fabaddf685c34536bbc3498cf9fd56fdea782f10233ff89d7ca665194384",
+      "bytes": 35323
+    },
+    "Defs/ClaimCrash.xml": {
+      "sha256": "8d8f0492d4aa9ff8bc3335298c8437a93a7be716ae5ea45b9c3f76da9f6e2e38",
+      "bytes": 292
     },
     "Defs/CrashRescue.xml": {
-      "bytes": 1666,
-      "sha256": "4f67cf90f064c330b91c79759745034fc6ff65e22330f2335c4258b013d576f9"
+      "sha256": "02da22db21270b65fdd4c6d5ab4d57ede72cff631d532246f9948b1769c47e32",
+      "bytes": 1858
     },
     "Defs/HostileAirRaid.xml": {
-      "bytes": 469,
-      "sha256": "21e2c0056f194ea6f61d4af4e60ad85aa19dc70113d451cbb9b1c23089393c5b"
+      "sha256": "21e2c0056f194ea6f61d4af4e60ad85aa19dc70113d451cbb9b1c23089393c5b",
+      "bytes": 469
     },
     "Defs/LightAmmunitionRecipes.xml": {
-      "bytes": 4366,
-      "sha256": "add9e3c34408da357483b36ad722c8e15047255548c2f486bdd4ce60f064be29"
+      "sha256": "add9e3c34408da357483b36ad722c8e15047255548c2f486bdd4ce60f064be29",
+      "bytes": 4366
     },
     "Defs/LightArmament.xml": {
-      "bytes": 13473,
-      "sha256": "5a281785fee4fdad0933307716624dd187dcdbad443662b8704a743e1b8af1cc"
+      "sha256": "5a281785fee4fdad0933307716624dd187dcdbad443662b8704a743e1b8af1cc",
+      "bytes": 13473
     },
     "Defs/LightStations.xml": {
-      "bytes": 119468,
-      "sha256": "049cefb7515056f678f630685839e404d1043256c03067084ab893bfec8fd236"
+      "sha256": "049cefb7515056f678f630685839e404d1043256c03067084ab893bfec8fd236",
+      "bytes": 119468
     },
     "Defs/Stations.xml": {
-      "bytes": 363741,
-      "sha256": "e4c29999a9e1a8cb8980b9a5fec2034defa82088b3d61bdf599bfebba3569577"
+      "sha256": "e4c29999a9e1a8cb8980b9a5fec2034defa82088b3d61bdf599bfebba3569577",
+      "bytes": 363741
     },
     "Defs/UpgradeTrees.xml": {
-      "bytes": 1103159,
-      "sha256": "6624c5096cd1495d3d93fd24df0184cd641124edd697c1f261f3e4557583e1dd"
+      "sha256": "6624c5096cd1495d3d93fd24df0184cd641124edd697c1f261f3e4557583e1dd",
+      "bytes": 1103159
     },
     "Defs/VanillaAmmunitionRecipes.xml": {
-      "bytes": 8600,
-      "sha256": "3c740875b002d3a26f2216f74e75df8a4b47f01929f92becd246ea7dd8f50734"
+      "sha256": "3c740875b002d3a26f2216f74e75df8a4b47f01929f92becd246ea7dd8f50734",
+      "bytes": 8600
     },
     "Defs/VehicleRaidEvents.xml": {
-      "bytes": 3705,
-      "sha256": "b7ba9d579aa92280021316523714a3e2635a65213cd319230db5c4dab470ea4c"
+      "sha256": "b7ba9d579aa92280021316523714a3e2635a65213cd319230db5c4dab470ea4c",
+      "bytes": 3705
     },
     "Defs/VehicleSiteMissions.xml": {
-      "bytes": 8468,
-      "sha256": "0f237e8813636f0a041e5497ed834eb23eb21b1146d57963760118f19c3bb2bd"
+      "sha256": "0f237e8813636f0a041e5497ed834eb23eb21b1146d57963760118f19c3bb2bd",
+      "bytes": 8468
     },
     "Languages/ChineseSimplified/DefInjected/IncidentDef/AirRaids.xml": {
-      "bytes": 166,
-      "sha256": "d4842f20c3b3e8876b630acf2a883acfc17748b95429a4d60a942da805f980aa"
+      "sha256": "d4842f20c3b3e8876b630acf2a883acfc17748b95429a4d60a942da805f980aa",
+      "bytes": 166
     },
     "Languages/ChineseSimplified/DefInjected/IncidentDef/VehicleRaidEvents.xml": {
-      "bytes": 259,
-      "sha256": "d8a406dcba050aad3a6bbd8f8c0ba41b4fd26877052d2a410a24dec4bdc27c62"
+      "sha256": "d8a406dcba050aad3a6bbd8f8c0ba41b4fd26877052d2a410a24dec4bdc27c62",
+      "bytes": 259
     },
     "Languages/ChineseSimplified/DefInjected/QuestScriptDef/VehicleRaidEvents.xml": {
-      "bytes": 604,
-      "sha256": "fae08a9629c3aa3f12c6d98dc14541a00c6ce1094ee444b9400afd793f4bb332"
+      "sha256": "fae08a9629c3aa3f12c6d98dc14541a00c6ce1094ee444b9400afd793f4bb332",
+      "bytes": 604
     },
     "Languages/ChineseSimplified/DefInjected/QuestScriptDef/VehicleSiteMissions.xml": {
-      "bytes": 2108,
-      "sha256": "6e26f9e100aab62f464073ee57419ffe21589f42bb1dde8c6c3670645f03f909"
+      "sha256": "6e26f9e100aab62f464073ee57419ffe21589f42bb1dde8c6c3670645f03f909",
+      "bytes": 2108
     },
     "Languages/ChineseSimplified/DefInjected/RecipeDef/LightAmmunition.xml": {
-      "bytes": 1153,
-      "sha256": "9c98360ad043578d8eae5cadf8ac9b50da7b8dd440f873cfde59d43e58eb341f"
+      "sha256": "9c98360ad043578d8eae5cadf8ac9b50da7b8dd440f873cfde59d43e58eb341f",
+      "bytes": 1153
     },
     "Languages/ChineseSimplified/DefInjected/SitePartDef/VehicleRaidEvents.xml": {
-      "bytes": 309,
-      "sha256": "cb5d3371abbc4a1d5f73e9478d83cf53a145568634f2d2196160de524a5d963a"
+      "sha256": "cb5d3371abbc4a1d5f73e9478d83cf53a145568634f2d2196160de524a5d963a",
+      "bytes": 309
     },
     "Languages/ChineseSimplified/DefInjected/SitePartDef/VehicleSiteMissions.xml": {
-      "bytes": 1018,
-      "sha256": "b572a7457c5b801719e85e12aa0598728a370652894e332a7237b6944ea5aaa9"
+      "sha256": "b572a7457c5b801719e85e12aa0598728a370652894e332a7237b6944ea5aaa9",
+      "bytes": 1018
     },
     "Languages/ChineseSimplified/DefInjected/ThingDef/CrashRescue.xml": {
-      "bytes": 269,
-      "sha256": "0c2f122a1d3a9a01c57c427a50838fb94b632a9ed3dd87a21ce8bb9a2757492f"
+      "sha256": "0c2f122a1d3a9a01c57c427a50838fb94b632a9ed3dd87a21ce8bb9a2757492f",
+      "bytes": 269
     },
     "Languages/ChineseSimplified/DefInjected/ThingDef/LightAmmunition.xml": {
-      "bytes": 1689,
-      "sha256": "f4d5f19d8dc127d8e224cb183f14d36b7eea6dbfd1639212dd02238e0c8a2f06"
+      "sha256": "f4d5f19d8dc127d8e224cb183f14d36b7eea6dbfd1639212dd02238e0c8a2f06",
+      "bytes": 1689
     },
     "Languages/ChineseSimplified/DefInjected/ThingDef/VehicleRaidEvents.xml": {
-      "bytes": 311,
-      "sha256": "080e2688493cb9584fe635505ed388f6c2e6ff36f73a948e489d6e590407110f"
+      "sha256": "080e2688493cb9584fe635505ed388f6c2e6ff36f73a948e489d6e590407110f",
+      "bytes": 311
     },
     "Languages/ChineseSimplified/DefInjected/ThingDef/VehicleSiteMissions.xml": {
-      "bytes": 849,
-      "sha256": "aa9143b22c61a52b1bc743ee52770776dd4097596c51924b7fcc9f8b9035c69a"
+      "sha256": "aa9143b22c61a52b1bc743ee52770776dd4097596c51924b7fcc9f8b9035c69a",
+      "bytes": 849
     },
     "Languages/ChineseSimplified/DefInjected/Vehicles.UpgradeTreeDef/LightWeapons.xml": {
-      "bytes": 38217,
-      "sha256": "6dfa7405573adf2377cca596a754f1468a1882da62300a3db74d74a940565f3f"
+      "sha256": "6dfa7405573adf2377cca596a754f1468a1882da62300a3db74d74a940565f3f",
+      "bytes": 38217
     },
     "Languages/ChineseSimplified/DefInjected/Vehicles.UpgradeTreeDef/VTOL.xml": {
-      "bytes": 9492,
-      "sha256": "dfc8db803122b70ab8c228bf1a4a947ed143e09eb335ee0dc16bf41482baf4ff"
+      "sha256": "dfc8db803122b70ab8c228bf1a4a947ed143e09eb335ee0dc16bf41482baf4ff",
+      "bytes": 9492
     },
     "Languages/ChineseSimplified/DefInjected/Vehicles.VehicleTurretDef/LightArmament.xml": {
-      "bytes": 1078,
-      "sha256": "45e702403b4a9942060ebd27ab05fa9bbc05c537b650c19170c2758d06329aab"
+      "sha256": "45e702403b4a9942060ebd27ab05fa9bbc05c537b650c19170c2758d06329aab",
+      "bytes": 1078
     },
     "Languages/ChineseSimplified/DefInjected/Vehicles.VehicleTurretDef/VTOL.xml": {
-      "bytes": 1189,
-      "sha256": "adf51dc75f3742708d1f566f51773ebe159853347e45ecd4fb1c0ca45ba57026"
+      "sha256": "adf51dc75f3742708d1f566f51773ebe159853347e45ecd4fb1c0ca45ba57026",
+      "bytes": 1189
     },
     "Languages/ChineseSimplified/Keyed/Parachutes.xml": {
-      "bytes": 220,
-      "sha256": "fe21db9119f4ee60393d0365f9f64598e2048de5ff7e19e29edfaab6cf05b27f"
+      "sha256": "fe21db9119f4ee60393d0365f9f64598e2048de5ff7e19e29edfaab6cf05b27f",
+      "bytes": 220
     },
     "Languages/ChineseTraditional/Keyed/Parachutes.xml": {
-      "bytes": 220,
-      "sha256": "d872d5aa211948d7aec09c3c671bbaf2098b30e2c188bbe294804d58ca139fb6"
+      "sha256": "d872d5aa211948d7aec09c3c671bbaf2098b30e2c188bbe294804d58ca139fb6",
+      "bytes": 220
     },
     "Languages/English/Keyed/Parachutes.xml": {
-      "bytes": 234,
-      "sha256": "758db1ac020ac7774c76006f72ecf446e27baf867953615e5d9d2ddde09fc868"
+      "sha256": "758db1ac020ac7774c76006f72ecf446e27baf867953615e5d9d2ddde09fc868",
+      "bytes": 234
     },
     "LoadFolders.xml": {
-      "bytes": 191,
-      "sha256": "b119a49fdcbe663ff69b8a4d55ffc824e539de387e0069ee9fb40d838aebd7e6"
+      "sha256": "b119a49fdcbe663ff69b8a4d55ffc824e539de387e0069ee9fb40d838aebd7e6",
+      "bytes": 191
     },
     "Models/AerialR14/BombLight/BombLight.obj": {
-      "bytes": 150800,
-      "sha256": "98fa30a39f3a5aa3a29db717832e27d383b645626d11e5f04a3f3986084aaa15"
+      "sha256": "98fa30a39f3a5aa3a29db717832e27d383b645626d11e5f04a3f3986084aaa15",
+      "bytes": 150800
     },
     "Models/AerialR14/BombLight/Palette.mtl": {
-      "bytes": 762,
-      "sha256": "71ab7e1c18d90f0998942a19b3c4811e375888e2279ff23d9b371c13765e3fc5"
+      "sha256": "71ab7e1c18d90f0998942a19b3c4811e375888e2279ff23d9b371c13765e3fc5",
+      "bytes": 762
     },
     "Models/AerialR14/Cannon20/Cannon20.obj": {
-      "bytes": 180387,
-      "sha256": "c30aefd1c7697381ca0dae1e69d172e90aaca40648b4650cd821fa0a2b6d875e"
+      "sha256": "c30aefd1c7697381ca0dae1e69d172e90aaca40648b4650cd821fa0a2b6d875e",
+      "bytes": 180387
     },
     "Models/AerialR14/Cannon20/Cannon20__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/AerialR14/Cannon20/Cannon20__Pitch.obj": {
-      "bytes": 8580,
-      "sha256": "40e4f8c3f82ae7c1cf7d6d5964d67100a42e9da0dffbae159060b63d7b7fd5ae"
+      "sha256": "40e4f8c3f82ae7c1cf7d6d5964d67100a42e9da0dffbae159060b63d7b7fd5ae",
+      "bytes": 8580
     },
     "Models/AerialR14/Cannon20/Cannon20__PodShell.obj": {
-      "bytes": 42674,
-      "sha256": "cb6383a6c4f2a86f8e9bd658d1f17f06f4cd16340a28a784a6700dbc88251361"
+      "sha256": "cb6383a6c4f2a86f8e9bd658d1f17f06f4cd16340a28a784a6700dbc88251361",
+      "bytes": 42674
     },
     "Models/AerialR14/Cannon20/Cannon20__Rotor.obj": {
-      "bytes": 117101,
-      "sha256": "636032b3c9eda543fa461e6ffbcef73e329213b214cd386050e32827ed7e0b1d"
+      "sha256": "636032b3c9eda543fa461e6ffbcef73e329213b214cd386050e32827ed7e0b1d",
+      "bytes": 117101
     },
     "Models/AerialR14/Cannon20/Palette.mtl": {
-      "bytes": 938,
-      "sha256": "6970554303f94f3d5337ae17efae4a1c69085b6524e2fc9bbb59098be86cb0af"
+      "sha256": "6970554303f94f3d5337ae17efae4a1c69085b6524e2fc9bbb59098be86cb0af",
+      "bytes": 938
     },
     "Models/AerialR14/Cannon20/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/Cannon30/Cannon30.obj": {
-      "bytes": 87952,
-      "sha256": "1875bcb86543d20f7a6f7fa2b3facb2b5aec96ce95b3ed010e1ee9492b2169b6"
+      "sha256": "1875bcb86543d20f7a6f7fa2b3facb2b5aec96ce95b3ed010e1ee9492b2169b6",
+      "bytes": 87952
     },
     "Models/AerialR14/Cannon30/Cannon30__FeedBox.obj": {
-      "bytes": 8200,
-      "sha256": "84813a8b9bafd6d2693534fc73fe0897c0882bb3bf038f8c66abdbb87ac1a0f1"
+      "sha256": "84813a8b9bafd6d2693534fc73fe0897c0882bb3bf038f8c66abdbb87ac1a0f1",
+      "bytes": 8200
     },
     "Models/AerialR14/Cannon30/Cannon30__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/AerialR14/Cannon30/Cannon30__Pitch.obj": {
-      "bytes": 61197,
-      "sha256": "72dfae7e2154af37e579b37118d8e577839bf939c6bd05ab9b3a68020b67de88"
+      "sha256": "72dfae7e2154af37e579b37118d8e577839bf939c6bd05ab9b3a68020b67de88",
+      "bytes": 61197
     },
     "Models/AerialR14/Cannon30/Cannon30__Yaw.obj": {
-      "bytes": 8997,
-      "sha256": "4fad865fc0039bdb8e41f24e69955a445af9e4179a53284002f7fcd6c0ad0d88"
+      "sha256": "4fad865fc0039bdb8e41f24e69955a445af9e4179a53284002f7fcd6c0ad0d88",
+      "bytes": 8997
     },
     "Models/AerialR14/Cannon30/Palette.mtl": {
-      "bytes": 938,
-      "sha256": "3f6dc877b33f0dec558c05eb106790d04a3025999bd54b8e6d11507939a7eee7"
+      "sha256": "3f6dc877b33f0dec558c05eb106790d04a3025999bd54b8e6d11507939a7eee7",
+      "bytes": 938
     },
     "Models/AerialR14/Cannon30/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/ChinMount/ChinMount.obj": {
-      "bytes": 96152,
-      "sha256": "f46c65f736f5fe90fd11e1ebc81a949f95c45443b64740d4e89d9faddf7736b7"
+      "sha256": "f46c65f736f5fe90fd11e1ebc81a949f95c45443b64740d4e89d9faddf7736b7",
+      "bytes": 96152
     },
     "Models/AerialR14/ChinMount/ChinMount__Mount.obj": {
-      "bytes": 49677,
-      "sha256": "8ed1245a7534d046432c179a67c52427a8de8bc782bf83a304042b9d83a4f0ef"
+      "sha256": "8ed1245a7534d046432c179a67c52427a8de8bc782bf83a304042b9d83a4f0ef",
+      "bytes": 49677
     },
     "Models/AerialR14/ChinMount/ChinMount__Pitch.obj": {
-      "bytes": 9319,
-      "sha256": "f68c5d10b7d176add5ca15afdf2e993eea653968139ca1efdbf36b5a280e0872"
+      "sha256": "f68c5d10b7d176add5ca15afdf2e993eea653968139ca1efdbf36b5a280e0872",
+      "bytes": 9319
     },
     "Models/AerialR14/ChinMount/ChinMount__Yaw.obj": {
-      "bytes": 35686,
-      "sha256": "51b941037c618060a6edc08a63ab323388d46a0ccc3ff7c341559edce5455465"
+      "sha256": "51b941037c618060a6edc08a63ab323388d46a0ccc3ff7c341559edce5455465",
+      "bytes": 35686
     },
     "Models/AerialR14/ChinMount/Palette.mtl": {
-      "bytes": 946,
-      "sha256": "bbaae92f799a0525ea1f77026fa69f84db35d88c8226369e98354f02f2c6b609"
+      "sha256": "bbaae92f799a0525ea1f77026fa69f84db35d88c8226369e98354f02f2c6b609",
+      "bytes": 946
     },
     "Models/AerialR14/ChinMount/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/Grenade40/Grenade40.obj": {
-      "bytes": 107319,
-      "sha256": "7fc8a5b0fea23ed8d359799f5baf3a1722f9bdfe86e38730bcc4dae084a4dc4a"
+      "sha256": "7fc8a5b0fea23ed8d359799f5baf3a1722f9bdfe86e38730bcc4dae084a4dc4a",
+      "bytes": 107319
     },
     "Models/AerialR14/Grenade40/Grenade40__FeedBox.obj": {
-      "bytes": 30324,
-      "sha256": "b92e79f56b60905674d28353d95c48087c0712bb7544fb626721dd7458de6b39"
+      "sha256": "b92e79f56b60905674d28353d95c48087c0712bb7544fb626721dd7458de6b39",
+      "bytes": 30324
     },
     "Models/AerialR14/Grenade40/Grenade40__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/AerialR14/Grenade40/Grenade40__Pitch.obj": {
-      "bytes": 29653,
-      "sha256": "2a564db7d3e456f171ab8d374cc179c4ae620c9a9789c69ac26ba4683600cab5"
+      "sha256": "2a564db7d3e456f171ab8d374cc179c4ae620c9a9789c69ac26ba4683600cab5",
+      "bytes": 29653
     },
     "Models/AerialR14/Grenade40/Grenade40__PodShell.obj": {
-      "bytes": 36510,
-      "sha256": "be88376b85a70200873b4803d8824d8b0bf7de1a3008eb648301f2e5ec1f7ea5"
+      "sha256": "be88376b85a70200873b4803d8824d8b0bf7de1a3008eb648301f2e5ec1f7ea5",
+      "bytes": 36510
     },
     "Models/AerialR14/Grenade40/Palette.mtl": {
-      "bytes": 946,
-      "sha256": "ddbf2852bca3c96280128c8dfadad206e41268524a302afdd55e0f6f1a8e2642"
+      "sha256": "ddbf2852bca3c96280128c8dfadad206e41268524a302afdd55e0f6f1a8e2642",
+      "bytes": 946
     },
     "Models/AerialR14/Grenade40/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/Gun127/Gun127.obj": {
-      "bytes": 369942,
-      "sha256": "c2773678ed827822f7af9cd5731d368a8b9a84547fad6c9f381581618da8a2e2"
+      "sha256": "c2773678ed827822f7af9cd5731d368a8b9a84547fad6c9f381581618da8a2e2",
+      "bytes": 369942
     },
     "Models/AerialR14/Gun127/Gun127__FeedBox.obj": {
-      "bytes": 41516,
-      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0"
+      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0",
+      "bytes": 41516
     },
     "Models/AerialR14/Gun127/Gun127__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/AerialR14/Gun127/Gun127__Pitch.obj": {
-      "bytes": 308079,
-      "sha256": "01934150d2ab9e1bc64f6cceeb5ca6777869466798e68f957d16b3612d0c5fac"
+      "sha256": "01934150d2ab9e1bc64f6cceeb5ca6777869466798e68f957d16b3612d0c5fac",
+      "bytes": 308079
     },
     "Models/AerialR14/Gun127/Gun127__Yaw.obj": {
-      "bytes": 8120,
-      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8"
+      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8",
+      "bytes": 8120
     },
     "Models/AerialR14/Gun127/Palette.mtl": {
-      "bytes": 922,
-      "sha256": "aa974b11d0e2b910c8d9511d60d2ded6424006d8902c230cb6230e9fe68bd37d"
+      "sha256": "aa974b11d0e2b910c8d9511d60d2ded6424006d8902c230cb6230e9fe68bd37d",
+      "bytes": 922
     },
     "Models/AerialR14/Gun127/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/Gun556Air/Gun556Air__Station.anchors.json": {
-      "bytes": 1017,
-      "sha256": "7a7462b061a5b9608f30075464fd4cf75a45e6f3b9d222cb79af9411775a0d79"
+      "sha256": "7a7462b061a5b9608f30075464fd4cf75a45e6f3b9d222cb79af9411775a0d79",
+      "bytes": 1017
     },
     "Models/AerialR14/Gun556Air/Gun556Air__Station.mtl": {
-      "bytes": 1481,
-      "sha256": "a1a15e1749a008c64e7924ff216c20ece328c5519b87940cf852346889fe64ce"
+      "sha256": "a1a15e1749a008c64e7924ff216c20ece328c5519b87940cf852346889fe64ce",
+      "bytes": 1481
     },
     "Models/AerialR14/Gun556Air/Gun556Air__Station.obj": {
-      "bytes": 542944,
-      "sha256": "b3d1b02345181426d269729b34d7ce45061446490361c5cede721a2ae11000c5"
+      "sha256": "b3d1b02345181426d269729b34d7ce45061446490361c5cede721a2ae11000c5",
+      "bytes": 542944
     },
     "Models/AerialR14/Gun762/Gun762.obj": {
-      "bytes": 326578,
-      "sha256": "bc550d927b518b3d2e9d90b5abd9a3ae741c0c8d4ab1358d3404ed54146575cf"
+      "sha256": "bc550d927b518b3d2e9d90b5abd9a3ae741c0c8d4ab1358d3404ed54146575cf",
+      "bytes": 326578
     },
     "Models/AerialR14/Gun762/Gun762__FeedBox.obj": {
-      "bytes": 41516,
-      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0"
+      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0",
+      "bytes": 41516
     },
     "Models/AerialR14/Gun762/Gun762__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/AerialR14/Gun762/Gun762__Pitch.obj": {
-      "bytes": 264705,
-      "sha256": "c7c6cf6b6373c466d523b0fba2d3613df02ac5ca6dc7b5a1e2dd6a60d1a01698"
+      "sha256": "c7c6cf6b6373c466d523b0fba2d3613df02ac5ca6dc7b5a1e2dd6a60d1a01698",
+      "bytes": 264705
     },
     "Models/AerialR14/Gun762/Gun762__Yaw.obj": {
-      "bytes": 8120,
-      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8"
+      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8",
+      "bytes": 8120
     },
     "Models/AerialR14/Gun762/Palette.mtl": {
-      "bytes": 922,
-      "sha256": "9629fd28e6aa1a76b0f4e452739a8cece5f50ac866e88856512fa338d2ffdafa"
+      "sha256": "9629fd28e6aa1a76b0f4e452739a8cece5f50ac866e88856512fa338d2ffdafa",
+      "bytes": 922
     },
     "Models/AerialR14/Gun762/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/Gun76251Air/Gun76251Air.mtl": {
-      "bytes": 138,
-      "sha256": "08af3237a5fead89b8ade0004b497111329fb4f0021ed2e6724f517e958c4b96"
+      "sha256": "08af3237a5fead89b8ade0004b497111329fb4f0021ed2e6724f517e958c4b96",
+      "bytes": 138
     },
     "Models/AerialR14/Gun76251Air/Gun76251Air.obj": {
-      "bytes": 310274,
-      "sha256": "3b64d7afa5125b8bc2deb191d145d6900a8a8e795a8469ba4977158ba7e4a425"
+      "sha256": "3b64d7afa5125b8bc2deb191d145d6900a8a8e795a8469ba4977158ba7e4a425",
+      "bytes": 310274
     },
     "Models/AerialR14/Gun76251Air/Gun76251Air_Chin.obj": {
-      "bytes": 309368,
-      "sha256": "b6e3b8cb3a3267d6bb185d068de6d0b0f849e3bef36bb2d595ecd3d1c9778eeb"
+      "sha256": "b6e3b8cb3a3267d6bb185d068de6d0b0f849e3bef36bb2d595ecd3d1c9778eeb",
+      "bytes": 309368
     },
     "Models/AerialR14/Gun76254RAir/anchors.json": {
-      "bytes": 6815,
-      "sha256": "74033af12ccb7477dff34fa36490d82613555d8bc91f710cd7470e925fe8e19e"
+      "sha256": "74033af12ccb7477dff34fa36490d82613555d8bc91f710cd7470e925fe8e19e",
+      "bytes": 6815
     },
     "Models/AerialR14/Gun76254RAir/Gun76254RAir.mtl": {
-      "bytes": 1169,
-      "sha256": "394161f5b6aea8cbcf347de947a15cf2a829f1988b87a26b44bccb3f6629e855"
+      "sha256": "394161f5b6aea8cbcf347de947a15cf2a829f1988b87a26b44bccb3f6629e855",
+      "bytes": 1169
     },
     "Models/AerialR14/Gun76254RAir/Gun76254RAir.obj": {
-      "bytes": 662860,
-      "sha256": "5d7be2767b1778023598b5517efce2966bca396870b699e355183ebff30f50a5"
+      "sha256": "5d7be2767b1778023598b5517efce2966bca396870b699e355183ebff30f50a5",
+      "bytes": 662860
     },
     "Models/AerialR14/MissileATSingle/MissileATSingle.obj": {
-      "bytes": 106096,
-      "sha256": "66a538c261e04f2dcb136c163c29c4693bbf807e27596f770cd27b1b01536483"
+      "sha256": "66a538c261e04f2dcb136c163c29c4693bbf807e27596f770cd27b1b01536483",
+      "bytes": 106096
     },
     "Models/AerialR14/MissileATSingle/MissileATSingle__Missile.obj": {
-      "bytes": 71168,
-      "sha256": "7617ee464b96df3e4a58336812e395baf3be8d14b32ca8c45a935d8c6eb311bf"
+      "sha256": "7617ee464b96df3e4a58336812e395baf3be8d14b32ca8c45a935d8c6eb311bf",
+      "bytes": 71168
     },
     "Models/AerialR14/MissileATSingle/MissileATSingle__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/AerialR14/MissileATSingle/MissileATSingle__Rail.obj": {
-      "bytes": 25051,
-      "sha256": "ee42c6e92eec33c667b9aba674a8c9916cc76dc1a5cbb23f62719eaebb17db98"
+      "sha256": "ee42c6e92eec33c667b9aba674a8c9916cc76dc1a5cbb23f62719eaebb17db98",
+      "bytes": 25051
     },
     "Models/AerialR14/MissileATSingle/Palette.mtl": {
-      "bytes": 994,
-      "sha256": "4bd1bd999f58e47020212e476bba0a4d7108ce9e0145f25b4b2a3cb51490139a"
+      "sha256": "4bd1bd999f58e47020212e476bba0a4d7108ce9e0145f25b4b2a3cb51490139a",
+      "bytes": 994
     },
     "Models/AerialR14/MissileATSingle/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/PylonLight/Palette.mtl": {
-      "bytes": 954,
-      "sha256": "5cab35c8202356ab93f7426488ffeb1dd7b0e0fb7231ee5a1570c4f519f3c87d"
+      "sha256": "5cab35c8202356ab93f7426488ffeb1dd7b0e0fb7231ee5a1570c4f519f3c87d",
+      "bytes": 954
     },
     "Models/AerialR14/PylonLight/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/PylonLight/PylonLight.obj": {
-      "bytes": 99134,
-      "sha256": "58d868efdf03d26a9269274b45c8b07f5eccb97309ded718f6935b951b64c5ae"
+      "sha256": "58d868efdf03d26a9269274b45c8b07f5eccb97309ded718f6935b951b64c5ae",
+      "bytes": 99134
     },
     "Models/AerialR14/PylonLight/PylonLight__Mount.obj": {
-      "bytes": 8520,
-      "sha256": "6cc3a11eed805f590783e016874374433cccbbbb9005ba80248844277dfc412d"
+      "sha256": "6cc3a11eed805f590783e016874374433cccbbbb9005ba80248844277dfc412d",
+      "bytes": 8520
     },
     "Models/AerialR14/PylonLight/PylonLight__Pylon.obj": {
-      "bytes": 45816,
-      "sha256": "1bf507841fc5c66b13e2737879a13e514f1716c91a1e5a11fa33ece2a9b5336d"
+      "sha256": "1bf507841fc5c66b13e2737879a13e514f1716c91a1e5a11fa33ece2a9b5336d",
+      "bytes": 45816
     },
     "Models/AerialR14/PylonLight/PylonLight__StoreInterface.obj": {
-      "bytes": 43378,
-      "sha256": "2b3eb8f11c963c04bbd123291dad1915c8471045e0f8008292b6671b234d860f"
+      "sha256": "2b3eb8f11c963c04bbd123291dad1915c8471045e0f8008292b6671b234d860f",
+      "bytes": 43378
     },
     "Models/AerialR14/Rocket70Seven/Palette.mtl": {
-      "bytes": 978,
-      "sha256": "a591bebcc37c7bb5b1f57df1f80cda118d25c028607d995c903d9f0e4a569e1a"
+      "sha256": "a591bebcc37c7bb5b1f57df1f80cda118d25c028607d995c903d9f0e4a569e1a",
+      "bytes": 978
     },
     "Models/AerialR14/Rocket70Seven/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven.obj": {
-      "bytes": 226182,
-      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155"
+      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155",
+      "bytes": 226182
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Empty.obj": {
-      "bytes": 185378,
-      "sha256": "00bba89f335b57c63ce3d04f0d1a5c3a7280fc0fbcab38078e58afb7f9cbb1f4"
+      "sha256": "00bba89f335b57c63ce3d04f0d1a5c3a7280fc0fbcab38078e58afb7f9cbb1f4",
+      "bytes": 185378
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__EndCap.obj": {
-      "bytes": 8352,
-      "sha256": "a005c7b285c8f2d5fa84f21316fa315963e553cef5eef6925e278ce0ba25c38b"
+      "sha256": "a005c7b285c8f2d5fa84f21316fa315963e553cef5eef6925e278ce0ba25c38b",
+      "bytes": 8352
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Full.obj": {
-      "bytes": 226182,
-      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155"
+      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155",
+      "bytes": 226182
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Mount.obj": {
-      "bytes": 8150,
-      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952"
+      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952",
+      "bytes": 8150
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__PodShell.obj": {
-      "bytes": 69899,
-      "sha256": "c4016f83c48109e9540276709a295cb0ca23c9a7ff93bbf8f3b2f56d38f8741c"
+      "sha256": "c4016f83c48109e9540276709a295cb0ca23c9a7ff93bbf8f3b2f56d38f8741c",
+      "bytes": 69899
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Round_01.obj": {
-      "bytes": 5378,
-      "sha256": "69be149a323b7430d9599fd2ee2ee1225677f2df82c37f53b61ba841fae61314"
+      "sha256": "69be149a323b7430d9599fd2ee2ee1225677f2df82c37f53b61ba841fae61314",
+      "bytes": 5378
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Round_02.obj": {
-      "bytes": 5356,
-      "sha256": "875dcfc4d5c3a076352a1a95e894a07812e45240883e1443f4bb45f020be8679"
+      "sha256": "875dcfc4d5c3a076352a1a95e894a07812e45240883e1443f4bb45f020be8679",
+      "bytes": 5356
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Round_03.obj": {
-      "bytes": 5368,
-      "sha256": "b78e348cc0a3c0108c7f28f6404b121ca891745be223e2d7799265b07ee5134b"
+      "sha256": "b78e348cc0a3c0108c7f28f6404b121ca891745be223e2d7799265b07ee5134b",
+      "bytes": 5368
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Round_04.obj": {
-      "bytes": 5385,
-      "sha256": "bf86ce666a2bf62a97d8e90832e82a3bb7058c61f92eb274000a853c4da5e8e9"
+      "sha256": "bf86ce666a2bf62a97d8e90832e82a3bb7058c61f92eb274000a853c4da5e8e9",
+      "bytes": 5385
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Round_05.obj": {
-      "bytes": 5373,
-      "sha256": "d6aa0611813fff29ce175e3421ba322f43ab5d19884638cba835f29c6deef123"
+      "sha256": "d6aa0611813fff29ce175e3421ba322f43ab5d19884638cba835f29c6deef123",
+      "bytes": 5373
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Round_06.obj": {
-      "bytes": 5388,
-      "sha256": "b2803e2d6e521ada35d356191d5b501bf58cb218475d5156009db663a2b1e01d"
+      "sha256": "b2803e2d6e521ada35d356191d5b501bf58cb218475d5156009db663a2b1e01d",
+      "bytes": 5388
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__Round_07.obj": {
-      "bytes": 5368,
-      "sha256": "66ec7669f891ed4f0f858a35c7f56499f5ec07bce9ea327ca9b8d83a55f0760c"
+      "sha256": "66ec7669f891ed4f0f858a35c7f56499f5ec07bce9ea327ca9b8d83a55f0760c",
+      "bytes": 5368
     },
     "Models/AerialR14/Rocket70Seven/Rocket70Seven__TubeLiners.obj": {
-      "bytes": 94328,
-      "sha256": "c1d06e2c52a195439747edc736498518d9cd12d2eea6095241a94cee93e18190"
+      "sha256": "c1d06e2c52a195439747edc736498518d9cd12d2eea6095241a94cee93e18190",
+      "bytes": 94328
     },
     "Models/AerialR14/Rocket80Twenty/Palette.mtl": {
-      "bytes": 986,
-      "sha256": "78b1d4ae2bac5a8ba5e973c38d69103bf22def6770678e9375030a8bb0e12f40"
+      "sha256": "78b1d4ae2bac5a8ba5e973c38d69103bf22def6770678e9375030a8bb0e12f40",
+      "bytes": 986
     },
     "Models/AerialR14/Rocket80Twenty/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty.obj": {
-      "bytes": 486686,
-      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f"
+      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f",
+      "bytes": 486686
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Empty.obj": {
-      "bytes": 368219,
-      "sha256": "a833cb484503f45435d3c8fd97018492866cf54f30a34f9092159d17ccd8d515"
+      "sha256": "a833cb484503f45435d3c8fd97018492866cf54f30a34f9092159d17ccd8d515",
+      "bytes": 368219
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__EndCap.obj": {
-      "bytes": 8334,
-      "sha256": "ea87733d35cf83588f6acece5320c0f527afc2a9063e902f2636278122e3937a"
+      "sha256": "ea87733d35cf83588f6acece5320c0f527afc2a9063e902f2636278122e3937a",
+      "bytes": 8334
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Full.obj": {
-      "bytes": 486686,
-      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f"
+      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f",
+      "bytes": 486686
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Mount.obj": {
-      "bytes": 8150,
-      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952"
+      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952",
+      "bytes": 8150
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__PodShell.obj": {
-      "bytes": 69853,
-      "sha256": "cbbe5953e22e6c18549ec0b406eceaceefa7ad25b51e5984d82da5a1075fad7e"
+      "sha256": "cbbe5953e22e6c18549ec0b406eceaceefa7ad25b51e5984d82da5a1075fad7e",
+      "bytes": 69853
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_01.obj": {
-      "bytes": 5374,
-      "sha256": "5b9b06524ed100ab688e5abd1eb2f27b0595b0e4089b2ffbec3720d36c33374a"
+      "sha256": "5b9b06524ed100ab688e5abd1eb2f27b0595b0e4089b2ffbec3720d36c33374a",
+      "bytes": 5374
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_02.obj": {
-      "bytes": 5380,
-      "sha256": "e7375919b9936b442c3538419db4727b43b43cc7778f9d61085d4c6e700030f3"
+      "sha256": "e7375919b9936b442c3538419db4727b43b43cc7778f9d61085d4c6e700030f3",
+      "bytes": 5380
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_03.obj": {
-      "bytes": 5387,
-      "sha256": "c53e8a31b778e05de2983975934d8387f98bdb97954a6d00bcf80cf2b2ae13f7"
+      "sha256": "c53e8a31b778e05de2983975934d8387f98bdb97954a6d00bcf80cf2b2ae13f7",
+      "bytes": 5387
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_04.obj": {
-      "bytes": 5378,
-      "sha256": "15a9b6c965adadfe74e635f7e88516e2eb9a94c9102076e85276e47810e02d55"
+      "sha256": "15a9b6c965adadfe74e635f7e88516e2eb9a94c9102076e85276e47810e02d55",
+      "bytes": 5378
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_05.obj": {
-      "bytes": 5356,
-      "sha256": "03a194ee6b2e9d3baa76541bc043e082e108fb97c70fb26b27a184a88ae62ecc"
+      "sha256": "03a194ee6b2e9d3baa76541bc043e082e108fb97c70fb26b27a184a88ae62ecc",
+      "bytes": 5356
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_06.obj": {
-      "bytes": 5365,
-      "sha256": "49007e266dfbbdc189735e9f5385971c4fcf0a0584af7605cb3535e1e83907d9"
+      "sha256": "49007e266dfbbdc189735e9f5385971c4fcf0a0584af7605cb3535e1e83907d9",
+      "bytes": 5365
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_07.obj": {
-      "bytes": 5365,
-      "sha256": "42f9a61dcc64219557b5ebd905ef0ff98a6a07f649d2d0521f508cc2e75197a1"
+      "sha256": "42f9a61dcc64219557b5ebd905ef0ff98a6a07f649d2d0521f508cc2e75197a1",
+      "bytes": 5365
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_08.obj": {
-      "bytes": 5343,
-      "sha256": "c14a835d97a74d8a22283115616198f30b1e12441ee608d108c511e67909a00c"
+      "sha256": "c14a835d97a74d8a22283115616198f30b1e12441ee608d108c511e67909a00c",
+      "bytes": 5343
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_09.obj": {
-      "bytes": 5393,
-      "sha256": "187f734fe63c66438a2accfb8ffe009ac43755cda4c58dbcff4148fc978e0148"
+      "sha256": "187f734fe63c66438a2accfb8ffe009ac43755cda4c58dbcff4148fc978e0148",
+      "bytes": 5393
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_10.obj": {
-      "bytes": 5365,
-      "sha256": "98f4e682455f7c876cb7e5f3f999955243317dc598a0b7f4ac3cd0af29337a82"
+      "sha256": "98f4e682455f7c876cb7e5f3f999955243317dc598a0b7f4ac3cd0af29337a82",
+      "bytes": 5365
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_11.obj": {
-      "bytes": 5382,
-      "sha256": "69f7f49c0653acdbe2a7777f9680b96fa0a1b86c00775e44e1ca1f75b2dfd46a"
+      "sha256": "69f7f49c0653acdbe2a7777f9680b96fa0a1b86c00775e44e1ca1f75b2dfd46a",
+      "bytes": 5382
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_12.obj": {
-      "bytes": 5382,
-      "sha256": "e786439b5dd4aa689b17c041afcfb6724fb3c68a6874004467d678516c70c21f"
+      "sha256": "e786439b5dd4aa689b17c041afcfb6724fb3c68a6874004467d678516c70c21f",
+      "bytes": 5382
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_13.obj": {
-      "bytes": 5376,
-      "sha256": "cd8b6e5449fbf708dd695268a5bd44ab9ac917c120851b01dbdb4519fa7fe90b"
+      "sha256": "cd8b6e5449fbf708dd695268a5bd44ab9ac917c120851b01dbdb4519fa7fe90b",
+      "bytes": 5376
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_14.obj": {
-      "bytes": 5382,
-      "sha256": "2da16fb53f2b94655e7d3d4fc4ec184ce1d7ec83d455bbb090c67cab1cca2e3e"
+      "sha256": "2da16fb53f2b94655e7d3d4fc4ec184ce1d7ec83d455bbb090c67cab1cca2e3e",
+      "bytes": 5382
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_15.obj": {
-      "bytes": 5381,
-      "sha256": "a9368e931035c78043de31096262075656de116dc60302658b9df159409fc52d"
+      "sha256": "a9368e931035c78043de31096262075656de116dc60302658b9df159409fc52d",
+      "bytes": 5381
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_16.obj": {
-      "bytes": 5363,
-      "sha256": "66afb5d22b44eca40894f93075010d75919d4fc299863ae285de61789d8d264b"
+      "sha256": "66afb5d22b44eca40894f93075010d75919d4fc299863ae285de61789d8d264b",
+      "bytes": 5363
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_17.obj": {
-      "bytes": 5379,
-      "sha256": "5b24fd513b941da4fde8a4eb2daf250169d2d6a08816d47544db7f8fc549fa47"
+      "sha256": "5b24fd513b941da4fde8a4eb2daf250169d2d6a08816d47544db7f8fc549fa47",
+      "bytes": 5379
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_18.obj": {
-      "bytes": 5338,
-      "sha256": "8946d06dbab972114b9a5a7f546637544092c5408160c8f0c42b97c91ca0c2d7"
+      "sha256": "8946d06dbab972114b9a5a7f546637544092c5408160c8f0c42b97c91ca0c2d7",
+      "bytes": 5338
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_19.obj": {
-      "bytes": 5364,
-      "sha256": "fbcbccddf81112dcf42b4b636e49a73e78c00f07313bd493aa3c5f2c1a09a300"
+      "sha256": "fbcbccddf81112dcf42b4b636e49a73e78c00f07313bd493aa3c5f2c1a09a300",
+      "bytes": 5364
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__Round_20.obj": {
-      "bytes": 5368,
-      "sha256": "c7e632bb1b86a1099d568f261d0adb26557124e986286c0139f44865e770179a"
+      "sha256": "c7e632bb1b86a1099d568f261d0adb26557124e986286c0139f44865e770179a",
+      "bytes": 5368
     },
     "Models/AerialR14/Rocket80Twenty/Rocket80Twenty__TubeLiners.obj": {
-      "bytes": 276789,
-      "sha256": "ea4e5cd63937829c29f90bae74adad863a7ee6cb0ee9a91684452121ca06cf58"
+      "sha256": "ea4e5cd63937829c29f90bae74adad863a7ee6cb0ee9a91684452121ca06cf58",
+      "bytes": 276789
     },
     "Models/AerialR14/Shotgun12Air/anchors.json": {
-      "bytes": 6178,
-      "sha256": "91a3eabaab251358ad005f3b67a2cd6f01e885826397a1504277829abadc6cf6"
+      "sha256": "91a3eabaab251358ad005f3b67a2cd6f01e885826397a1504277829abadc6cf6",
+      "bytes": 6178
     },
     "Models/AerialR14/Shotgun12Air/Shotgun12Air.mtl": {
-      "bytes": 2085,
-      "sha256": "8a8354225e4221e46b438f9b790c27ea7691b94821949b76d18cb4e24415e326"
+      "sha256": "8a8354225e4221e46b438f9b790c27ea7691b94821949b76d18cb4e24415e326",
+      "bytes": 2085
     },
     "Models/AerialR14/Shotgun12Air/Shotgun12Air.obj": {
-      "bytes": 385201,
-      "sha256": "68328cb13ca4ce845bee037ff04eab203a8e09111f8db25ef70f9fdadb813950"
+      "sha256": "68328cb13ca4ce845bee037ff04eab203a8e09111f8db25ef70f9fdadb813950",
+      "bytes": 385201
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod.obj": {
-      "bytes": 356625,
-      "sha256": "eaed544061002dffc17954f00a33f7e3b30c2e1632a3414db47be2edc5e00e6e"
+      "sha256": "eaed544061002dffc17954f00a33f7e3b30c2e1632a3414db47be2edc5e00e6e",
+      "bytes": 356625
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Frame.obj": {
-      "bytes": 24485,
-      "sha256": "6e1761b1795941dbf79963053c31d86d198b06ec7f93d38972f56223cdf56b05"
+      "sha256": "6e1761b1795941dbf79963053c31d86d198b06ec7f93d38972f56223cdf56b05",
+      "bytes": 24485
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Needle_AGL.obj": {
-      "bytes": 2050,
-      "sha256": "987983e3aa3eebd98754f59d0b55f32a6d1ed35d17d942060e3f816b2e71b6e8"
+      "sha256": "987983e3aa3eebd98754f59d0b55f32a6d1ed35d17d942060e3f816b2e71b6e8",
+      "bytes": 2050
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Needle_Thrust.obj": {
-      "bytes": 2045,
-      "sha256": "524eb7e8c6919a01971d3f5c8e33fb5e85960d0fa90c2778ad8d176e17176e09"
+      "sha256": "524eb7e8c6919a01971d3f5c8e33fb5e85960d0fa90c2778ad8d176e17176e09",
+      "bytes": 2045
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Panel.obj": {
-      "bytes": 228104,
-      "sha256": "2f66ad281da584d7a2c6d56a9c08965a7d6007eac0e97fae6eaf027910ef48c5"
+      "sha256": "2f66ad281da584d7a2c6d56a9c08965a7d6007eac0e97fae6eaf027910ef48c5",
+      "bytes": 228104
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Pedals.obj": {
-      "bytes": 16511,
-      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981"
+      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981",
+      "bytes": 16511
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Seat.obj": {
-      "bytes": 29327,
-      "sha256": "721cce53afda92288be841d81c6c57888ee2f20a9c1ffba9c64ab8c91aa29da0"
+      "sha256": "721cce53afda92288be841d81c6c57888ee2f20a9c1ffba9c64ab8c91aa29da0",
+      "bytes": 29327
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Shell.obj": {
-      "bytes": 24789,
-      "sha256": "d11edcd646653e809ee214fd33078c4aa8b7125488dabff0088f56ba1691547e"
+      "sha256": "d11edcd646653e809ee214fd33078c4aa8b7125488dabff0088f56ba1691547e",
+      "bytes": 24789
     },
     "Models/Cockpits/Cockpit_DropPod/Cockpit_DropPod__Stick.obj": {
-      "bytes": 21152,
-      "sha256": "03485fe2e4ba7d8971bdb4d39c140452f7637e2f06c4ed9cdfc13dc9ee873a4a"
+      "sha256": "03485fe2e4ba7d8971bdb4d39c140452f7637e2f06c4ed9cdfc13dc9ee873a4a",
+      "bytes": 21152
     },
     "Models/Cockpits/Cockpit_DropPod/Palette.mtl": {
-      "bytes": 986,
-      "sha256": "b27a9275cc77cc6a063ba17e614f0ccdcd091b91bb7d3d4dfec7bd546a754bef"
+      "sha256": "b27a9275cc77cc6a063ba17e614f0ccdcd091b91bb7d3d4dfec7bd546a754bef",
+      "bytes": 986
     },
     "Models/Cockpits/Cockpit_DropPod/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing.obj": {
-      "bytes": 458435,
-      "sha256": "cfc3a391d455ea06a617c50b1932ca6faa30d40c13863f7a01f2798fe9fb76fb"
+      "sha256": "cfc3a391d455ea06a617c50b1932ca6faa30d40c13863f7a01f2798fe9fb76fb",
+      "bytes": 458435
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Controls.obj": {
-      "bytes": 15087,
-      "sha256": "47f5527d7196726d5eded3bc0860b159159ffaad6e50339ba910227c518715e8"
+      "sha256": "47f5527d7196726d5eded3bc0860b159159ffaad6e50339ba910227c518715e8",
+      "bytes": 15087
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Frame.obj": {
-      "bytes": 17775,
-      "sha256": "16eb80989f982dbd3d0b4642c9c30cbe260034a19cb27b08425c7ea262179530"
+      "sha256": "16eb80989f982dbd3d0b4642c9c30cbe260034a19cb27b08425c7ea262179530",
+      "bytes": 17775
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Needle_Altitude.obj": {
-      "bytes": 2067,
-      "sha256": "b093f7f34ff1825b74980f5b28c1fc16e337e85f8ee7c95e4e7173ce0af60404"
+      "sha256": "b093f7f34ff1825b74980f5b28c1fc16e337e85f8ee7c95e4e7173ce0af60404",
+      "bytes": 2067
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Needle_Engine.obj": {
-      "bytes": 2045,
-      "sha256": "53823da884bbf478bb8427598a9721128afb18dca8f091a9569f4a253cef31c3"
+      "sha256": "53823da884bbf478bb8427598a9721128afb18dca8f091a9569f4a253cef31c3",
+      "bytes": 2045
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Needle_Fuel.obj": {
-      "bytes": 2043,
-      "sha256": "cfeacb7b1b05458f88f66c65e28b201533faa61b84b8d05150820677311a9c0f"
+      "sha256": "cfeacb7b1b05458f88f66c65e28b201533faa61b84b8d05150820677311a9c0f",
+      "bytes": 2043
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Needle_Speed.obj": {
-      "bytes": 2050,
-      "sha256": "902b84bb52b2c20015980cc789231c62b5949adb9e4533e447ffceae118e25b3"
+      "sha256": "902b84bb52b2c20015980cc789231c62b5949adb9e4533e447ffceae118e25b3",
+      "bytes": 2050
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Panel.obj": {
-      "bytes": 321519,
-      "sha256": "73c0ec4aac3b9dae21221d2f739a43090631c8a9f1df6aa31abad8f604e89f21"
+      "sha256": "73c0ec4aac3b9dae21221d2f739a43090631c8a9f1df6aa31abad8f604e89f21",
+      "bytes": 321519
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Pedals.obj": {
-      "bytes": 16511,
-      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981"
+      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981",
+      "bytes": 16511
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Seat.obj": {
-      "bytes": 29327,
-      "sha256": "721cce53afda92288be841d81c6c57888ee2f20a9c1ffba9c64ab8c91aa29da0"
+      "sha256": "721cce53afda92288be841d81c6c57888ee2f20a9c1ffba9c64ab8c91aa29da0",
+      "bytes": 29327
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Shell.obj": {
-      "bytes": 24789,
-      "sha256": "d11edcd646653e809ee214fd33078c4aa8b7125488dabff0088f56ba1691547e"
+      "sha256": "d11edcd646653e809ee214fd33078c4aa8b7125488dabff0088f56ba1691547e",
+      "bytes": 24789
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Stick.obj": {
-      "bytes": 12551,
-      "sha256": "448e3c84d3be406773581e31f8abdc84ba9da414ec279dd36005340db8347426"
+      "sha256": "448e3c84d3be406773581e31f8abdc84ba9da414ec279dd36005340db8347426",
+      "bytes": 12551
     },
     "Models/Cockpits/Cockpit_FixedWing/Cockpit_FixedWing__Throttle.obj": {
-      "bytes": 2252,
-      "sha256": "76b89df0aaf68972eef10e9d97e06badb471e32faea8e52e35ee8134e3da0b52"
+      "sha256": "76b89df0aaf68972eef10e9d97e06badb471e32faea8e52e35ee8134e3da0b52",
+      "bytes": 2252
     },
     "Models/Cockpits/Cockpit_FixedWing/Palette.mtl": {
-      "bytes": 1002,
-      "sha256": "b030ec713c1287aab5b04e39a1fc798890dede130b2bdfd38c32ca5f5e6c1382"
+      "sha256": "b030ec713c1287aab5b04e39a1fc798890dede130b2bdfd38c32ca5f5e6c1382",
+      "bytes": 1002
     },
     "Models/Cockpits/Cockpit_FixedWing/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft.obj": {
-      "bytes": 585648,
-      "sha256": "2ef20f2654dddd19d990de9373f3a46cbb2c3db482776565f84c67b08420d9e8"
+      "sha256": "2ef20f2654dddd19d990de9373f3a46cbb2c3db482776565f84c67b08420d9e8",
+      "bytes": 585648
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Collective.obj": {
-      "bytes": 2227,
-      "sha256": "56d41e122dc8785abc591a959a8c7638407b5932adf6f59843f5934799ef3b51"
+      "sha256": "56d41e122dc8785abc591a959a8c7638407b5932adf6f59843f5934799ef3b51",
+      "bytes": 2227
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Controls.obj": {
-      "bytes": 6746,
-      "sha256": "2598961ffc3f5fcbdf8522209fc0f69a51d7ce30c5339d82458e2018bfbd2ea7"
+      "sha256": "2598961ffc3f5fcbdf8522209fc0f69a51d7ce30c5339d82458e2018bfbd2ea7",
+      "bytes": 6746
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Frame.obj": {
-      "bytes": 20022,
-      "sha256": "a8b175c366bc7bb8b60a3a3c8318696542b9638a739beb1bf7e6e7ef665ec88c"
+      "sha256": "a8b175c366bc7bb8b60a3a3c8318696542b9638a739beb1bf7e6e7ef665ec88c",
+      "bytes": 20022
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Needle_AGL.obj": {
-      "bytes": 2046,
-      "sha256": "ee104cc10a16e5695c8f49b21e691001942c59cbb7d3ec2a0a53db6bed5bd9a7"
+      "sha256": "ee104cc10a16e5695c8f49b21e691001942c59cbb7d3ec2a0a53db6bed5bd9a7",
+      "bytes": 2046
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Needle_Fuel.obj": {
-      "bytes": 2031,
-      "sha256": "c225d548be7cc0af4eee76cd18d044ad4e6baeb7ad90373a481798a2c8a39ced"
+      "sha256": "c225d548be7cc0af4eee76cd18d044ad4e6baeb7ad90373a481798a2c8a39ced",
+      "bytes": 2031
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Needle_Rotor.obj": {
-      "bytes": 2048,
-      "sha256": "b001a4419fa5b80297deb776b6bca5c4187baebda938b0994b7fe48dac31ff7a"
+      "sha256": "b001a4419fa5b80297deb776b6bca5c4187baebda938b0994b7fe48dac31ff7a",
+      "bytes": 2048
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Needle_Speed.obj": {
-      "bytes": 2048,
-      "sha256": "acc2aa332ef6176c2dc35d84f56060ce97b5b2b9847bb732c155b987b068188b"
+      "sha256": "acc2aa332ef6176c2dc35d84f56060ce97b5b2b9847bb732c155b987b068188b",
+      "bytes": 2048
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Overhead.obj": {
-      "bytes": 66945,
-      "sha256": "d9cba57c60de48361688d291329125bd5651a9e75db4d1d6d680e1d497442bb4"
+      "sha256": "d9cba57c60de48361688d291329125bd5651a9e75db4d1d6d680e1d497442bb4",
+      "bytes": 66945
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Panel.obj": {
-      "bytes": 352840,
-      "sha256": "f8c3b8db406d21fb293c414a8defbe71ee9fad9080655e0548ed37f72c4c647b"
+      "sha256": "f8c3b8db406d21fb293c414a8defbe71ee9fad9080655e0548ed37f72c4c647b",
+      "bytes": 352840
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Pedals.obj": {
-      "bytes": 16511,
-      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981"
+      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981",
+      "bytes": 16511
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Seat.obj": {
-      "bytes": 59304,
-      "sha256": "5ff5554bedf8710bcff87ae2919f3cc572245db0fb7278eba95e2cf1b016ec46"
+      "sha256": "5ff5554bedf8710bcff87ae2919f3cc572245db0fb7278eba95e2cf1b016ec46",
+      "bytes": 59304
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Shell.obj": {
-      "bytes": 24765,
-      "sha256": "c10527d514bcb5d3e5c4f91d23796a6e4e46be8f83d9a706e23fce94ea5670ab"
+      "sha256": "c10527d514bcb5d3e5c4f91d23796a6e4e46be8f83d9a706e23fce94ea5670ab",
+      "bytes": 24765
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Cockpit_Rotorcraft__Stick.obj": {
-      "bytes": 12551,
-      "sha256": "448e3c84d3be406773581e31f8abdc84ba9da414ec279dd36005340db8347426"
+      "sha256": "448e3c84d3be406773581e31f8abdc84ba9da414ec279dd36005340db8347426",
+      "bytes": 12551
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Palette.mtl": {
-      "bytes": 1010,
-      "sha256": "09c3c0088b5bf33dee9de2466a4161a044ecb9c101a92a535610b9ac886cc6b7"
+      "sha256": "09c3c0088b5bf33dee9de2466a4161a044ecb9c101a92a535610b9ac886cc6b7",
+      "bytes": 1010
     },
     "Models/Cockpits/Cockpit_Rotorcraft/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport.obj": {
-      "bytes": 520967,
-      "sha256": "2d73d70cacc3421e811cb9c1c77c6c4aed0b3c5b1624eaa4b9af3e0682262f4a"
+      "sha256": "2d73d70cacc3421e811cb9c1c77c6c4aed0b3c5b1624eaa4b9af3e0682262f4a",
+      "bytes": 520967
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Controls.obj": {
-      "bytes": 8114,
-      "sha256": "8d5d0ce5835c95d893ee082057f771576d5a1c7e2a385169f9aafa1e9d31ec87"
+      "sha256": "8d5d0ce5835c95d893ee082057f771576d5a1c7e2a385169f9aafa1e9d31ec87",
+      "bytes": 8114
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Frame.obj": {
-      "bytes": 20022,
-      "sha256": "a8b175c366bc7bb8b60a3a3c8318696542b9638a739beb1bf7e6e7ef665ec88c"
+      "sha256": "a8b175c366bc7bb8b60a3a3c8318696542b9638a739beb1bf7e6e7ef665ec88c",
+      "bytes": 20022
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Needle_AGL.obj": {
-      "bytes": 2056,
-      "sha256": "eff350c67623796fbf43dcfc15b58e953c1e5ba7866a1a49ec9f11d9d4dea2fe"
+      "sha256": "eff350c67623796fbf43dcfc15b58e953c1e5ba7866a1a49ec9f11d9d4dea2fe",
+      "bytes": 2056
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Needle_Fuel.obj": {
-      "bytes": 2041,
-      "sha256": "c359308612bc8dd275ae9ec89c46a4e4c18672f4bad62645481e040a3b621d6d"
+      "sha256": "c359308612bc8dd275ae9ec89c46a4e4c18672f4bad62645481e040a3b621d6d",
+      "bytes": 2041
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Needle_Speed.obj": {
-      "bytes": 2050,
-      "sha256": "394e19bf09bb128d272db963e45733e84bf7d9c68826a9f06e954cb6a0d631f8"
+      "sha256": "394e19bf09bb128d272db963e45733e84bf7d9c68826a9f06e954cb6a0d631f8",
+      "bytes": 2050
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Panel.obj": {
-      "bytes": 348497,
-      "sha256": "aad8621faff7508f4f96b45b511c08d6e05618eac601c46196094495b3aa5bf7"
+      "sha256": "aad8621faff7508f4f96b45b511c08d6e05618eac601c46196094495b3aa5bf7",
+      "bytes": 348497
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Pedals.obj": {
-      "bytes": 16511,
-      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981"
+      "sha256": "cb47a37defc8f3211327fd8f8afa23b7a319fee21bff4464c5de83b08fb16981",
+      "bytes": 16511
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Seat.obj": {
-      "bytes": 59304,
-      "sha256": "5ff5554bedf8710bcff87ae2919f3cc572245db0fb7278eba95e2cf1b016ec46"
+      "sha256": "5ff5554bedf8710bcff87ae2919f3cc572245db0fb7278eba95e2cf1b016ec46",
+      "bytes": 59304
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Shell.obj": {
-      "bytes": 24765,
-      "sha256": "c10527d514bcb5d3e5c4f91d23796a6e4e46be8f83d9a706e23fce94ea5670ab"
+      "sha256": "c10527d514bcb5d3e5c4f91d23796a6e4e46be8f83d9a706e23fce94ea5670ab",
+      "bytes": 24765
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Throttle.obj": {
-      "bytes": 4474,
-      "sha256": "8c1285f6904de95c3a140c40c0ef23fdf71952919415f7ec41bc238d9372bb8a"
+      "sha256": "8c1285f6904de95c3a140c40c0ef23fdf71952919415f7ec41bc238d9372bb8a",
+      "bytes": 4474
     },
     "Models/Cockpits/Cockpit_Transport/Cockpit_Transport__Yoke.obj": {
-      "bytes": 21072,
-      "sha256": "8b5cd90110361bd1b69366d5f346e386ad45c5f8df64b1a69f2594daedc4886c"
+      "sha256": "8b5cd90110361bd1b69366d5f346e386ad45c5f8df64b1a69f2594daedc4886c",
+      "bytes": 21072
     },
     "Models/Cockpits/Cockpit_Transport/Palette.mtl": {
-      "bytes": 1002,
-      "sha256": "57004eecc2ad413400268d155cdb75b8ce6aa248fff5c1e134508d6aad089d9f"
+      "sha256": "57004eecc2ad413400268d155cdb75b8ce6aa248fff5c1e134508d6aad089d9f",
+      "bytes": 1002
     },
     "Models/Cockpits/Cockpit_Transport/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Models/Rescue/FabricAtlas.png": {
-      "bytes": 89238,
-      "sha256": "30bb5b3bdb4ff5540b8ea8ad1d890c8a1ba99027b34cd062a315efc7ddd01ad8"
+      "sha256": "dbadc8a631a5c3cfdd0d36ab60862b382631acc70c71c6839ecd3262cf390ae8",
+      "bytes": 89304
     },
     "Models/Rescue/Parachute.mtl": {
-      "bytes": 748,
-      "sha256": "714d9494e43c06e314d3750e6d8bb29d237282bf953945efa98136277db22661"
+      "sha256": "714d9494e43c06e314d3750e6d8bb29d237282bf953945efa98136277db22661",
+      "bytes": 748
     },
     "Models/Rescue/VTOL_UniversalParachute.obj": {
-      "bytes": 1934104,
-      "sha256": "c079d451eec592a57c73fcb21be5873357a9be89c8118e25b6fa769b7814c732"
+      "sha256": "c079d451eec592a57c73fcb21be5873357a9be89c8118e25b6fa769b7814c732",
+      "bytes": 1934104
     },
     "Models/VTOL/BombGlide/anchors.json": {
-      "bytes": 5713,
-      "sha256": "50b25deb64318176c8e7c4ac77c76c60b8e51718ee765efeb74ca9c9965c10cb"
+      "sha256": "50b25deb64318176c8e7c4ac77c76c60b8e51718ee765efeb74ca9c9965c10cb",
+      "bytes": 5713
     },
     "Models/VTOL/BombGlide/BombGlide.obj": {
-      "bytes": 143285,
-      "sha256": "02552cb3731e2d0728fb8f693450763d317927d01207aec2d9d4278e5142b2f3"
+      "sha256": "02552cb3731e2d0728fb8f693450763d317927d01207aec2d9d4278e5142b2f3",
+      "bytes": 143285
     },
     "Models/VTOL/BombGlide/BombGlide__Body.obj": {
-      "bytes": 42607,
-      "sha256": "8eb6a33134fc1cc106666916332986d0309a3e13f0ee41d7237215259d010869"
+      "sha256": "8eb6a33134fc1cc106666916332986d0309a3e13f0ee41d7237215259d010869",
+      "bytes": 42607
     },
     "Models/VTOL/BombGlide/BombGlide__Bomb.obj": {
-      "bytes": 41347,
-      "sha256": "e04ab0cfe3db875e10aa3b9359b00dee0afc123d26e04592f830a650448872b7"
+      "sha256": "e04ab0cfe3db875e10aa3b9359b00dee0afc123d26e04592f830a650448872b7",
+      "bytes": 41347
     },
     "Models/VTOL/BombGlide/BombGlide__Folded.obj": {
-      "bytes": 143269,
-      "sha256": "ac5a37094149a8c6dc1acd5d9364c26d5880cc746ed18d8d84d2a69005b688dc"
+      "sha256": "ac5a37094149a8c6dc1acd5d9364c26d5880cc746ed18d8d84d2a69005b688dc",
+      "bytes": 143269
     },
     "Models/VTOL/BombGlide/BombGlide__Mount.obj": {
-      "bytes": 25133,
-      "sha256": "54c655629aeb16d016c36fb98075cbd471bf34a38db5258809a10c66d799bfd1"
+      "sha256": "54c655629aeb16d016c36fb98075cbd471bf34a38db5258809a10c66d799bfd1",
+      "bytes": 25133
     },
     "Models/VTOL/BombGlide/BombGlide__Tail.obj": {
-      "bytes": 17165,
-      "sha256": "40349f2ebd9ddde7f23a28728384088d55b455bc132eef78776d5a05c9c5c9fc"
+      "sha256": "40349f2ebd9ddde7f23a28728384088d55b455bc132eef78776d5a05c9c5c9fc",
+      "bytes": 17165
     },
     "Models/VTOL/BombGlide/BombGlide__WingHinge.obj": {
-      "bytes": 8137,
-      "sha256": "a447df8165d47f88607445cbd17eacedaf70b48a88c8785aa5036401cf4493e8"
+      "sha256": "a447df8165d47f88607445cbd17eacedaf70b48a88c8785aa5036401cf4493e8",
+      "bytes": 8137
     },
     "Models/VTOL/BombGlide/BombGlide__WingLeft.obj": {
-      "bytes": 2142,
-      "sha256": "e26539060010cb7e7e8e96afdf3ea2f1cbb98004e6b129242adccd972c706397"
+      "sha256": "e26539060010cb7e7e8e96afdf3ea2f1cbb98004e6b129242adccd972c706397",
+      "bytes": 2142
     },
     "Models/VTOL/BombGlide/BombGlide__WingRight.obj": {
-      "bytes": 2134,
-      "sha256": "ea6986741ff67aee7976b07dc6d3302d4e8474059a6896989ff0eddf62670d31"
+      "sha256": "ea6986741ff67aee7976b07dc6d3302d4e8474059a6896989ff0eddf62670d31",
+      "bytes": 2134
     },
     "Models/VTOL/BombGlide/Palette.mtl": {
-      "bytes": 890,
-      "sha256": "613ecaa1c333db65e51f048859c159bde5f35a8b1dec6feecb89a7238e397bf5"
+      "sha256": "613ecaa1c333db65e51f048859c159bde5f35a8b1dec6feecb89a7238e397bf5",
+      "bytes": 890
     },
     "Models/VTOL/BombGlide/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/BombHeavy/anchors.json": {
-      "bytes": 3530,
-      "sha256": "f0fe68856f736f6356e90d3379b652b51d61af29277212424f16e46598eef3ee"
+      "sha256": "f0fe68856f736f6356e90d3379b652b51d61af29277212424f16e46598eef3ee",
+      "bytes": 3530
     },
     "Models/VTOL/BombHeavy/BombHeavy.obj": {
-      "bytes": 166223,
-      "sha256": "6daf004980aa4833d0569bc3f967f494c215778d55f018b8cc2bfc2e1f08c785"
+      "sha256": "6daf004980aa4833d0569bc3f967f494c215778d55f018b8cc2bfc2e1f08c785",
+      "bytes": 166223
     },
     "Models/VTOL/BombHeavy/BombHeavy__Body.obj": {
-      "bytes": 59699,
-      "sha256": "bb5f8c11e3d3a752e3c52d798aed3589ea9e19c9eeb5f4afc4db9010eee99319"
+      "sha256": "bb5f8c11e3d3a752e3c52d798aed3589ea9e19c9eeb5f4afc4db9010eee99319",
+      "bytes": 59699
     },
     "Models/VTOL/BombHeavy/BombHeavy__Bomb.obj": {
-      "bytes": 59362,
-      "sha256": "1d102dad8c41d0bc560e948e6bb8e197a1cee622e0e6082799ada042f9d92bb3"
+      "sha256": "1d102dad8c41d0bc560e948e6bb8e197a1cee622e0e6082799ada042f9d92bb3",
+      "bytes": 59362
     },
     "Models/VTOL/BombHeavy/BombHeavy__Mount.obj": {
-      "bytes": 25289,
-      "sha256": "6bde32f4992d2678416d99d55adee325e5c6272fddadf7e0f60d144b30cbf429"
+      "sha256": "6bde32f4992d2678416d99d55adee325e5c6272fddadf7e0f60d144b30cbf429",
+      "bytes": 25289
     },
     "Models/VTOL/BombHeavy/BombHeavy__Tail.obj": {
-      "bytes": 17143,
-      "sha256": "1f6199629993c2fbd7760d3c002ce26af1c52aa15acfa4186c0eb0843737bf09"
+      "sha256": "1f6199629993c2fbd7760d3c002ce26af1c52aa15acfa4186c0eb0843737bf09",
+      "bytes": 17143
     },
     "Models/VTOL/BombHeavy/Palette.mtl": {
-      "bytes": 890,
-      "sha256": "7df96cd83a64235ea147cf7822f473efcccd8be770d00beb34fa622e430447dc"
+      "sha256": "7df96cd83a64235ea147cf7822f473efcccd8be770d00beb34fa622e430447dc",
+      "bytes": 890
     },
     "Models/VTOL/BombHeavy/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/BombLight/anchors.json": {
-      "bytes": 3470,
-      "sha256": "7c91c894f51f3bdf1b4078d995dc697e5c0ee241e2eb6af2b69a56d5b241f9a6"
+      "sha256": "7c91c894f51f3bdf1b4078d995dc697e5c0ee241e2eb6af2b69a56d5b241f9a6",
+      "bytes": 3470
     },
     "Models/VTOL/BombLight/BombLight.obj": {
-      "bytes": 149176,
-      "sha256": "fd323146be85e3addda7e624e786909c73a53b316975641a3a6435168dba9431"
+      "sha256": "fd323146be85e3addda7e624e786909c73a53b316975641a3a6435168dba9431",
+      "bytes": 149176
     },
     "Models/VTOL/BombLight/BombLight__Body.obj": {
-      "bytes": 43171,
-      "sha256": "d71bf0fd51de18eda6cb3947a8db90fbb5380576f7b66cbeba97972ddfab6181"
+      "sha256": "d71bf0fd51de18eda6cb3947a8db90fbb5380576f7b66cbeba97972ddfab6181",
+      "bytes": 43171
     },
     "Models/VTOL/BombLight/BombLight__Bomb.obj": {
-      "bytes": 59321,
-      "sha256": "b25213d84c9e49a290834658e64ad2fb9992ee8c1c2f1ce41ddd0683df070b2c"
+      "sha256": "b25213d84c9e49a290834658e64ad2fb9992ee8c1c2f1ce41ddd0683df070b2c",
+      "bytes": 59321
     },
     "Models/VTOL/BombLight/BombLight__Mount.obj": {
-      "bytes": 25289,
-      "sha256": "6bde32f4992d2678416d99d55adee325e5c6272fddadf7e0f60d144b30cbf429"
+      "sha256": "6bde32f4992d2678416d99d55adee325e5c6272fddadf7e0f60d144b30cbf429",
+      "bytes": 25289
     },
     "Models/VTOL/BombLight/BombLight__Tail.obj": {
-      "bytes": 17193,
-      "sha256": "5c4f20d49631bbde484e237b383f214c559250a1ecf26089e176be2a2b896654"
+      "sha256": "5c4f20d49631bbde484e237b383f214c559250a1ecf26089e176be2a2b896654",
+      "bytes": 17193
     },
     "Models/VTOL/BombLight/Palette.mtl": {
-      "bytes": 890,
-      "sha256": "f59207ee366c3dad5532f9f4604ea9112cb9fa1a92f8a02486fd0497593cb7cd"
+      "sha256": "f59207ee366c3dad5532f9f4604ea9112cb9fa1a92f8a02486fd0497593cb7cd",
+      "bytes": 890
     },
     "Models/VTOL/BombLight/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/BombMedium/anchors.json": {
-      "bytes": 3549,
-      "sha256": "7c616618dbc7decf6e68d94b3ff851a2823f52a9806ace75535950530c8cd764"
+      "sha256": "7c616618dbc7decf6e68d94b3ff851a2823f52a9806ace75535950530c8cd764",
+      "bytes": 3549
     },
     "Models/VTOL/BombMedium/BombMedium.obj": {
-      "bytes": 194381,
-      "sha256": "bcaf5f731fd28042451c85892b73464577e00521989396bbc51aa6e2d436e9a4"
+      "sha256": "bcaf5f731fd28042451c85892b73464577e00521989396bbc51aa6e2d436e9a4",
+      "bytes": 194381
     },
     "Models/VTOL/BombMedium/BombMedium__Body.obj": {
-      "bytes": 86765,
-      "sha256": "1d61d7a2853b4173a1ac970b63fbb81d730e058ff77680fe6f1fad916d5963cc"
+      "sha256": "1d61d7a2853b4173a1ac970b63fbb81d730e058ff77680fe6f1fad916d5963cc",
+      "bytes": 86765
     },
     "Models/VTOL/BombMedium/BombMedium__Bomb.obj": {
-      "bytes": 59552,
-      "sha256": "29d6ff413140550569e7e90aa790aff41037fc8ff3324801bdb391999077edbf"
+      "sha256": "29d6ff413140550569e7e90aa790aff41037fc8ff3324801bdb391999077edbf",
+      "bytes": 59552
     },
     "Models/VTOL/BombMedium/BombMedium__Mount.obj": {
-      "bytes": 25289,
-      "sha256": "6bde32f4992d2678416d99d55adee325e5c6272fddadf7e0f60d144b30cbf429"
+      "sha256": "6bde32f4992d2678416d99d55adee325e5c6272fddadf7e0f60d144b30cbf429",
+      "bytes": 25289
     },
     "Models/VTOL/BombMedium/BombMedium__Tail.obj": {
-      "bytes": 17111,
-      "sha256": "02ff0394e159cef6e36f6637b9644e97ba361ce01ca438a49b1110cd73e2eeb2"
+      "sha256": "02ff0394e159cef6e36f6637b9644e97ba361ce01ca438a49b1110cd73e2eeb2",
+      "bytes": 17111
     },
     "Models/VTOL/BombMedium/Palette.mtl": {
-      "bytes": 898,
-      "sha256": "380c7133e2b3f15127a79efb62930fae1fd5ec115558c1b0b9cb28a3f826eb64"
+      "sha256": "380c7133e2b3f15127a79efb62930fae1fd5ec115558c1b0b9cb28a3f826eb64",
+      "bytes": 898
     },
     "Models/VTOL/BombMedium/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/BombRackTriple/anchors.json": {
-      "bytes": 4372,
-      "sha256": "aa5aea5b520548fecb4fcd3784d3d32a8f179d307efb3e17b59dd6607b54d9f1"
+      "sha256": "aa5aea5b520548fecb4fcd3784d3d32a8f179d307efb3e17b59dd6607b54d9f1",
+      "bytes": 4372
     },
     "Models/VTOL/BombRackTriple/BombRackTriple.obj": {
-      "bytes": 101815,
-      "sha256": "5450f88ac7f8b0836bcb26bef544d010698ebcecb30d736a5abc4d3411c0a3b4"
+      "sha256": "5450f88ac7f8b0836bcb26bef544d010698ebcecb30d736a5abc4d3411c0a3b4",
+      "bytes": 101815
     },
     "Models/VTOL/BombRackTriple/BombRackTriple__Hook_1.obj": {
-      "bytes": 16533,
-      "sha256": "c3f5bbe76c7a375af07a8fa4b0e07ece8c8c2e719b774be0d7bbad2292f673c2"
+      "sha256": "c3f5bbe76c7a375af07a8fa4b0e07ece8c8c2e719b774be0d7bbad2292f673c2",
+      "bytes": 16533
     },
     "Models/VTOL/BombRackTriple/BombRackTriple__Hook_2.obj": {
-      "bytes": 16537,
-      "sha256": "fbfd8bdc3aad02fc2dfeb6e495ecf6b7b56cf4685a25481d092d533109766abd"
+      "sha256": "fbfd8bdc3aad02fc2dfeb6e495ecf6b7b56cf4685a25481d092d533109766abd",
+      "bytes": 16537
     },
     "Models/VTOL/BombRackTriple/BombRackTriple__Hook_3.obj": {
-      "bytes": 16489,
-      "sha256": "8ee6f2a4751e240c8172576f9f49f37fdaf22554fa1409613876f757f2eb92c2"
+      "sha256": "8ee6f2a4751e240c8172576f9f49f37fdaf22554fa1409613876f757f2eb92c2",
+      "bytes": 16489
     },
     "Models/VTOL/BombRackTriple/BombRackTriple__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "9ec6b44d26504fc2fd4fd8e951cd40345717351870b9a07576a133d91a0ac255"
+      "sha256": "9ec6b44d26504fc2fd4fd8e951cd40345717351870b9a07576a133d91a0ac255",
+      "bytes": 8205
     },
     "Models/VTOL/BombRackTriple/BombRackTriple__Rack.obj": {
-      "bytes": 41639,
-      "sha256": "efc67f3077cd431b6b0726e448c689c67cd5d16b11f3a4fcb4d7d9e5c17256a8"
+      "sha256": "efc67f3077cd431b6b0726e448c689c67cd5d16b11f3a4fcb4d7d9e5c17256a8",
+      "bytes": 41639
     },
     "Models/VTOL/BombRackTriple/Palette.mtl": {
-      "bytes": 930,
-      "sha256": "05e894f0d1cdf67f35e7cd193bbfe06f42eb033bb877e7dbc01781f17221b615"
+      "sha256": "05e894f0d1cdf67f35e7cd193bbfe06f42eb033bb877e7dbc01781f17221b615",
+      "bytes": 930
     },
     "Models/VTOL/BombRackTriple/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Cannon20/anchors.json": {
-      "bytes": 4197,
-      "sha256": "9bc1a431326005b366f94a078c45d31d8e2b98826b5c685eff57284a42578e97"
+      "sha256": "9bc1a431326005b366f94a078c45d31d8e2b98826b5c685eff57284a42578e97",
+      "bytes": 4197
     },
     "Models/VTOL/Cannon20/Cannon20.obj": {
-      "bytes": 180387,
-      "sha256": "c30aefd1c7697381ca0dae1e69d172e90aaca40648b4650cd821fa0a2b6d875e"
+      "sha256": "c30aefd1c7697381ca0dae1e69d172e90aaca40648b4650cd821fa0a2b6d875e",
+      "bytes": 180387
     },
     "Models/VTOL/Cannon20/Cannon20__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/Cannon20/Cannon20__Pitch.obj": {
-      "bytes": 8580,
-      "sha256": "40e4f8c3f82ae7c1cf7d6d5964d67100a42e9da0dffbae159060b63d7b7fd5ae"
+      "sha256": "40e4f8c3f82ae7c1cf7d6d5964d67100a42e9da0dffbae159060b63d7b7fd5ae",
+      "bytes": 8580
     },
     "Models/VTOL/Cannon20/Cannon20__PodShell.obj": {
-      "bytes": 42674,
-      "sha256": "cb6383a6c4f2a86f8e9bd658d1f17f06f4cd16340a28a784a6700dbc88251361"
+      "sha256": "cb6383a6c4f2a86f8e9bd658d1f17f06f4cd16340a28a784a6700dbc88251361",
+      "bytes": 42674
     },
     "Models/VTOL/Cannon20/Cannon20__Rotor.obj": {
-      "bytes": 117101,
-      "sha256": "636032b3c9eda543fa461e6ffbcef73e329213b214cd386050e32827ed7e0b1d"
+      "sha256": "636032b3c9eda543fa461e6ffbcef73e329213b214cd386050e32827ed7e0b1d",
+      "bytes": 117101
     },
     "Models/VTOL/Cannon20/Palette.mtl": {
-      "bytes": 882,
-      "sha256": "2eb9814252bc4d16f32427c2932ff5a2202d506c7add334a1c61165805c64d8f"
+      "sha256": "2eb9814252bc4d16f32427c2932ff5a2202d506c7add334a1c61165805c64d8f",
+      "bytes": 882
     },
     "Models/VTOL/Cannon20/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Cannon30/anchors.json": {
-      "bytes": 3685,
-      "sha256": "4194c9078b74d43a21771fc495bc9f15e4a8062f5043b735f29a008c5a34db8b"
+      "sha256": "4194c9078b74d43a21771fc495bc9f15e4a8062f5043b735f29a008c5a34db8b",
+      "bytes": 3685
     },
     "Models/VTOL/Cannon30/Cannon30.obj": {
-      "bytes": 87952,
-      "sha256": "1875bcb86543d20f7a6f7fa2b3facb2b5aec96ce95b3ed010e1ee9492b2169b6"
+      "sha256": "1875bcb86543d20f7a6f7fa2b3facb2b5aec96ce95b3ed010e1ee9492b2169b6",
+      "bytes": 87952
     },
     "Models/VTOL/Cannon30/Cannon30__FeedBox.obj": {
-      "bytes": 8200,
-      "sha256": "84813a8b9bafd6d2693534fc73fe0897c0882bb3bf038f8c66abdbb87ac1a0f1"
+      "sha256": "84813a8b9bafd6d2693534fc73fe0897c0882bb3bf038f8c66abdbb87ac1a0f1",
+      "bytes": 8200
     },
     "Models/VTOL/Cannon30/Cannon30__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/Cannon30/Cannon30__Pitch.obj": {
-      "bytes": 61197,
-      "sha256": "72dfae7e2154af37e579b37118d8e577839bf939c6bd05ab9b3a68020b67de88"
+      "sha256": "72dfae7e2154af37e579b37118d8e577839bf939c6bd05ab9b3a68020b67de88",
+      "bytes": 61197
     },
     "Models/VTOL/Cannon30/Cannon30__Yaw.obj": {
-      "bytes": 8997,
-      "sha256": "4fad865fc0039bdb8e41f24e69955a445af9e4179a53284002f7fcd6c0ad0d88"
+      "sha256": "4fad865fc0039bdb8e41f24e69955a445af9e4179a53284002f7fcd6c0ad0d88",
+      "bytes": 8997
     },
     "Models/VTOL/Cannon30/Palette.mtl": {
-      "bytes": 882,
-      "sha256": "dac55a53c0c61edb85b512fa67917aaa36c1ba3f9734584ea30a88ac567debfe"
+      "sha256": "dac55a53c0c61edb85b512fa67917aaa36c1ba3f9734584ea30a88ac567debfe",
+      "bytes": 882
     },
     "Models/VTOL/Cannon30/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/ChinMount/anchors.json": {
-      "bytes": 3167,
-      "sha256": "e87c6d09502d4a8dbe55c2183d82359a58139948bfcd31ef3f634bc28dde42d5"
+      "sha256": "e87c6d09502d4a8dbe55c2183d82359a58139948bfcd31ef3f634bc28dde42d5",
+      "bytes": 3167
     },
     "Models/VTOL/ChinMount/ChinMount.obj": {
-      "bytes": 92701,
-      "sha256": "10f009ca38ea81c5d267194199dd305e7be5a2eb4ee2d1bc12fd02b0efeba18f"
+      "sha256": "10f009ca38ea81c5d267194199dd305e7be5a2eb4ee2d1bc12fd02b0efeba18f",
+      "bytes": 92701
     },
     "Models/VTOL/ChinMount/ChinMount__Mount.obj": {
-      "bytes": 47998,
-      "sha256": "04f039684a874a85e45185874be745d9baacacdaecaebccc537858c69690058d"
+      "sha256": "04f039684a874a85e45185874be745d9baacacdaecaebccc537858c69690058d",
+      "bytes": 47998
     },
     "Models/VTOL/ChinMount/ChinMount__Pitch.obj": {
-      "bytes": 8991,
-      "sha256": "07ece038c4062654b5200c7305980e3c213c44acb6c59a2668faeba6ef5164f7"
+      "sha256": "07ece038c4062654b5200c7305980e3c213c44acb6c59a2668faeba6ef5164f7",
+      "bytes": 8991
     },
     "Models/VTOL/ChinMount/ChinMount__Yaw.obj": {
-      "bytes": 34242,
-      "sha256": "66f8947c701869c769dd1ceecaaec83f8501e2eb2eae15043813276157dec39f"
+      "sha256": "66f8947c701869c769dd1ceecaaec83f8501e2eb2eae15043813276157dec39f",
+      "bytes": 34242
     },
     "Models/VTOL/ChinMount/Palette.mtl": {
-      "bytes": 890,
-      "sha256": "2aefab9d53b549e1ead71910c44dbef9ec5ebda3d79e9f5a104d6a0321bddb23"
+      "sha256": "2aefab9d53b549e1ead71910c44dbef9ec5ebda3d79e9f5a104d6a0321bddb23",
+      "bytes": 890
     },
     "Models/VTOL/ChinMount/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/DoorMount/anchors.json": {
-      "bytes": 3815,
-      "sha256": "6e9a0abdf685d13b0e112de9f3e8e09e4a2a93e245491171f22fb0f28c3c870f"
+      "sha256": "6e9a0abdf685d13b0e112de9f3e8e09e4a2a93e245491171f22fb0f28c3c870f",
+      "bytes": 3815
     },
     "Models/VTOL/DoorMount/DoorMount.obj": {
-      "bytes": 105270,
-      "sha256": "f721cceb4937eba9ebad60348a9e1bfdfc24c8c9d66707127d6caab289201b17"
+      "sha256": "f721cceb4937eba9ebad60348a9e1bfdfc24c8c9d66707127d6caab289201b17",
+      "bytes": 105270
     },
     "Models/VTOL/DoorMount/DoorMount__Arm.obj": {
-      "bytes": 24951,
-      "sha256": "57f7a4d839b16c1e106c1f06d2b236d76f0111d708b07f030e69221521130bb6"
+      "sha256": "57f7a4d839b16c1e106c1f06d2b236d76f0111d708b07f030e69221521130bb6",
+      "bytes": 24951
     },
     "Models/VTOL/DoorMount/DoorMount__Mount.obj": {
-      "bytes": 45363,
-      "sha256": "bf09bd42b6a88bfb3e660f4455cf8ee172d3f8dd4c4f3361c511789095062637"
+      "sha256": "bf09bd42b6a88bfb3e660f4455cf8ee172d3f8dd4c4f3361c511789095062637",
+      "bytes": 45363
     },
     "Models/VTOL/DoorMount/DoorMount__Pitch.obj": {
-      "bytes": 6836,
-      "sha256": "fd31cb8874a0c80f6cc8870f24eeed7f27d3be9dfe01476060c16882a29201b8"
+      "sha256": "fd31cb8874a0c80f6cc8870f24eeed7f27d3be9dfe01476060c16882a29201b8",
+      "bytes": 6836
     },
     "Models/VTOL/DoorMount/DoorMount__Yaw.obj": {
-      "bytes": 25754,
-      "sha256": "c1680b578569cebe053a761326e9c687c1af11ce6d8c5dcc27779281cd4351f3"
+      "sha256": "c1680b578569cebe053a761326e9c687c1af11ce6d8c5dcc27779281cd4351f3",
+      "bytes": 25754
     },
     "Models/VTOL/DoorMount/Palette.mtl": {
-      "bytes": 890,
-      "sha256": "a566bbd93a1b081562bebff5a080c353df0c44291ff8cba355dc11aa6b44fcca"
+      "sha256": "a566bbd93a1b081562bebff5a080c353df0c44291ff8cba355dc11aa6b44fcca",
+      "bytes": 890
     },
     "Models/VTOL/DoorMount/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Grenade40/anchors.json": {
-      "bytes": 3452,
-      "sha256": "98572649618c912c89c4081c07996c8899c0f437b8373d0de2dc9014ac24ab5a"
+      "sha256": "98572649618c912c89c4081c07996c8899c0f437b8373d0de2dc9014ac24ab5a",
+      "bytes": 3452
     },
     "Models/VTOL/Grenade40/Grenade40.obj": {
-      "bytes": 107319,
-      "sha256": "7fc8a5b0fea23ed8d359799f5baf3a1722f9bdfe86e38730bcc4dae084a4dc4a"
+      "sha256": "7fc8a5b0fea23ed8d359799f5baf3a1722f9bdfe86e38730bcc4dae084a4dc4a",
+      "bytes": 107319
     },
     "Models/VTOL/Grenade40/Grenade40__FeedBox.obj": {
-      "bytes": 30324,
-      "sha256": "b92e79f56b60905674d28353d95c48087c0712bb7544fb626721dd7458de6b39"
+      "sha256": "b92e79f56b60905674d28353d95c48087c0712bb7544fb626721dd7458de6b39",
+      "bytes": 30324
     },
     "Models/VTOL/Grenade40/Grenade40__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/Grenade40/Grenade40__Pitch.obj": {
-      "bytes": 29653,
-      "sha256": "2a564db7d3e456f171ab8d374cc179c4ae620c9a9789c69ac26ba4683600cab5"
+      "sha256": "2a564db7d3e456f171ab8d374cc179c4ae620c9a9789c69ac26ba4683600cab5",
+      "bytes": 29653
     },
     "Models/VTOL/Grenade40/Grenade40__PodShell.obj": {
-      "bytes": 36510,
-      "sha256": "be88376b85a70200873b4803d8824d8b0bf7de1a3008eb648301f2e5ec1f7ea5"
+      "sha256": "be88376b85a70200873b4803d8824d8b0bf7de1a3008eb648301f2e5ec1f7ea5",
+      "bytes": 36510
     },
     "Models/VTOL/Grenade40/Palette.mtl": {
-      "bytes": 890,
-      "sha256": "befec397973052b6d12d7f80cf23fc4f515be8d949d91f27802ffa42c51c6073"
+      "sha256": "befec397973052b6d12d7f80cf23fc4f515be8d949d91f27802ffa42c51c6073",
+      "bytes": 890
     },
     "Models/VTOL/Grenade40/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Gun127/anchors.json": {
-      "bytes": 3779,
-      "sha256": "9b9f56769a61156583e19f2977580313f2d97e0533d6cd2c3b7c16b596a6508f"
+      "sha256": "9b9f56769a61156583e19f2977580313f2d97e0533d6cd2c3b7c16b596a6508f",
+      "bytes": 3779
     },
     "Models/VTOL/Gun127/Gun127.obj": {
-      "bytes": 369942,
-      "sha256": "c2773678ed827822f7af9cd5731d368a8b9a84547fad6c9f381581618da8a2e2"
+      "sha256": "c2773678ed827822f7af9cd5731d368a8b9a84547fad6c9f381581618da8a2e2",
+      "bytes": 369942
     },
     "Models/VTOL/Gun127/Gun127__FeedBox.obj": {
-      "bytes": 41516,
-      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0"
+      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0",
+      "bytes": 41516
     },
     "Models/VTOL/Gun127/Gun127__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/Gun127/Gun127__Pitch.obj": {
-      "bytes": 308079,
-      "sha256": "01934150d2ab9e1bc64f6cceeb5ca6777869466798e68f957d16b3612d0c5fac"
+      "sha256": "01934150d2ab9e1bc64f6cceeb5ca6777869466798e68f957d16b3612d0c5fac",
+      "bytes": 308079
     },
     "Models/VTOL/Gun127/Gun127__Yaw.obj": {
-      "bytes": 8120,
-      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8"
+      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8",
+      "bytes": 8120
     },
     "Models/VTOL/Gun127/Palette.mtl": {
-      "bytes": 866,
-      "sha256": "b91ef757d6955bef96b425e916ea5cc6c9031bb7571ffbe82629f6e0273e98d3"
+      "sha256": "b91ef757d6955bef96b425e916ea5cc6c9031bb7571ffbe82629f6e0273e98d3",
+      "bytes": 866
     },
     "Models/VTOL/Gun127/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Gun762/anchors.json": {
-      "bytes": 3794,
-      "sha256": "a0d06e92cd383588f3093ecb6c780a5d6387117da4fbaf183233ae68a2b4c629"
+      "sha256": "a0d06e92cd383588f3093ecb6c780a5d6387117da4fbaf183233ae68a2b4c629",
+      "bytes": 3794
     },
     "Models/VTOL/Gun762/Gun762.obj": {
-      "bytes": 326578,
-      "sha256": "bc550d927b518b3d2e9d90b5abd9a3ae741c0c8d4ab1358d3404ed54146575cf"
+      "sha256": "bc550d927b518b3d2e9d90b5abd9a3ae741c0c8d4ab1358d3404ed54146575cf",
+      "bytes": 326578
     },
     "Models/VTOL/Gun762/Gun762__FeedBox.obj": {
-      "bytes": 41516,
-      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0"
+      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0",
+      "bytes": 41516
     },
     "Models/VTOL/Gun762/Gun762__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/Gun762/Gun762__Pitch.obj": {
-      "bytes": 264705,
-      "sha256": "c7c6cf6b6373c466d523b0fba2d3613df02ac5ca6dc7b5a1e2dd6a60d1a01698"
+      "sha256": "c7c6cf6b6373c466d523b0fba2d3613df02ac5ca6dc7b5a1e2dd6a60d1a01698",
+      "bytes": 264705
     },
     "Models/VTOL/Gun762/Gun762__Yaw.obj": {
-      "bytes": 8120,
-      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8"
+      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8",
+      "bytes": 8120
     },
     "Models/VTOL/Gun762/Palette.mtl": {
-      "bytes": 866,
-      "sha256": "8797976efc00c333fd43fac02b15990ed1fcbcc3e08ea4ce2ae71038840ddb7f"
+      "sha256": "8797976efc00c333fd43fac02b15990ed1fcbcc3e08ea4ce2ae71038840ddb7f",
+      "bytes": 866
     },
     "Models/VTOL/Gun762/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Minigun762/anchors.json": {
-      "bytes": 5038,
-      "sha256": "483b7f91b2f285d43738d90297d1bc7d5d2b8d0f70dcc2827ea5cba0b75d0b93"
+      "sha256": "483b7f91b2f285d43738d90297d1bc7d5d2b8d0f70dcc2827ea5cba0b75d0b93",
+      "bytes": 5038
     },
     "Models/VTOL/Minigun762/Minigun762.obj": {
-      "bytes": 480391,
-      "sha256": "f69ed8fc1b6a6024e0238fe401bf6afcdeae109b2d09b9ce15376132de03bbe3"
+      "sha256": "f69ed8fc1b6a6024e0238fe401bf6afcdeae109b2d09b9ce15376132de03bbe3",
+      "bytes": 480391
     },
     "Models/VTOL/Minigun762/Minigun762__FeedBox.obj": {
-      "bytes": 41516,
-      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0"
+      "sha256": "7f5b21365d5ab240f449a5b8c858b78fd5425c97b698152fc0581280557578f0",
+      "bytes": 41516
     },
     "Models/VTOL/Minigun762/Minigun762__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/Minigun762/Minigun762__Pitch.obj": {
-      "bytes": 164420,
-      "sha256": "093c2f29bd393f692c692348fb430c147957dddbfb721f2b0a4156fc56d9be73"
+      "sha256": "093c2f29bd393f692c692348fb430c147957dddbfb721f2b0a4156fc56d9be73",
+      "bytes": 164420
     },
     "Models/VTOL/Minigun762/Minigun762__Rotor.obj": {
-      "bytes": 248971,
-      "sha256": "83b69d47e0537a93a82a1f4a3c7e638f1abea1b6fd58e4146591e2208c7e63aa"
+      "sha256": "83b69d47e0537a93a82a1f4a3c7e638f1abea1b6fd58e4146591e2208c7e63aa",
+      "bytes": 248971
     },
     "Models/VTOL/Minigun762/Minigun762__Yaw.obj": {
-      "bytes": 8120,
-      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8"
+      "sha256": "e12e01181fc5bb46c2856fa6088467667858ecee0c0556cc8ef5f8f5b5cde0b8",
+      "bytes": 8120
     },
     "Models/VTOL/Minigun762/Palette.mtl": {
-      "bytes": 898,
-      "sha256": "d4328f1060150caaf3d6abacae4b535b0ef58e0aded3f267c09a0b0f9108faa5"
+      "sha256": "d4328f1060150caaf3d6abacae4b535b0ef58e0aded3f267c09a0b0f9108faa5",
+      "bytes": 898
     },
     "Models/VTOL/Minigun762/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/MissileAArail/anchors.json": {
-      "bytes": 3250,
-      "sha256": "88d426d92029126473ac588430b68cacdf200bea1a65f4c795380216f8dc780f"
+      "sha256": "88d426d92029126473ac588430b68cacdf200bea1a65f4c795380216f8dc780f",
+      "bytes": 3250
     },
     "Models/VTOL/MissileAArail/MissileAArail.obj": {
-      "bytes": 109100,
-      "sha256": "8efbd589784bff92830c8b949ba79a392dda52315ddf86b131a6670f158bb5ad"
+      "sha256": "8efbd589784bff92830c8b949ba79a392dda52315ddf86b131a6670f158bb5ad",
+      "bytes": 109100
     },
     "Models/VTOL/MissileAArail/MissileAArail__Missile.obj": {
-      "bytes": 74078,
-      "sha256": "365ae290e41864f3066b6232d31c80e15765ca9620dcc26e82a5ff75b60527a6"
+      "sha256": "365ae290e41864f3066b6232d31c80e15765ca9620dcc26e82a5ff75b60527a6",
+      "bytes": 74078
     },
     "Models/VTOL/MissileAArail/MissileAArail__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/MissileAArail/MissileAArail__Rail.obj": {
-      "bytes": 25051,
-      "sha256": "ee42c6e92eec33c667b9aba674a8c9916cc76dc1a5cbb23f62719eaebb17db98"
+      "sha256": "ee42c6e92eec33c667b9aba674a8c9916cc76dc1a5cbb23f62719eaebb17db98",
+      "bytes": 25051
     },
     "Models/VTOL/MissileAArail/Palette.mtl": {
-      "bytes": 922,
-      "sha256": "b353ba4ee3b9e6728bbc617bfe835bf70219d46af9e7b0befdf6840de3f22fd6"
+      "sha256": "b353ba4ee3b9e6728bbc617bfe835bf70219d46af9e7b0befdf6840de3f22fd6",
+      "bytes": 922
     },
     "Models/VTOL/MissileAArail/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/MissileATQuad/anchors.json": {
-      "bytes": 9190,
-      "sha256": "cc0375728ad7684bfcb40ec5a82c8535a795e75f0e9ebb544086dc5196d69ef9"
+      "sha256": "cc0375728ad7684bfcb40ec5a82c8535a795e75f0e9ebb544086dc5196d69ef9",
+      "bytes": 9190
     },
     "Models/VTOL/MissileATQuad/MissileATQuad.obj": {
-      "bytes": 418837,
-      "sha256": "349c7a30d8394cd3f9fb2c14f67f5dfa391620ee331d99390d1d7f419dbb5503"
+      "sha256": "349c7a30d8394cd3f9fb2c14f67f5dfa391620ee331d99390d1d7f419dbb5503",
+      "bytes": 418837
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Missile_1.obj": {
-      "bytes": 71496,
-      "sha256": "d17a671ec8c834402947caf191ce737dc79514797e6fa1445724c5467577b3b5"
+      "sha256": "d17a671ec8c834402947caf191ce737dc79514797e6fa1445724c5467577b3b5",
+      "bytes": 71496
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Missile_2.obj": {
-      "bytes": 70966,
-      "sha256": "adedd5cddc3312b571560248e4bc3c9be9ec580908c90d8ca8635896e77debbd"
+      "sha256": "adedd5cddc3312b571560248e4bc3c9be9ec580908c90d8ca8635896e77debbd",
+      "bytes": 70966
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Missile_3.obj": {
-      "bytes": 71209,
-      "sha256": "4a1e99d8679a0c85835cc807bb1e54c6217e69dc261a9b2dc45c9a13dc61261f"
+      "sha256": "4a1e99d8679a0c85835cc807bb1e54c6217e69dc261a9b2dc45c9a13dc61261f",
+      "bytes": 71209
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Missile_4.obj": {
-      "bytes": 70967,
-      "sha256": "79cc49d0844bcf25bfb25af33b6dc66230b9eaa0a0790b166fde863afd2c3d8f"
+      "sha256": "79cc49d0844bcf25bfb25af33b6dc66230b9eaa0a0790b166fde863afd2c3d8f",
+      "bytes": 70967
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Rack.obj": {
-      "bytes": 8131,
-      "sha256": "3ff6a7c232e775be3834ad2a86e126ee29ce256c372c8aa00b6342a4c18cbcdd"
+      "sha256": "3ff6a7c232e775be3834ad2a86e126ee29ce256c372c8aa00b6342a4c18cbcdd",
+      "bytes": 8131
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Rail_1.obj": {
-      "bytes": 24927,
-      "sha256": "12c6a2f76c7bc2d3d24a3428d5787d196760fa160aa44f78cd7e478e0dae44d1"
+      "sha256": "12c6a2f76c7bc2d3d24a3428d5787d196760fa160aa44f78cd7e478e0dae44d1",
+      "bytes": 24927
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Rail_2.obj": {
-      "bytes": 24863,
-      "sha256": "bf9eb75cacdb7aa801e3a57a2baa8c0f7ad2ce7fd13cefc72f60d6f4e15243e2"
+      "sha256": "bf9eb75cacdb7aa801e3a57a2baa8c0f7ad2ce7fd13cefc72f60d6f4e15243e2",
+      "bytes": 24863
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Rail_3.obj": {
-      "bytes": 24935,
-      "sha256": "7a7085fe6ef14c2d1134e48bf3b5114fd068f7ef33f08cde0cd8e81fd57e5fb9"
+      "sha256": "7a7085fe6ef14c2d1134e48bf3b5114fd068f7ef33f08cde0cd8e81fd57e5fb9",
+      "bytes": 24935
     },
     "Models/VTOL/MissileATQuad/MissileATQuad__Rail_4.obj": {
-      "bytes": 24863,
-      "sha256": "f30fefdc8b5395062b8225a2e778b1c1739ff14cde952786d5634304a06c099c"
+      "sha256": "f30fefdc8b5395062b8225a2e778b1c1739ff14cde952786d5634304a06c099c",
+      "bytes": 24863
     },
     "Models/VTOL/MissileATQuad/Palette.mtl": {
-      "bytes": 922,
-      "sha256": "f81db5776c5905e34c2e65a86962fb2b51111a0406bf5f25b7893c6b02ff0325"
+      "sha256": "f81db5776c5905e34c2e65a86962fb2b51111a0406bf5f25b7893c6b02ff0325",
+      "bytes": 922
     },
     "Models/VTOL/MissileATQuad/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/MissileATSingle/anchors.json": {
-      "bytes": 3132,
-      "sha256": "9171b273b6d6abceec1b00b1cb6f004569143e09b32a350a9e55eb5261bc008f"
+      "sha256": "9171b273b6d6abceec1b00b1cb6f004569143e09b32a350a9e55eb5261bc008f",
+      "bytes": 3132
     },
     "Models/VTOL/MissileATSingle/MissileATSingle.obj": {
-      "bytes": 106096,
-      "sha256": "66a538c261e04f2dcb136c163c29c4693bbf807e27596f770cd27b1b01536483"
+      "sha256": "66a538c261e04f2dcb136c163c29c4693bbf807e27596f770cd27b1b01536483",
+      "bytes": 106096
     },
     "Models/VTOL/MissileATSingle/MissileATSingle__Missile.obj": {
-      "bytes": 71168,
-      "sha256": "7617ee464b96df3e4a58336812e395baf3be8d14b32ca8c45a935d8c6eb311bf"
+      "sha256": "7617ee464b96df3e4a58336812e395baf3be8d14b32ca8c45a935d8c6eb311bf",
+      "bytes": 71168
     },
     "Models/VTOL/MissileATSingle/MissileATSingle__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/MissileATSingle/MissileATSingle__Rail.obj": {
-      "bytes": 25051,
-      "sha256": "ee42c6e92eec33c667b9aba674a8c9916cc76dc1a5cbb23f62719eaebb17db98"
+      "sha256": "ee42c6e92eec33c667b9aba674a8c9916cc76dc1a5cbb23f62719eaebb17db98",
+      "bytes": 25051
     },
     "Models/VTOL/MissileATSingle/Palette.mtl": {
-      "bytes": 938,
-      "sha256": "db0b0e2f522465bfdc1afb9a4a8f3d67520d65fad52dfc92dd147ccd56d50d19"
+      "sha256": "db0b0e2f522465bfdc1afb9a4a8f3d67520d65fad52dfc92dd147ccd56d50d19",
+      "bytes": 938
     },
     "Models/VTOL/MissileATSingle/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/PylonHeavy/anchors.json": {
-      "bytes": 3614,
-      "sha256": "eea3004e01d66e31deeb5130cedbd601362e60a4b2f59df07f4426e321b732b6"
+      "sha256": "eea3004e01d66e31deeb5130cedbd601362e60a4b2f59df07f4426e321b732b6",
+      "bytes": 3614
     },
     "Models/VTOL/PylonHeavy/Palette.mtl": {
-      "bytes": 898,
-      "sha256": "a93bdd423399d73d20f07cf53d439b9e9751dfd963d479e056c52c32d372943a"
+      "sha256": "a93bdd423399d73d20f07cf53d439b9e9751dfd963d479e056c52c32d372943a",
+      "bytes": 898
     },
     "Models/VTOL/PylonHeavy/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/PylonHeavy/PylonHeavy.obj": {
-      "bytes": 113489,
-      "sha256": "e3eba4d13b79b48a5e82e6e5658ced0db157acb09918ff1a3b6a63827c128df2"
+      "sha256": "e3eba4d13b79b48a5e82e6e5658ced0db157acb09918ff1a3b6a63827c128df2",
+      "bytes": 113489
     },
     "Models/VTOL/PylonHeavy/PylonHeavy__Body.obj": {
-      "bytes": 16513,
-      "sha256": "9d079afbc721c732bcdba6b7ad410d0e3b16e6fe9e493928b9c888c219ec2b75"
+      "sha256": "9d079afbc721c732bcdba6b7ad410d0e3b16e6fe9e493928b9c888c219ec2b75",
+      "bytes": 16513
     },
     "Models/VTOL/PylonHeavy/PylonHeavy__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/PylonHeavy/PylonHeavy__Pylon.obj": {
-      "bytes": 44412,
-      "sha256": "1925a90575351e02098f060ac22ac81e92dfc89df9472c64fa07820d5651d242"
+      "sha256": "1925a90575351e02098f060ac22ac81e92dfc89df9472c64fa07820d5651d242",
+      "bytes": 44412
     },
     "Models/VTOL/PylonHeavy/PylonHeavy__StoreInterface.obj": {
-      "bytes": 41738,
-      "sha256": "f5534fd2d909f931b5754e2f6d42a6c0a4fc9d8a92e528ec098a5d329d335a59"
+      "sha256": "f5534fd2d909f931b5754e2f6d42a6c0a4fc9d8a92e528ec098a5d329d335a59",
+      "bytes": 41738
     },
     "Models/VTOL/PylonLight/anchors.json": {
-      "bytes": 2990,
-      "sha256": "1e38566718d3e309ca1219ccab2c49555e2ecf46aabf17e00ab8ec86bb672e67"
+      "sha256": "1e38566718d3e309ca1219ccab2c49555e2ecf46aabf17e00ab8ec86bb672e67",
+      "bytes": 2990
     },
     "Models/VTOL/PylonLight/Palette.mtl": {
-      "bytes": 898,
-      "sha256": "1512a8543f14dd871d78867abd6b63b4b651b33e4a881f068c9fc09e195602f0"
+      "sha256": "1512a8543f14dd871d78867abd6b63b4b651b33e4a881f068c9fc09e195602f0",
+      "bytes": 898
     },
     "Models/VTOL/PylonLight/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/PylonLight/PylonLight.obj": {
-      "bytes": 95687,
-      "sha256": "dee6ddf56bc7ff6721671bd224f8a1791bbe23a2f2a1fdea9d0a94fe737451cd"
+      "sha256": "dee6ddf56bc7ff6721671bd224f8a1791bbe23a2f2a1fdea9d0a94fe737451cd",
+      "bytes": 95687
     },
     "Models/VTOL/PylonLight/PylonLight__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/PylonLight/PylonLight__Pylon.obj": {
-      "bytes": 44644,
-      "sha256": "7e0513222c1cd79c41d6d502230e734b7ba43448ea5853b46e37eb7cafd3957a"
+      "sha256": "7e0513222c1cd79c41d6d502230e734b7ba43448ea5853b46e37eb7cafd3957a",
+      "bytes": 44644
     },
     "Models/VTOL/PylonLight/PylonLight__StoreInterface.obj": {
-      "bytes": 41418,
-      "sha256": "0d22e8434f3f5c6b45491de3dbe38eac02e089b3565d123833a15f43d485e50f"
+      "sha256": "0d22e8434f3f5c6b45491de3dbe38eac02e089b3565d123833a15f43d485e50f",
+      "bytes": 41418
     },
     "Models/VTOL/Rocket57Sixteen/anchors.json": {
-      "bytes": 16008,
-      "sha256": "57f0999ad27f3cc446fddce62b8be587098791d5a97822d6c22fb58d23d2fb1c"
+      "sha256": "57f0999ad27f3cc446fddce62b8be587098791d5a97822d6c22fb58d23d2fb1c",
+      "bytes": 16008
     },
     "Models/VTOL/Rocket57Sixteen/Palette.mtl": {
-      "bytes": 938,
-      "sha256": "0443326ba9b16c3ba44871e4ddc12260203b9c484f9857c5da51ec5a9efb7196"
+      "sha256": "0443326ba9b16c3ba44871e4ddc12260203b9c484f9857c5da51ec5a9efb7196",
+      "bytes": 938
     },
     "Models/VTOL/Rocket57Sixteen/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen.obj": {
-      "bytes": 406205,
-      "sha256": "c08d9ddbed2bab9a7ec1a478a850ef5b69c9f334d6d021208ec40053645357a0"
+      "sha256": "c08d9ddbed2bab9a7ec1a478a850ef5b69c9f334d6d021208ec40053645357a0",
+      "bytes": 406205
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Empty.obj": {
-      "bytes": 311742,
-      "sha256": "c1677b2489758c6c5ce001c1f41075a99912f1b1302cec01b9faeb591a671fd3"
+      "sha256": "c1677b2489758c6c5ce001c1f41075a99912f1b1302cec01b9faeb591a671fd3",
+      "bytes": 311742
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__EndCap.obj": {
-      "bytes": 8327,
-      "sha256": "4a9648f88cc70a437ed24423905acee1d4efd8d82db76ee9241ef2a7d8078e80"
+      "sha256": "4a9648f88cc70a437ed24423905acee1d4efd8d82db76ee9241ef2a7d8078e80",
+      "bytes": 8327
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Full.obj": {
-      "bytes": 406205,
-      "sha256": "c08d9ddbed2bab9a7ec1a478a850ef5b69c9f334d6d021208ec40053645357a0"
+      "sha256": "c08d9ddbed2bab9a7ec1a478a850ef5b69c9f334d6d021208ec40053645357a0",
+      "bytes": 406205
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Mount.obj": {
-      "bytes": 8150,
-      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952"
+      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952",
+      "bytes": 8150
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__PodShell.obj": {
-      "bytes": 69735,
-      "sha256": "b8d88fbba8b132c51ae6be308a27ce4aafaf2cf917544a415f67b11a1dd6735e"
+      "sha256": "b8d88fbba8b132c51ae6be308a27ce4aafaf2cf917544a415f67b11a1dd6735e",
+      "bytes": 69735
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_01.obj": {
-      "bytes": 5379,
-      "sha256": "bd68e39cd9e33401ac0f8a6a9d8bdf5492ee367faf322d06912f9a2ede17eeeb"
+      "sha256": "bd68e39cd9e33401ac0f8a6a9d8bdf5492ee367faf322d06912f9a2ede17eeeb",
+      "bytes": 5379
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_02.obj": {
-      "bytes": 5402,
-      "sha256": "d043140d5e6df8fce5ef9363ee5c79d30f9691b8cf614d68fa7877da3e707d67"
+      "sha256": "d043140d5e6df8fce5ef9363ee5c79d30f9691b8cf614d68fa7877da3e707d67",
+      "bytes": 5402
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_03.obj": {
-      "bytes": 5403,
-      "sha256": "3ad0bacc74f40c34399666f3cf13c77fe09f03d2004881c907586067d8290192"
+      "sha256": "3ad0bacc74f40c34399666f3cf13c77fe09f03d2004881c907586067d8290192",
+      "bytes": 5403
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_04.obj": {
-      "bytes": 5389,
-      "sha256": "a51a30f76ce5cc5426aec9758c61c3b8c935f5954c6b85d097399008b7a0d206"
+      "sha256": "a51a30f76ce5cc5426aec9758c61c3b8c935f5954c6b85d097399008b7a0d206",
+      "bytes": 5389
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_05.obj": {
-      "bytes": 5367,
-      "sha256": "58b448e2c55d9ed4916101502c1fc9ae1630de3b4232fcf41538be93aec6d6f1"
+      "sha256": "58b448e2c55d9ed4916101502c1fc9ae1630de3b4232fcf41538be93aec6d6f1",
+      "bytes": 5367
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_06.obj": {
-      "bytes": 5357,
-      "sha256": "fac251def443960ac8a11bcd9c6f4bc13fda54ba8869d8cf4863f504e024db74"
+      "sha256": "fac251def443960ac8a11bcd9c6f4bc13fda54ba8869d8cf4863f504e024db74",
+      "bytes": 5357
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_07.obj": {
-      "bytes": 5366,
-      "sha256": "92870f27d8f4524884f9c694c88738056617e26a68b558132bda52781fc1eb5f"
+      "sha256": "92870f27d8f4524884f9c694c88738056617e26a68b558132bda52781fc1eb5f",
+      "bytes": 5366
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_08.obj": {
-      "bytes": 5397,
-      "sha256": "3753de283f22ae2d56f2f9d1da1978349bc5d8bd34f81f9e34a24cf7278b916c"
+      "sha256": "3753de283f22ae2d56f2f9d1da1978349bc5d8bd34f81f9e34a24cf7278b916c",
+      "bytes": 5397
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_09.obj": {
-      "bytes": 5391,
-      "sha256": "f5a36ef2a7e9f7e3f93d59ab6f4dd26eb4df84e0d65363e8d1e23e94887e4edd"
+      "sha256": "f5a36ef2a7e9f7e3f93d59ab6f4dd26eb4df84e0d65363e8d1e23e94887e4edd",
+      "bytes": 5391
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_10.obj": {
-      "bytes": 5382,
-      "sha256": "fae0d6b9d67b07fd553a87fe6328d609db94ed82df17c331183adf6ccd96590c"
+      "sha256": "fae0d6b9d67b07fd553a87fe6328d609db94ed82df17c331183adf6ccd96590c",
+      "bytes": 5382
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_11.obj": {
-      "bytes": 5384,
-      "sha256": "7ce9ab70fdf1a640bcaef67dbfbedc1a5d36af093b1ea7d10d7f2aacd4fb6dff"
+      "sha256": "7ce9ab70fdf1a640bcaef67dbfbedc1a5d36af093b1ea7d10d7f2aacd4fb6dff",
+      "bytes": 5384
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_12.obj": {
-      "bytes": 5379,
-      "sha256": "dae0d7bf0b461dd27eaebafb92afe32c1f1c5c08cc9db8fa8a89ec4c38898a0e"
+      "sha256": "dae0d7bf0b461dd27eaebafb92afe32c1f1c5c08cc9db8fa8a89ec4c38898a0e",
+      "bytes": 5379
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_13.obj": {
-      "bytes": 5387,
-      "sha256": "125bb250fd0e8cd69a878a8044a70aa9cf5dff7c7fa0fb6aa5c1f60a603b5267"
+      "sha256": "125bb250fd0e8cd69a878a8044a70aa9cf5dff7c7fa0fb6aa5c1f60a603b5267",
+      "bytes": 5387
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_14.obj": {
-      "bytes": 5402,
-      "sha256": "4711bd69f32aef4e8403d0bc5f4713d535f90facc4ee43d753f8af234dee39f9"
+      "sha256": "4711bd69f32aef4e8403d0bc5f4713d535f90facc4ee43d753f8af234dee39f9",
+      "bytes": 5402
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_15.obj": {
-      "bytes": 5362,
-      "sha256": "859121fea4d553d99b309c298e032c23ca25a2f74ed012979a8253218b95c429"
+      "sha256": "859121fea4d553d99b309c298e032c23ca25a2f74ed012979a8253218b95c429",
+      "bytes": 5362
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__Round_16.obj": {
-      "bytes": 5354,
-      "sha256": "74198042dd868ef3bd7486d3ada5141f56f7ba4fd4c38e7cad1ae288a22ee6f2"
+      "sha256": "74198042dd868ef3bd7486d3ada5141f56f7ba4fd4c38e7cad1ae288a22ee6f2",
+      "bytes": 5354
     },
     "Models/VTOL/Rocket57Sixteen/Rocket57Sixteen__TubeLiners.obj": {
-      "bytes": 220881,
-      "sha256": "ed50b35532f84ccf22d4430ed5b2960e1f35f90759227a8fdf9f73f414ee500d"
+      "sha256": "ed50b35532f84ccf22d4430ed5b2960e1f35f90759227a8fdf9f73f414ee500d",
+      "bytes": 220881
     },
     "Models/VTOL/Rocket70Nineteen/anchors.json": {
-      "bytes": 18370,
-      "sha256": "bcba2f4458e559a4762b3ff13d09f1eec455779a7bfecb49a1327d26fc2762e6"
+      "sha256": "bcba2f4458e559a4762b3ff13d09f1eec455779a7bfecb49a1327d26fc2762e6",
+      "bytes": 18370
     },
     "Models/VTOL/Rocket70Nineteen/Palette.mtl": {
-      "bytes": 946,
-      "sha256": "615d052aeaf3f6952cc0a7a32b5a849f7bed015d3cbd0fcc39a2daae7fbeea86"
+      "sha256": "615d052aeaf3f6952cc0a7a32b5a849f7bed015d3cbd0fcc39a2daae7fbeea86",
+      "bytes": 946
     },
     "Models/VTOL/Rocket70Nineteen/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen.obj": {
-      "bytes": 466619,
-      "sha256": "7a70fde19c4ed67ca0e8b518778a1df041ba158a9f64a3ea21f4b88554b6b0dd"
+      "sha256": "7a70fde19c4ed67ca0e8b518778a1df041ba158a9f64a3ea21f4b88554b6b0dd",
+      "bytes": 466619
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Empty.obj": {
-      "bytes": 353992,
-      "sha256": "19062b5887cc1a7e9f2d6db7ce7130793f57e48cf96ea9b1a29b7dcebc908597"
+      "sha256": "19062b5887cc1a7e9f2d6db7ce7130793f57e48cf96ea9b1a29b7dcebc908597",
+      "bytes": 353992
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__EndCap.obj": {
-      "bytes": 8363,
-      "sha256": "5d054b686143a30b8ffcf1ab6ba62d6394bb05f117ccb7e96120194b38d7d15c"
+      "sha256": "5d054b686143a30b8ffcf1ab6ba62d6394bb05f117ccb7e96120194b38d7d15c",
+      "bytes": 8363
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Full.obj": {
-      "bytes": 466619,
-      "sha256": "7a70fde19c4ed67ca0e8b518778a1df041ba158a9f64a3ea21f4b88554b6b0dd"
+      "sha256": "7a70fde19c4ed67ca0e8b518778a1df041ba158a9f64a3ea21f4b88554b6b0dd",
+      "bytes": 466619
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Mount.obj": {
-      "bytes": 8150,
-      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952"
+      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952",
+      "bytes": 8150
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__PodShell.obj": {
-      "bytes": 69818,
-      "sha256": "0cc269dfd332ae9442b797052f0c3c066f488c0b5076dcc439b9cdf8a7ac9c44"
+      "sha256": "0cc269dfd332ae9442b797052f0c3c066f488c0b5076dcc439b9cdf8a7ac9c44",
+      "bytes": 69818
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_01.obj": {
-      "bytes": 5381,
-      "sha256": "77220f44d13273680de12d38f3dc12e9f682d1c001f37a9683aa5b116d45d8f2"
+      "sha256": "77220f44d13273680de12d38f3dc12e9f682d1c001f37a9683aa5b116d45d8f2",
+      "bytes": 5381
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_02.obj": {
-      "bytes": 5351,
-      "sha256": "e75ff4f9298e0c327ff9b7b641667da710582f7c22495b176e6792c9d8f66794"
+      "sha256": "e75ff4f9298e0c327ff9b7b641667da710582f7c22495b176e6792c9d8f66794",
+      "bytes": 5351
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_03.obj": {
-      "bytes": 5372,
-      "sha256": "905f342161d99a8680be61da53219a9ab4b6e079fe4cb9cac03a5e873fa64831"
+      "sha256": "905f342161d99a8680be61da53219a9ab4b6e079fe4cb9cac03a5e873fa64831",
+      "bytes": 5372
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_04.obj": {
-      "bytes": 5400,
-      "sha256": "775bb01a723e0143b29a50362c4698c73b0ff779e7865531e0fee3405da1d04c"
+      "sha256": "775bb01a723e0143b29a50362c4698c73b0ff779e7865531e0fee3405da1d04c",
+      "bytes": 5400
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_05.obj": {
-      "bytes": 5371,
-      "sha256": "3bd2ff0595e770b1dea2e3fcca0000fa534eb68b99e41b201741e1027c2b7f15"
+      "sha256": "3bd2ff0595e770b1dea2e3fcca0000fa534eb68b99e41b201741e1027c2b7f15",
+      "bytes": 5371
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_06.obj": {
-      "bytes": 5400,
-      "sha256": "e7684493aab1ab5e4285a883e1d3db515817c75b09f217eb1e017d9f179a1af8"
+      "sha256": "e7684493aab1ab5e4285a883e1d3db515817c75b09f217eb1e017d9f179a1af8",
+      "bytes": 5400
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_07.obj": {
-      "bytes": 5375,
-      "sha256": "d08a3b0fcc2c14c1f98d1dd463ca5a9caf0c432dd7e6e72de187b8e56e2d7784"
+      "sha256": "d08a3b0fcc2c14c1f98d1dd463ca5a9caf0c432dd7e6e72de187b8e56e2d7784",
+      "bytes": 5375
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_08.obj": {
-      "bytes": 5358,
-      "sha256": "debce954f09d7eab09fb706dee9bf642599a528c31c77e524418625444bbcdd2"
+      "sha256": "debce954f09d7eab09fb706dee9bf642599a528c31c77e524418625444bbcdd2",
+      "bytes": 5358
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_09.obj": {
-      "bytes": 5368,
-      "sha256": "cb54da65b09dbb7ffc8d5335e9f9cd39e25d5b5e3db184fba5cafb5e9ac28ed1"
+      "sha256": "cb54da65b09dbb7ffc8d5335e9f9cd39e25d5b5e3db184fba5cafb5e9ac28ed1",
+      "bytes": 5368
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_10.obj": {
-      "bytes": 5364,
-      "sha256": "9abd66cfff949e0cd402c3d66a21872b9a9a39993df703c6cb378d85093a06fe"
+      "sha256": "9abd66cfff949e0cd402c3d66a21872b9a9a39993df703c6cb378d85093a06fe",
+      "bytes": 5364
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_11.obj": {
-      "bytes": 5395,
-      "sha256": "4c4d54f1705d2ace9b11355c2bd2124d93c34b0e19124370e6b8538ecacf6ec9"
+      "sha256": "4c4d54f1705d2ace9b11355c2bd2124d93c34b0e19124370e6b8538ecacf6ec9",
+      "bytes": 5395
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_12.obj": {
-      "bytes": 5381,
-      "sha256": "07a270f74e4d2ec3f6fb5d2594ffa24dd01a68a730332bff6e344d6e16b66512"
+      "sha256": "07a270f74e4d2ec3f6fb5d2594ffa24dd01a68a730332bff6e344d6e16b66512",
+      "bytes": 5381
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_13.obj": {
-      "bytes": 5377,
-      "sha256": "535f46cfdc0e97f8889e4899b54a88f16147669b59b80a87e434d107c6ae4cd3"
+      "sha256": "535f46cfdc0e97f8889e4899b54a88f16147669b59b80a87e434d107c6ae4cd3",
+      "bytes": 5377
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_14.obj": {
-      "bytes": 5375,
-      "sha256": "8279eabae47837997606a522ef90d57b2fd12369d22c749eed3ec368e5185053"
+      "sha256": "8279eabae47837997606a522ef90d57b2fd12369d22c749eed3ec368e5185053",
+      "bytes": 5375
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_15.obj": {
-      "bytes": 5362,
-      "sha256": "1e4273933e310263ccb05796584b94082d499a8ca5488895d34139679e5525a1"
+      "sha256": "1e4273933e310263ccb05796584b94082d499a8ca5488895d34139679e5525a1",
+      "bytes": 5362
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_16.obj": {
-      "bytes": 5381,
-      "sha256": "d13c3b715171f99d983bb08daf7d165af6d3bf358074ee866db1d4bc227b749e"
+      "sha256": "d13c3b715171f99d983bb08daf7d165af6d3bf358074ee866db1d4bc227b749e",
+      "bytes": 5381
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_17.obj": {
-      "bytes": 5395,
-      "sha256": "1cd7aea28089a017087111a42ab0f3fddc85ba7f500d052da372da9a14f97210"
+      "sha256": "1cd7aea28089a017087111a42ab0f3fddc85ba7f500d052da372da9a14f97210",
+      "bytes": 5395
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_18.obj": {
-      "bytes": 5364,
-      "sha256": "a296526f87d5d5532a7796e8a5a85a68c0804dc5ae273b80e832d0b9a6b74f88"
+      "sha256": "a296526f87d5d5532a7796e8a5a85a68c0804dc5ae273b80e832d0b9a6b74f88",
+      "bytes": 5364
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__Round_19.obj": {
-      "bytes": 5353,
-      "sha256": "c5cad6a45f4b8fff3ece7106e98770772201fb3fb7eaf8883ff61f07d0042133"
+      "sha256": "c5cad6a45f4b8fff3ece7106e98770772201fb3fb7eaf8883ff61f07d0042133",
+      "bytes": 5353
     },
     "Models/VTOL/Rocket70Nineteen/Rocket70Nineteen__TubeLiners.obj": {
-      "bytes": 262808,
-      "sha256": "3977377146dbc6d3922730d599153638c7c22a29ba9999dd1b0a6cb35d4f5fb1"
+      "sha256": "3977377146dbc6d3922730d599153638c7c22a29ba9999dd1b0a6cb35d4f5fb1",
+      "bytes": 262808
     },
     "Models/VTOL/Rocket70Seven/anchors.json": {
-      "bytes": 8893,
-      "sha256": "a64535207144aeae801c98ef893570c211b5c89b0c9f73f9d9775d5e22a1408a"
+      "sha256": "a64535207144aeae801c98ef893570c211b5c89b0c9f73f9d9775d5e22a1408a",
+      "bytes": 8893
     },
     "Models/VTOL/Rocket70Seven/Palette.mtl": {
-      "bytes": 922,
-      "sha256": "bb77318b17fdb5abd70bfdd4fbafd3e81433109a9455f1d8357a96b38d70c6ac"
+      "sha256": "bb77318b17fdb5abd70bfdd4fbafd3e81433109a9455f1d8357a96b38d70c6ac",
+      "bytes": 922
     },
     "Models/VTOL/Rocket70Seven/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven.obj": {
-      "bytes": 226182,
-      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155"
+      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155",
+      "bytes": 226182
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Empty.obj": {
-      "bytes": 185378,
-      "sha256": "00bba89f335b57c63ce3d04f0d1a5c3a7280fc0fbcab38078e58afb7f9cbb1f4"
+      "sha256": "00bba89f335b57c63ce3d04f0d1a5c3a7280fc0fbcab38078e58afb7f9cbb1f4",
+      "bytes": 185378
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__EndCap.obj": {
-      "bytes": 8352,
-      "sha256": "a005c7b285c8f2d5fa84f21316fa315963e553cef5eef6925e278ce0ba25c38b"
+      "sha256": "a005c7b285c8f2d5fa84f21316fa315963e553cef5eef6925e278ce0ba25c38b",
+      "bytes": 8352
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Full.obj": {
-      "bytes": 226182,
-      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155"
+      "sha256": "1076f9da2a23f40fc1730648ec4a15e9b92db168a18c3c6fb206aaa8668e3155",
+      "bytes": 226182
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Mount.obj": {
-      "bytes": 8150,
-      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952"
+      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952",
+      "bytes": 8150
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__PodShell.obj": {
-      "bytes": 69899,
-      "sha256": "c4016f83c48109e9540276709a295cb0ca23c9a7ff93bbf8f3b2f56d38f8741c"
+      "sha256": "c4016f83c48109e9540276709a295cb0ca23c9a7ff93bbf8f3b2f56d38f8741c",
+      "bytes": 69899
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Round_01.obj": {
-      "bytes": 5378,
-      "sha256": "69be149a323b7430d9599fd2ee2ee1225677f2df82c37f53b61ba841fae61314"
+      "sha256": "69be149a323b7430d9599fd2ee2ee1225677f2df82c37f53b61ba841fae61314",
+      "bytes": 5378
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Round_02.obj": {
-      "bytes": 5356,
-      "sha256": "875dcfc4d5c3a076352a1a95e894a07812e45240883e1443f4bb45f020be8679"
+      "sha256": "875dcfc4d5c3a076352a1a95e894a07812e45240883e1443f4bb45f020be8679",
+      "bytes": 5356
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Round_03.obj": {
-      "bytes": 5368,
-      "sha256": "b78e348cc0a3c0108c7f28f6404b121ca891745be223e2d7799265b07ee5134b"
+      "sha256": "b78e348cc0a3c0108c7f28f6404b121ca891745be223e2d7799265b07ee5134b",
+      "bytes": 5368
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Round_04.obj": {
-      "bytes": 5385,
-      "sha256": "bf86ce666a2bf62a97d8e90832e82a3bb7058c61f92eb274000a853c4da5e8e9"
+      "sha256": "bf86ce666a2bf62a97d8e90832e82a3bb7058c61f92eb274000a853c4da5e8e9",
+      "bytes": 5385
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Round_05.obj": {
-      "bytes": 5373,
-      "sha256": "d6aa0611813fff29ce175e3421ba322f43ab5d19884638cba835f29c6deef123"
+      "sha256": "d6aa0611813fff29ce175e3421ba322f43ab5d19884638cba835f29c6deef123",
+      "bytes": 5373
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Round_06.obj": {
-      "bytes": 5388,
-      "sha256": "b2803e2d6e521ada35d356191d5b501bf58cb218475d5156009db663a2b1e01d"
+      "sha256": "b2803e2d6e521ada35d356191d5b501bf58cb218475d5156009db663a2b1e01d",
+      "bytes": 5388
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__Round_07.obj": {
-      "bytes": 5368,
-      "sha256": "66ec7669f891ed4f0f858a35c7f56499f5ec07bce9ea327ca9b8d83a55f0760c"
+      "sha256": "66ec7669f891ed4f0f858a35c7f56499f5ec07bce9ea327ca9b8d83a55f0760c",
+      "bytes": 5368
     },
     "Models/VTOL/Rocket70Seven/Rocket70Seven__TubeLiners.obj": {
-      "bytes": 94328,
-      "sha256": "c1d06e2c52a195439747edc736498518d9cd12d2eea6095241a94cee93e18190"
+      "sha256": "c1d06e2c52a195439747edc736498518d9cd12d2eea6095241a94cee93e18190",
+      "bytes": 94328
     },
     "Models/VTOL/Rocket80Twenty/anchors.json": {
-      "bytes": 19526,
-      "sha256": "3e376821ff2849f9cb6e476b17a4a1471f64cc451b93674d95cdcd9b20d4efb8"
+      "sha256": "3e376821ff2849f9cb6e476b17a4a1471f64cc451b93674d95cdcd9b20d4efb8",
+      "bytes": 19526
     },
     "Models/VTOL/Rocket80Twenty/Palette.mtl": {
-      "bytes": 930,
-      "sha256": "c723c6b45b9737b85383a4460a37c228dc931545b77898775ef5649553384e59"
+      "sha256": "c723c6b45b9737b85383a4460a37c228dc931545b77898775ef5649553384e59",
+      "bytes": 930
     },
     "Models/VTOL/Rocket80Twenty/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty.obj": {
-      "bytes": 486686,
-      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f"
+      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f",
+      "bytes": 486686
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Empty.obj": {
-      "bytes": 368219,
-      "sha256": "a833cb484503f45435d3c8fd97018492866cf54f30a34f9092159d17ccd8d515"
+      "sha256": "a833cb484503f45435d3c8fd97018492866cf54f30a34f9092159d17ccd8d515",
+      "bytes": 368219
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__EndCap.obj": {
-      "bytes": 8334,
-      "sha256": "ea87733d35cf83588f6acece5320c0f527afc2a9063e902f2636278122e3937a"
+      "sha256": "ea87733d35cf83588f6acece5320c0f527afc2a9063e902f2636278122e3937a",
+      "bytes": 8334
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Full.obj": {
-      "bytes": 486686,
-      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f"
+      "sha256": "046d1feb23a5034230f1972650887b1076d57a9d152845d6c3409364e315367f",
+      "bytes": 486686
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Mount.obj": {
-      "bytes": 8150,
-      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952"
+      "sha256": "112e8fb3da583192f0372196d8ce0960ee0ace3751bf79029a2e8f160525c952",
+      "bytes": 8150
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__PodShell.obj": {
-      "bytes": 69853,
-      "sha256": "cbbe5953e22e6c18549ec0b406eceaceefa7ad25b51e5984d82da5a1075fad7e"
+      "sha256": "cbbe5953e22e6c18549ec0b406eceaceefa7ad25b51e5984d82da5a1075fad7e",
+      "bytes": 69853
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_01.obj": {
-      "bytes": 5374,
-      "sha256": "5b9b06524ed100ab688e5abd1eb2f27b0595b0e4089b2ffbec3720d36c33374a"
+      "sha256": "5b9b06524ed100ab688e5abd1eb2f27b0595b0e4089b2ffbec3720d36c33374a",
+      "bytes": 5374
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_02.obj": {
-      "bytes": 5380,
-      "sha256": "e7375919b9936b442c3538419db4727b43b43cc7778f9d61085d4c6e700030f3"
+      "sha256": "e7375919b9936b442c3538419db4727b43b43cc7778f9d61085d4c6e700030f3",
+      "bytes": 5380
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_03.obj": {
-      "bytes": 5387,
-      "sha256": "c53e8a31b778e05de2983975934d8387f98bdb97954a6d00bcf80cf2b2ae13f7"
+      "sha256": "c53e8a31b778e05de2983975934d8387f98bdb97954a6d00bcf80cf2b2ae13f7",
+      "bytes": 5387
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_04.obj": {
-      "bytes": 5378,
-      "sha256": "15a9b6c965adadfe74e635f7e88516e2eb9a94c9102076e85276e47810e02d55"
+      "sha256": "15a9b6c965adadfe74e635f7e88516e2eb9a94c9102076e85276e47810e02d55",
+      "bytes": 5378
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_05.obj": {
-      "bytes": 5356,
-      "sha256": "03a194ee6b2e9d3baa76541bc043e082e108fb97c70fb26b27a184a88ae62ecc"
+      "sha256": "03a194ee6b2e9d3baa76541bc043e082e108fb97c70fb26b27a184a88ae62ecc",
+      "bytes": 5356
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_06.obj": {
-      "bytes": 5365,
-      "sha256": "49007e266dfbbdc189735e9f5385971c4fcf0a0584af7605cb3535e1e83907d9"
+      "sha256": "49007e266dfbbdc189735e9f5385971c4fcf0a0584af7605cb3535e1e83907d9",
+      "bytes": 5365
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_07.obj": {
-      "bytes": 5365,
-      "sha256": "42f9a61dcc64219557b5ebd905ef0ff98a6a07f649d2d0521f508cc2e75197a1"
+      "sha256": "42f9a61dcc64219557b5ebd905ef0ff98a6a07f649d2d0521f508cc2e75197a1",
+      "bytes": 5365
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_08.obj": {
-      "bytes": 5343,
-      "sha256": "c14a835d97a74d8a22283115616198f30b1e12441ee608d108c511e67909a00c"
+      "sha256": "c14a835d97a74d8a22283115616198f30b1e12441ee608d108c511e67909a00c",
+      "bytes": 5343
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_09.obj": {
-      "bytes": 5393,
-      "sha256": "187f734fe63c66438a2accfb8ffe009ac43755cda4c58dbcff4148fc978e0148"
+      "sha256": "187f734fe63c66438a2accfb8ffe009ac43755cda4c58dbcff4148fc978e0148",
+      "bytes": 5393
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_10.obj": {
-      "bytes": 5365,
-      "sha256": "98f4e682455f7c876cb7e5f3f999955243317dc598a0b7f4ac3cd0af29337a82"
+      "sha256": "98f4e682455f7c876cb7e5f3f999955243317dc598a0b7f4ac3cd0af29337a82",
+      "bytes": 5365
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_11.obj": {
-      "bytes": 5382,
-      "sha256": "69f7f49c0653acdbe2a7777f9680b96fa0a1b86c00775e44e1ca1f75b2dfd46a"
+      "sha256": "69f7f49c0653acdbe2a7777f9680b96fa0a1b86c00775e44e1ca1f75b2dfd46a",
+      "bytes": 5382
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_12.obj": {
-      "bytes": 5382,
-      "sha256": "e786439b5dd4aa689b17c041afcfb6724fb3c68a6874004467d678516c70c21f"
+      "sha256": "e786439b5dd4aa689b17c041afcfb6724fb3c68a6874004467d678516c70c21f",
+      "bytes": 5382
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_13.obj": {
-      "bytes": 5376,
-      "sha256": "cd8b6e5449fbf708dd695268a5bd44ab9ac917c120851b01dbdb4519fa7fe90b"
+      "sha256": "cd8b6e5449fbf708dd695268a5bd44ab9ac917c120851b01dbdb4519fa7fe90b",
+      "bytes": 5376
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_14.obj": {
-      "bytes": 5382,
-      "sha256": "2da16fb53f2b94655e7d3d4fc4ec184ce1d7ec83d455bbb090c67cab1cca2e3e"
+      "sha256": "2da16fb53f2b94655e7d3d4fc4ec184ce1d7ec83d455bbb090c67cab1cca2e3e",
+      "bytes": 5382
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_15.obj": {
-      "bytes": 5381,
-      "sha256": "a9368e931035c78043de31096262075656de116dc60302658b9df159409fc52d"
+      "sha256": "a9368e931035c78043de31096262075656de116dc60302658b9df159409fc52d",
+      "bytes": 5381
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_16.obj": {
-      "bytes": 5363,
-      "sha256": "66afb5d22b44eca40894f93075010d75919d4fc299863ae285de61789d8d264b"
+      "sha256": "66afb5d22b44eca40894f93075010d75919d4fc299863ae285de61789d8d264b",
+      "bytes": 5363
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_17.obj": {
-      "bytes": 5379,
-      "sha256": "5b24fd513b941da4fde8a4eb2daf250169d2d6a08816d47544db7f8fc549fa47"
+      "sha256": "5b24fd513b941da4fde8a4eb2daf250169d2d6a08816d47544db7f8fc549fa47",
+      "bytes": 5379
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_18.obj": {
-      "bytes": 5338,
-      "sha256": "8946d06dbab972114b9a5a7f546637544092c5408160c8f0c42b97c91ca0c2d7"
+      "sha256": "8946d06dbab972114b9a5a7f546637544092c5408160c8f0c42b97c91ca0c2d7",
+      "bytes": 5338
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_19.obj": {
-      "bytes": 5364,
-      "sha256": "fbcbccddf81112dcf42b4b636e49a73e78c00f07313bd493aa3c5f2c1a09a300"
+      "sha256": "fbcbccddf81112dcf42b4b636e49a73e78c00f07313bd493aa3c5f2c1a09a300",
+      "bytes": 5364
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__Round_20.obj": {
-      "bytes": 5368,
-      "sha256": "c7e632bb1b86a1099d568f261d0adb26557124e986286c0139f44865e770179a"
+      "sha256": "c7e632bb1b86a1099d568f261d0adb26557124e986286c0139f44865e770179a",
+      "bytes": 5368
     },
     "Models/VTOL/Rocket80Twenty/Rocket80Twenty__TubeLiners.obj": {
-      "bytes": 276789,
-      "sha256": "ea4e5cd63937829c29f90bae74adad863a7ee6cb0ee9a91684452121ca06cf58"
+      "sha256": "ea4e5cd63937829c29f90bae74adad863a7ee6cb0ee9a91684452121ca06cf58",
+      "bytes": 276789
     },
     "Models/VTOL/Rotary127/anchors.json": {
-      "bytes": 3891,
-      "sha256": "804afea69d96a0d7891eed1332091dada1e5132e0e370f9b6e10c607aae8428c"
+      "sha256": "804afea69d96a0d7891eed1332091dada1e5132e0e370f9b6e10c607aae8428c",
+      "bytes": 3891
     },
     "Models/VTOL/Rotary127/Palette.mtl": {
-      "bytes": 890,
-      "sha256": "51b10a2138872bbe683ee207491c331cc677f73ca178f12cb3ba1c0def3a860c"
+      "sha256": "51b10a2138872bbe683ee207491c331cc677f73ca178f12cb3ba1c0def3a860c",
+      "bytes": 890
     },
     "Models/VTOL/Rotary127/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/Rotary127/Rotary127.obj": {
-      "bytes": 129636,
-      "sha256": "427efba4a7abf3d4cc2f9be83a4bcaa8ce82c219085e0c219b86a029f6c80b27"
+      "sha256": "427efba4a7abf3d4cc2f9be83a4bcaa8ce82c219085e0c219b86a029f6c80b27",
+      "bytes": 129636
     },
     "Models/VTOL/Rotary127/Rotary127__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/Rotary127/Rotary127__Pitch.obj": {
-      "bytes": 8580,
-      "sha256": "40e4f8c3f82ae7c1cf7d6d5964d67100a42e9da0dffbae159060b63d7b7fd5ae"
+      "sha256": "40e4f8c3f82ae7c1cf7d6d5964d67100a42e9da0dffbae159060b63d7b7fd5ae",
+      "bytes": 8580
     },
     "Models/VTOL/Rotary127/Rotary127__PodShell.obj": {
-      "bytes": 42674,
-      "sha256": "cb6383a6c4f2a86f8e9bd658d1f17f06f4cd16340a28a784a6700dbc88251361"
+      "sha256": "cb6383a6c4f2a86f8e9bd658d1f17f06f4cd16340a28a784a6700dbc88251361",
+      "bytes": 42674
     },
     "Models/VTOL/Rotary127/Rotary127__Rotor.obj": {
-      "bytes": 66900,
-      "sha256": "6b34a37d0ecd1823d11ae77c3430b88e915537a1218964f7b17d6fcd38021abb"
+      "sha256": "6b34a37d0ecd1823d11ae77c3430b88e915537a1218964f7b17d6fcd38021abb",
+      "bytes": 66900
     },
     "Models/VTOL/StubWing/anchors.json": {
-      "bytes": 3187,
-      "sha256": "671d070199545f859f05ff52fe9a5151c9c334aa612b95a2e63cbe1654688501"
+      "sha256": "671d070199545f859f05ff52fe9a5151c9c334aa612b95a2e63cbe1654688501",
+      "bytes": 3187
     },
     "Models/VTOL/StubWing/Palette.mtl": {
-      "bytes": 882,
-      "sha256": "a755f3f8d80b566fbc1e79dddda6a9d4755759e71440285e3433b2d7c946e7f5"
+      "sha256": "a755f3f8d80b566fbc1e79dddda6a9d4755759e71440285e3433b2d7c946e7f5",
+      "bytes": 882
     },
     "Models/VTOL/StubWing/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Models/VTOL/StubWing/StubWing.obj": {
-      "bytes": 106408,
-      "sha256": "9b2e00c1ce79752190cb460c7794117c22196b32a162c9910599c60e94837361"
+      "sha256": "9b2e00c1ce79752190cb460c7794117c22196b32a162c9910599c60e94837361",
+      "bytes": 106408
     },
     "Models/VTOL/StubWing/StubWing__Mount.obj": {
-      "bytes": 8205,
-      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211"
+      "sha256": "a78e6bd04faea8aade952a6dd4293c6c6c66cd3036f392c03317be86f2f59211",
+      "bytes": 8205
     },
     "Models/VTOL/StubWing/StubWing__WingLeft.obj": {
-      "bytes": 48360,
-      "sha256": "438a6becc13beaf9d98a5fa7790fc818b5744887b0c300370efea8d03b933801"
+      "sha256": "438a6becc13beaf9d98a5fa7790fc818b5744887b0c300370efea8d03b933801",
+      "bytes": 48360
     },
     "Models/VTOL/StubWing/StubWing__WingRight.obj": {
-      "bytes": 48213,
-      "sha256": "d0d9eeca87aa3bcf29416e8d2faaf39810f95885cd072761739d74736958e8c6"
+      "sha256": "d0d9eeca87aa3bcf29416e8d2faaf39810f95885cd072761739d74736958e8c6",
+      "bytes": 48213
     },
     "NOTICE.txt": {
-      "bytes": 841,
-      "sha256": "9a0d987651659eb28f5861841a440a92f64984cc7520e2656be7c601cc47dc56"
+      "sha256": "9a0d987651659eb28f5861841a440a92f64984cc7520e2656be7c601cc47dc56",
+      "bytes": 841
     },
     "Patches/AttachUpgradeTrees.xml": {
-      "bytes": 9351,
-      "sha256": "0d56611076c34463b6bd8d35754cc5da311faefb89aa17069aec51467fce0b00"
+      "sha256": "0d56611076c34463b6bd8d35754cc5da311faefb89aa17069aec51467fce0b00",
+      "bytes": 9351
     },
     "Patches/UniversalAircraft.xml": {
-      "bytes": 25906,
-      "sha256": "e24cafb1f1df2f6e4ca972bffd3abe694f1ba928e4d35ec4b71e628141ab9b09"
+      "sha256": "e24cafb1f1df2f6e4ca972bffd3abe694f1ba928e4d35ec4b71e628141ab9b09",
+      "bytes": 25906
     },
     "Sounds/VTOL/AirRaidAlarm15.wav": {
-      "bytes": 661544,
-      "sha256": "d91619ae6ba1c517f506cc7681d3504ea0ee8a25e741456fadf8f8f5c516267c"
+      "sha256": "d91619ae6ba1c517f506cc7681d3504ea0ee8a25e741456fadf8f8f5c516267c",
+      "bytes": 661544
     },
     "Textures/FPSR14/AerialR14/Cannon20/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Cannon30/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/ChinMount/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Grenade40/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Gun127/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_BaseColor.png": {
-      "bytes": 247238,
-      "sha256": "5d0591200a5b76b0262fd60499e591b2e91eb1575d222ce5a816e451541933eb"
+      "sha256": "e54b34b0b20ec64d5adef1a4bbbdb4f4a3563daa0e263af6a6c7629fa97f99f0",
+      "bytes": 247304
     },
     "Textures/FPSR14/AerialR14/Gun556Air/Gun556Air_MountPalette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Gun762/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Gun76254RAir/Gun76254RAir_BaseColor.png": {
-      "bytes": 97620,
-      "sha256": "b0ce9f87fed2b96deea849863e0dbb11a4dd0acc479bd5df0561965e57bdcdde"
+      "sha256": "990b868471c13fb5ff0f8604ef2c79f720187b51c7b6f44ac3eedc051cef144a",
+      "bytes": 97686
     },
     "Textures/FPSR14/AerialR14/MissileATSingle/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/PylonLight/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Rocket70Seven/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Rocket80Twenty/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/AerialR14/Shotgun12Air/Shotgun12Air_BaseColor.png": {
-      "bytes": 482808,
-      "sha256": "4882c60ca6c2ff1c217a8f334727d04b7b119fa10123bfb09cd666494ba1e8b7"
+      "sha256": "f62efaf79dee93a1e4e85bebb32a263bf8f43b6f1b609313a9b99de4bf755886",
+      "bytes": 482874
     },
     "Textures/FPSR14/BombLight/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSR14/Cockpits/Cockpit_DropPod/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Textures/FPSR14/Cockpits/Cockpit_FixedWing/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Textures/FPSR14/Cockpits/Cockpit_Rotorcraft/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Textures/FPSR14/Cockpits/Cockpit_Transport/Palette.png": {
-      "bytes": 1920,
-      "sha256": "549464d812bca895db5ec2434a82818006719e4c867baaf2997ddcee1fbf8de0"
+      "sha256": "2c139c582484e5202e6d7b1323fbf14ec4e980c3374705598509812e03634cbe",
+      "bytes": 1986
     },
     "Textures/FPSVTOLR2/BombGlide/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/BombHeavy/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/BombLight/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/BombMedium/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/BombRackTriple/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Cannon20/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Cannon30/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/ChinMount/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/DoorMount/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Grenade40/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Gun127/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Gun762/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Minigun762/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/MissileAArail/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/MissileATQuad/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/MissileATSingle/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/PylonHeavy/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/PylonLight/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Rocket57Sixteen/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Rocket70Nineteen/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Rocket70Seven/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Rocket80Twenty/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/Rotary127/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/FPSVTOLR2/StubWing/Palette.png": {
-      "bytes": 2011,
-      "sha256": "02a13983a8b85d0e4be451928033e4c7e6e8a7974f04358f48eca8052634b9ff"
+      "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",
+      "bytes": 2077
     },
     "Textures/Gun76251Air_Albedo.png": {
-      "bytes": 156498,
-      "sha256": "71ba877bddf8543df4eb85f5eb97f69a9968d257f8ed52021dc9dbf2661ed3d3"
+      "sha256": "71ba877bddf8543df4eb85f5eb97f69a9968d257f8ed52021dc9dbf2661ed3d3",
+      "bytes": 156498
     },
     "Textures/Rescue/ParachuteTop.png": {
-      "bytes": 71511,
-      "sha256": "451dcb27b8a1c03b21b08197414368938b7edd49d849b8fb5a607daf6c0d26bb"
+      "sha256": "c31331c2559108e3463175aed8cb979b358e6acaa2b81f25835c4bf4bee8ce3a",
+      "bytes": 71768
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/BombGlide.png": {
-      "bytes": 143378,
-      "sha256": "63e56438d742bfcd42b177627e151e64f083e3cb4531fffd949592d9e78d999c"
+      "sha256": "5bd1c096e2467d7d40383536793c98d548c5e872481aa26a54b89a5b955cb8d0",
+      "bytes": 143847
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/BombHeavy.png": {
-      "bytes": 146704,
-      "sha256": "98806fa1cab32a96f294386d3f673871847d0cb0491a62697f877eb90ab4087f"
+      "sha256": "d6a8dcbea4de3cd02b662f9e204e758fc8febc05756016f2655e5b723c8d24ad",
+      "bytes": 147173
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/BombLight.png": {
-      "bytes": 139818,
-      "sha256": "be5337afe90938e0990a460f823616e339dbfccfc66c4e42443a43ac97962a5c"
+      "sha256": "28f4afc6faf386ca90be1f6212e7d41aeca5876561a5c3ca96622ac7193c709a",
+      "bytes": 140287
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/BombMedium.png": {
-      "bytes": 146570,
-      "sha256": "791ad88cd85209bc34f6bea7deac7f7b0929af1c0e9f80edfbc88f74f83be224"
+      "sha256": "f20bd52db7789dc38b65834657ed4b87b41f84badeb658beaf33963186c1fe9b",
+      "bytes": 147039
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/BombRackTriple.png": {
-      "bytes": 143126,
-      "sha256": "84a75a920181dd9e4b50dce94a52f05fdbe58368cdfec315cad5b5877c47af56"
+      "sha256": "c64183fb379e9066e4a2fd7b9261e5eae65dace11133e38027e11eefbeab0938",
+      "bytes": 143595
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Cannon20.png": {
-      "bytes": 144150,
-      "sha256": "4433dbe713f9465a5657936d745661d0efaa94214bd161107e08c1e275e93392"
+      "sha256": "b362789234baaaca8cd6adb51ed6f6528da3dc0ae9ca1767c62e2be4c3cbb80e",
+      "bytes": 144619
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Cannon30.png": {
-      "bytes": 145195,
-      "sha256": "27deab5a21d1dc9ee3f6598a5430e4190778c87acb515a9c1e0d30cdb8a86710"
+      "sha256": "6ffd8e7a494f5e74af9642251a3e817ee6921f7c08cc0a02b9b89dd61b36e5dd",
+      "bytes": 145664
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/ChinMount.png": {
-      "bytes": 223229,
-      "sha256": "073f1d49e1eb7593cf97ccb404346cd9ddcaf8243bfcc8a36990f7ba376d24a0"
+      "sha256": "d9df1f3633a9e2e854812967110e40a115866da9d22889d9c8736971f427ca5f",
+      "bytes": 223698
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/DoorMount.png": {
-      "bytes": 145571,
-      "sha256": "e50795127d76f197f652e7ee71c8c8d3778012441c08eb55e4f397d75927e2ca"
+      "sha256": "277c223abb7ff0b74b3b004e9e93a770cd782634c5117f3d4a1a40815faa47cf",
+      "bytes": 146040
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Grenade40.png": {
-      "bytes": 155955,
-      "sha256": "92fce961cb9fa1d2fd6920aa6e0982499575390b8e8039f5d4f9b7b4e85904de"
+      "sha256": "2c362f8bab97a2e36cf3598d70ca2f655a6b0e3b82473bf9f1cd7c5749c29d77",
+      "bytes": 156424
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Gun127.png": {
-      "bytes": 133939,
-      "sha256": "1a32f575040d708a9a7c9e7cbccd6b312bd25760d19305613981a5e0aebdbc50"
+      "sha256": "caa067ff8979598f8169dafb10490e934f655d17f4d00c84b3ea2f735bcd5fe9",
+      "bytes": 134408
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Gun556Air.png": {
-      "bytes": 33468,
-      "sha256": "39fc8fe38018ee4bb59beae1e73456b3772d6277da211291beb639f5ef08cdac"
+      "sha256": "39fc8fe38018ee4bb59beae1e73456b3772d6277da211291beb639f5ef08cdac",
+      "bytes": 33468
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Gun762.png": {
-      "bytes": 147750,
-      "sha256": "ca6c39ec21e93c0a9d8b4efa021d72883879bc7207b1af01121988c465059e56"
+      "sha256": "31495047efb996759a178ae4ced81c99950cdcd9418cce4e50665dcf4d9ef09b",
+      "bytes": 148219
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Gun76251Air.png": {
-      "bytes": 134131,
-      "sha256": "a540edb4882625260b8c2200df848a8910f9aee1c0ca63fb3f3c9f412b816846"
+      "sha256": "8b00782e425ac27b5b630f419a79b21286f375d828c56fb03d8a1b79c51e8c76",
+      "bytes": 134394
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Gun76254RAir.png": {
-      "bytes": 151709,
-      "sha256": "0b74010d960664f5d0b49c97d26385cddf56ea72419f6326e4c4a2b21632def1"
+      "sha256": "77190d0c56a03e5db148a3a8c6847d305ab710927d92d739a3aa75c2caa4db81",
+      "bytes": 151973
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Minigun762.png": {
-      "bytes": 155485,
-      "sha256": "c85d3a4e008b145b745f5af3446c336f80fcb2e9736d947ae50e7601527dbdf0"
+      "sha256": "6d6a6448645cc4d5c1fce243bccbbc107e2003cc2e8c6cdfcf9cd2c0b8a3fe85",
+      "bytes": 155954
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/MissileAArail.png": {
-      "bytes": 134070,
-      "sha256": "b16f9bbdbc46b11b0af97e74c76c71b4fa67ad3db247441bb8f8384264ede842"
+      "sha256": "675e8f0f781d6dc0093db498934dcf5f5058c12c93621f9f141128f5f3006ea7",
+      "bytes": 134539
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/MissileATQuad.png": {
-      "bytes": 185885,
-      "sha256": "ab079cd1e31f1cc048a1efda09909af055f1138e739f5d9c2832bb37370b1a09"
+      "sha256": "65d7877fad17a93dda44827a31482c0c230e81af5f63e143b10c5dd065c49c7e",
+      "bytes": 186354
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/MissileATSingle.png": {
-      "bytes": 141008,
-      "sha256": "2e76c9ed2ef7f0e23c717f93d1225af0aacf3ea459e2623a7bffd433e76fb64c"
+      "sha256": "da00bf32673586e5bb026f183d1b1134cee89774b2d92c7a46c60305e5fe5c44",
+      "bytes": 141477
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/PylonHeavy.png": {
-      "bytes": 200128,
-      "sha256": "1a0385c792024b06fd71d683cf1a8b720fbecf5e4446f80316e85ae44d353f30"
+      "sha256": "f9dd2c2b610fb0644c3f714b3c4853bca4a790c2598927b793c96abe0a740375",
+      "bytes": 200597
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/PylonLight.png": {
-      "bytes": 199421,
-      "sha256": "56c52d483c41d150496ed83839f2f1234cf24c817ac61dda5fcbe27fc4d4120a"
+      "sha256": "96246252c40bc858055100118b1a4f4db64580d94c616022fc0be2291be99c7f",
+      "bytes": 199890
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Rocket57Sixteen.png": {
-      "bytes": 205506,
-      "sha256": "54d4b50bba648471051fcb7c19f2cd85fa921a9e2bdd188d53abd3bab5b8e218"
+      "sha256": "8b6a5acab6b3c5e1af1618fe59d10b15357612eaeb1ba2ae1e92dc019b65aadb",
+      "bytes": 205975
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Rocket70Nineteen.png": {
-      "bytes": 211627,
-      "sha256": "6e6f4cfb6c11b87fd923035fa1dc664b4ad5b70f6a4f005dbaee7fca71efbf46"
+      "sha256": "12bdadf69add6ee9493a451c4e17a01e59bde07d5b3d0dbd92fc3baa2ca3cc91",
+      "bytes": 212096
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Rocket70Seven.png": {
-      "bytes": 191694,
-      "sha256": "a60b203767eb5eebaf73b57e496eb114d001c2ef8d4c3dd5d59528c4a569f0f5"
+      "sha256": "6f2c00b4051ecec437db5fe17c83afd6ddbafd40f069407b282ac8bdead1e644",
+      "bytes": 192163
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Rocket80Twenty.png": {
-      "bytes": 215778,
-      "sha256": "a9a343a827588506823aead853a0b7045f6cf3e7e154fbadadcd663e802c4960"
+      "sha256": "2b3ca137f7f87cbdf7d165bfbc27953a1303f1378eb6c28aaf357d51b3ebd283",
+      "bytes": 216247
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Rotary127.png": {
-      "bytes": 147651,
-      "sha256": "85ac9eb73ada1c60aa49f201a68c17841431750f0a5b26fa1d65083cdb2f9d27"
+      "sha256": "a6835a9719ed223b272fa3b8f512d5e27f9e639c14f98d7f59fd4bb1cd63f762",
+      "bytes": 148120
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/Shotgun12Air.png": {
-      "bytes": 123643,
-      "sha256": "1db38d39362af87cdd4870447e26aa7e04fdcb830d51376a6ba800abec83e268"
+      "sha256": "4761c3f59468741ddf9debe63a9fd160d24897ee6a138edda6ab5d2f36129aae",
+      "bytes": 123909
     },
     "Textures/UI/FPSVTOL/ModelIconsR1/StubWing.png": {
-      "bytes": 106180,
-      "sha256": "dbb94ef50f1459eac15e0c9e6e6119168790eed7ccf1edcd4e87cc4aa98e720b"
+      "sha256": "dd41caf50279b7e9bd1e164a09dccba05a692b1aa83cdf80ce64b6886fc6467c",
+      "bytes": 106649
     }
-  },
-  "privacy": {
-    "normalizedFiles": 111,
-    "omittedHistoricalGalleryFiles": 3
   }
 }
