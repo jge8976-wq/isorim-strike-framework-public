@@ -33,7 +33,7 @@
   <Vehicles.VehicleTurretDef ParentName="VehicleTurretBase">
     <defName>VTOL_Air_Gun556Air</defName>
     <label>5.56x45mm airborne light machine gun</label>
-    <description>Mounts on a compatible aircraft hardpoint. AI attack range: 48 tiles. Raid cost: 160 points.</description>
+    <description>Mounts on a compatible aircraft hardpoint. AI attack range: 52 tiles. Raid cost: 160 points.</description>
     <turretType>Rotatable</turretType>
     <projectile>VTOL_AirBullet_Gun556AirProjectile</projectile>
     <warmUpTimer>0</warmUpTimer>
@@ -44,7 +44,7 @@
     <genericAmmo>true</genericAmmo>
     <autoSnapTargeting>false</autoSnapTargeting>
     <projectileOffset>1.2</projectileOffset>
-    <maxRange>48</maxRange>
+    <maxRange>52</maxRange>
     <minRange>0</minRange>
     <shotSound>Shot_AssaultRifle</shotSound>
     <graphicData>
@@ -60,7 +60,7 @@
     <fireModes>
       <li>
         <shotsPerBurst>9</shotsPerBurst>
-        <ticksBetweenShots>5</ticksBetweenShots>
+        <ticksBetweenShots>4</ticksBetweenShots>
         <ticksBetweenBursts>8</ticksBetweenBursts>
         <spreadRadius>0</spreadRadius>
         <label>Automatic</label>
@@ -78,7 +78,7 @@
         <barrelLength>0.65</barrelLength>
         <scopeTemplate>MachineGun</scopeTemplate>
         <ceAmmoSet>AmmoSet_556x45mmNATO</ceAmmoSet>
-        <aiRange>48</aiRange>
+        <aiRange>52</aiRange>
       </li>
     </modExtensions>
     <gizmoIconTexPath>UI/FPSVTOL/ModelIconsR1/Gun556Air</gizmoIconTexPath>

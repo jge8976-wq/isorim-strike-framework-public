@@ -3,7 +3,7 @@
   <name>ISORIM 3D Strike Framework</name>
   <author>ISORIM FPS team</author>
   <packageId>isorim.strike.framework</packageId>
-  <modVersion IgnoreIfNoMatchingField="true">0.6.8-vehicle-recovery-r1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="true">0.6.10-raid-altitude-layers-r1</modVersion>
   <supportedVersions>
     <li>1.7</li>
   </supportedVersions>
@@ -49,7 +49,13 @@
     <li>hsk.fpsbridge.control.r4</li>
     <li>hsk.importedmodels.vehicles</li>
   </loadAfter>
-  <description>[h2]0.6.8[/h2]
+  <description>[h2]0.6.10[/h2]
+Large raids enter in flights of up to three, spaced six cells apart starting at 12. Twelve aircraft use 12, 18, 24 and 30 cells, and sixteen extend to 36 and 42. If the airframe ceiling limits the available space, layers are evenly spaced within it. Each flight climbs back to its own layer. Solid decks catch wrecks and contain crash damage. Includes the new mechanical siren and light gun tuning.
+
+[h2]0.6.9[/h2]
+AI fixed-wing aircraft turn tighter and pull out after their strafing passes. Large raids enter in flights of three at 12, 18 and 24 cells, then climb back to their assigned layer. The airborne 5.56 mm gun has a modest range and rate-of-fire increase. Armed scouts can turn to defend themselves. Aircraft hits flash at the actual 3D contact and direct anti-air rounds skip their own gunner. Wrecks stop on solid upper floors and crash damage stays on that floor. Air-raid warnings use a new mechanical siren. Update both ISORIM mods together.
+
+[h2]0.6.8[/h2]
 A claimed damaged vehicle now enters your faction’s repair list and can be repaired through Vehicle Framework. When a hostile pilot is incapacitated, a helicopter attempts a vertical landing at its current position or a nearby clear spot. Fixed-wing aircraft at or below 15 cells above the surface glide and roll to a stop if the route is clear. Higher aircraft crash and leave a recoverable wreck. Intact aircraft can be claimed after stopping and wrecks after repair. Update both ISORIM FPS Control Bridge and ISORIM 3D Strike Framework for these changes.
 
 [h2]0.6.7[/h2]

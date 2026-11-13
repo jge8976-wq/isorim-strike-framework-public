@@ -1,27 +1,27 @@
 {
   "workshopItemId": 3833895567,
+  "version": "0.6.10-raid-altitude-layers-r1",
   "packageId": "isorim.strike.framework",
-  "version": "0.6.8-vehicle-recovery-r1",
   "files": {
     "1.7/Assemblies/ISORIM.StrikeFramework.dll": {
-      "sha256": "46e94e5fed516bbfbb95450760cd5f52c876edd1b97d64940b7f46a6745ebf74",
-      "bytes": 197632
+      "sha256": "513976f8b213fbc60f3ff3c747b0df1e80b2f54bf7d9172ffb956803b5d2cce2",
+      "bytes": 198656
     },
     "About/About.xml": {
-      "sha256": "eb402e84401bf5ea9a2bef582c3895fd12466c988931f95bfecb74954d4d6bff",
-      "bytes": 8380
+      "sha256": "40a587e03bfaab87cc774862d27f3ffdc1f39281f63f698754ddd7548a8ddf18",
+      "bytes": 9366
     },
     "About/ChineseSimplified/About.xml": {
-      "sha256": "2522069281732464fa0216aafbbeb059bfa0b2df2d56a7d53e01f149d33f6848",
-      "bytes": 10375
+      "sha256": "a1995f110c7ab4c64612301964177a880adec9af272e9efecadb9f5f8afa4d30",
+      "bytes": 10741
     },
     "About/Description-Chinese.txt": {
-      "sha256": "40b9de42580fa661e7c7fbb8c9484b027f8e66f3fad6ae343a8428ad31265bbc",
-      "bytes": 7907
+      "sha256": "9fd377967bffb12d39fde83960032f6c05374f88ee1fb829603a1d527c526e43",
+      "bytes": 8268
     },
     "About/Description-English.txt": {
-      "sha256": "be8d8b3590d16b45ed418374cfc1e4b0b8e757517f39cdd9ad23a1f5c46fcdc8",
-      "bytes": 5907
+      "sha256": "b195542bb729b8733803481c70a00436ae65dd44e929d7b85f34139286fcd074",
+      "bytes": 6888
     },
     "About/Description.en.txt": {
       "sha256": "9e0431fa1501bd2482c577256f182fa85ffc882e3098b1951a80d9cad904d369",
@@ -32,8 +32,8 @@
       "bytes": 7647
     },
     "About/English/About.xml": {
-      "sha256": "eb402e84401bf5ea9a2bef582c3895fd12466c988931f95bfecb74954d4d6bff",
-      "bytes": 8380
+      "sha256": "40a587e03bfaab87cc774862d27f3ffdc1f39281f63f698754ddd7548a8ddf18",
+      "bytes": 9366
     },
     "About/Gallery/gallery-01.jpg": {
       "sha256": "10330b883f5e51904294723ae1a6c0f1dae62ffdc797e6c0781d8f0236300797",
@@ -108,7 +108,7 @@
       "bytes": 4366
     },
     "Defs/LightArmament.xml": {
-      "sha256": "5a281785fee4fdad0933307716624dd187dcdbad443662b8704a743e1b8af1cc",
+      "sha256": "8e36f596ce9e876b1beccc27d7c7122cc7b293b2f4b2b2cd4e34d1a86c9b41b6",
       "bytes": 13473
     },
     "Defs/LightStations.xml": {
@@ -1984,8 +1984,8 @@
       "bytes": 25906
     },
     "Sounds/VTOL/AirRaidAlarm15.wav": {
-      "sha256": "d91619ae6ba1c517f506cc7681d3504ea0ee8a25e741456fadf8f8f5c516267c",
-      "bytes": 661544
+      "sha256": "558db57f415316be73a345cb42124704748c0eaf960c8542d912baa8cbb4260c",
+      "bytes": 720044
     },
     "Textures/FPSR14/AerialR14/Cannon20/Palette.png": {
       "sha256": "dc4763de91c9546b6e6f83eb7749505f0cdef4af8da2340bbb88ed12a3115123",

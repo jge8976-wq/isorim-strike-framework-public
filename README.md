@@ -1,22 +1,15 @@
 # ISORIM 3D Strike Framework
 
-Version **0.6.8-vehicle-recovery-r1** · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833895567)
+Version **0.6.10-raid-altitude-layers-r1** · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833895567)
 
-A claimed damaged vehicle now enters your faction’s repair list and can be repaired through Vehicle Framework. When a hostile pilot is incapacitated, a helicopter attempts a vertical landing at its current position or a nearby clear spot. Fixed-wing aircraft at or below 15 cells above the surface glide and roll to a stop if the route is clear. Higher aircraft crash and leave a recoverable wreck. Intact aircraft can be claimed after stopping and wrecks after repair. Update both ISORIM FPS Control Bridge and ISORIM 3D Strike Framework for these changes.
+大编队每三架一组，从 12 格起按每组 6 格分层。12 架分为 12、18、24、30 格，16 架继续用到 36、42 格。遇到机型升限时，在可用高度内均分。各组俯冲后回到自己的高度。实体楼板拦住坠机残骸，撞击伤害限于该层。包含新机械警报和轻型机枪调整。
 
-认领受损载具后，车辆会加入我方维修名单，可按 Vehicle Framework 的正常流程维修。敌方飞行员失能后，直升机尝试原地垂直降落，原位受阻时寻找附近安全落点。离地 15 格及以内的固定翼在路线安全时滑翔接地并滑跑停稳，高空固定翼会坠毁并留下可修复残骸。完整飞机停稳后可认领，残骸修好后可认领。请同时更新 ISORIM 第一人称控制桥和 ISORIM 立体打击框架。
+Large raids enter in flights of up to three, spaced six cells apart starting at 12. Twelve aircraft use 12, 18, 24 and 30 cells, and sixteen extend to 36 and 42. If the airframe ceiling limits the available space, layers are evenly spaced within it. Each flight climbs back to its own layer. Solid decks catch wrecks and contain crash damage. Includes the new mechanical siren and light gun tuning.
 
-## Recovery screenshots / 认领与迫降实机图
+GitHub Releases provides an installable ZIP. Extract its mod folder into RimWorld’s Mods directory.
 
-- [Badger repair / 认领后维修 Badger](Screenshots/01-badger-repair.png)
-- [Mosquito emergency landing / Mosquito 就地降落](Screenshots/02-mosquito-landing.png)
-- [Warbird glide approach / Warbird 滑翔进近](Screenshots/03-warbird-glide.png)
-- [Recoverable Warbird wreck / 可修复的 Warbird 残骸](Screenshots/04-warbird-wreck.png)
+## In-game screenshots / 实机截图
 
-Large developer raids enter in groups of up to three along the selected edge. Each group shares an altitude and a committed strafing run, with survivors continuing the group's plan. Includes five presets for each of eight aircraft and four vehicle site missions.
-
-大编队三机一组沿选定边缘分批错层入场，同组执行同一轮攻击航线并在减员后接续，拉起后再重算。包含八种飞行载具的五套模板和四种载具据点任务。
-
-The GitHub Releases page provides an installable ZIP. Extract its mod folder into RimWorld's Mods directory. See Mod/About/About.xml for requirements.
-
-GitHub Releases 提供可安装压缩包。解压后把模组文件夹放进 RimWorld 的 Mods 目录。
+- [Four flights at 12, 18, 24, and 30 cells / 12、18、24、30 格错层进场](Screenshots/01-formation-12-18-24-30.png)
+- [Fixed-wing strafing run / 固定翼俯冲扫射](Screenshots/02-strafing.png)
+- [Wreck on the second-floor plasteel deck / 残骸停在二楼玻璃钢楼板](Screenshots/03-wreck-upper-floor.png)

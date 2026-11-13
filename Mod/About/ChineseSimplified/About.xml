@@ -3,7 +3,7 @@
   <name>ISORIM 立体打击框架</name>
   <author>ISORIM FPS team</author>
   <packageId>isorim.strike.framework</packageId>
-  <modVersion IgnoreIfNoMatchingField="true">0.6.8-vehicle-recovery-r1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="true">0.6.10-raid-altitude-layers-r1</modVersion>
   <supportedVersions>
     <li>1.7</li>
   </supportedVersions>
@@ -49,8 +49,11 @@
     <li>hsk.fpsbridge.control.r4</li>
     <li>hsk.importedmodels.vehicles</li>
   </loadAfter>
-  <description>[h2]0.6.8[/h2]
-认领受损载具后，车辆会加入我方维修名单，可按 Vehicle Framework 的正常流程维修。敌方飞行员失能后，直升机尝试原地垂直降落，原位受阻时寻找附近安全落点。离地 15 格及以内的固定翼在路线安全时滑翔接地并滑跑停稳，高空固定翼会坠毁并留下可修复残骸。完整飞机停稳后可认领，残骸修好后可认领。请同时更新 ISORIM 第一人称控制桥和 ISORIM 立体打击框架。
+  <description>[h2]0.6.10[/h2]
+大编队每三架一组，从 12 格起按每组 6 格分层。12 架分为 12、18、24、30 格，16 架继续用到 36、42 格。遇到机型升限时，在可用高度内均分。各组俯冲后回到自己的高度。实体楼板拦住坠机残骸，撞击伤害限于该层。包含新机械警报和轻型机枪调整。
+
+[h2]0.6.9[/h2]
+AI 固定翼缩短回转半径，扫射后拉起。大编队三机一组在 12、18、24 格高度进场，俯冲扫射后回到本组高度。机载 5.56 毫米机枪小幅提高 AI 射程和射速，武装侦察机可以转向自卫。命中火花显示在飞机实际受击点，直射防空弹跳过该发炮弹的操作员。坠机残骸停在撞到的实体楼板上，坠机爆炸伤害限定在撞击层。空袭预警换用新的机械警报音。请同时更新两个 ISORIM 模组。
 
 [h2]0.6.4[/h2]
 常规空袭使用 7.62 毫米及以下机枪、40 毫米高爆弹或空爆弹。火箭弹和 20 毫米机炮用于高难度或 Boss 空战。八种原版载具拓展飞行器按机体与挂架计点。单人 Frog 加一挺 5.56 毫米机枪共 450 点。无武装侦察机盘旋四个游戏小时，侦察完成后有 80% 概率触发带倒计时和入场方向的空袭。兼容的空爆弹武器新增近炸防空模式，支持冲击波和空中破片。
