@@ -3,7 +3,7 @@
   <name>ISORIM 3D Strike Framework</name>
   <author>ISORIM FPS team</author>
   <packageId>isorim.strike.framework</packageId>
-  <modVersion IgnoreIfNoMatchingField="true">0.6.10-raid-altitude-layers-r1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="true">0.6.11-crash-fire-r3</modVersion>
   <supportedVersions>
     <li>1.7</li>
   </supportedVersions>
@@ -49,8 +49,11 @@
     <li>hsk.fpsbridge.control.r4</li>
     <li>hsk.importedmodels.vehicles</li>
   </loadAfter>
-  <description>[h2]0.6.10[/h2]
-Large raids enter in flights of up to three, spaced six cells apart starting at 12. Twelve aircraft use 12, 18, 24 and 30 cells, and sixteen extend to 36 and 42. If the airframe ceiling limits the available space, layers are evenly spaced within it. Each flight climbs back to its own layer. Solid decks catch wrecks and contain crash damage. Includes the new mechanical siren and light gun tuning.
+  <description>[h2]0.6.11[/h2]
+Adds compact first-person weapon cards, an aircraft and vehicle weapon rail, and a cockpit status panel bound to K by default. Reload bars appear during loading. The minimaps mark projected explosive impacts. Enemy aircraft keep native jobs without re-entering ground job loops. Air handling defaults to 60% for both player and AI. Fire drains component durability and can be extinguished with foam. Path connectivity now updates each affected neighbor once per batch. Update both ISORIM mods together.
+
+[h2]0.6.10[/h2]
+Large raids enter in flights of up to three at 12, 18, 24, 30 cells and higher as needed. Sixteen aircraft add layers at 36 and 42 cells. Each flight climbs back to its layer after strafing. The gallery shows entry, strafing, and a wreck on a second-floor plasteel deck.
 
 [h2]0.6.9[/h2]
 AI fixed-wing aircraft turn tighter and pull out after their strafing passes. Large raids enter in flights of three at 12, 18 and 24 cells, then climb back to their assigned layer. The airborne 5.56 mm gun has a modest range and rate-of-fire increase. Armed scouts can turn to defend themselves. Aircraft hits flash at the actual 3D contact and direct anti-air rounds skip their own gunner. Wrecks stop on solid upper floors and crash damage stays on that floor. Air-raid warnings use a new mechanical siren. Update both ISORIM mods together.

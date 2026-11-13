@@ -1,27 +1,27 @@
 {
   "workshopItemId": 3833895567,
-  "version": "0.6.10-raid-altitude-layers-r1",
+  "version": "0.6.11-crash-fire-r3",
   "packageId": "isorim.strike.framework",
   "files": {
     "1.7/Assemblies/ISORIM.StrikeFramework.dll": {
-      "sha256": "513976f8b213fbc60f3ff3c747b0df1e80b2f54bf7d9172ffb956803b5d2cce2",
-      "bytes": 198656
+      "sha256": "5652a9276d6a2aae79b0270b6409f99120fb4de2bee0555a88e81bee1b5c3102",
+      "bytes": 202752
     },
     "About/About.xml": {
-      "sha256": "40a587e03bfaab87cc774862d27f3ffdc1f39281f63f698754ddd7548a8ddf18",
-      "bytes": 9366
+      "sha256": "ffa0b565f474dc016cc9ec81834d667b1a2cedc38a5bdc571f9f5ea04efb9a73",
+      "bytes": 9751
     },
     "About/ChineseSimplified/About.xml": {
-      "sha256": "a1995f110c7ab4c64612301964177a880adec9af272e9efecadb9f5f8afa4d30",
-      "bytes": 10741
+      "sha256": "5fb3ac08e8b133e1e306e04e2439dde658ffac1355af8b970b4066ddc2c16d47",
+      "bytes": 10161
     },
     "About/Description-Chinese.txt": {
-      "sha256": "9fd377967bffb12d39fde83960032f6c05374f88ee1fb829603a1d527c526e43",
-      "bytes": 8268
+      "sha256": "25b2901488593cb6b8f1c6dacc682f397addcc49d1ee136f4c985a14b0be986a",
+      "bytes": 7698
     },
     "About/Description-English.txt": {
-      "sha256": "b195542bb729b8733803481c70a00436ae65dd44e929d7b85f34139286fcd074",
-      "bytes": 6888
+      "sha256": "73f7a6b733527dffe9f918a3c133169513c429253a4b9f6a2c7b23c3d9dce0a6",
+      "bytes": 7283
     },
     "About/Description.en.txt": {
       "sha256": "9e0431fa1501bd2482c577256f182fa85ffc882e3098b1951a80d9cad904d369",
@@ -32,8 +32,8 @@
       "bytes": 7647
     },
     "About/English/About.xml": {
-      "sha256": "40a587e03bfaab87cc774862d27f3ffdc1f39281f63f698754ddd7548a8ddf18",
-      "bytes": 9366
+      "sha256": "ffa0b565f474dc016cc9ec81834d667b1a2cedc38a5bdc571f9f5ea04efb9a73",
+      "bytes": 9751
     },
     "About/Gallery/gallery-01.jpg": {
       "sha256": "10330b883f5e51904294723ae1a6c0f1dae62ffdc797e6c0781d8f0236300797",

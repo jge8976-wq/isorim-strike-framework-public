@@ -1,15 +1,16 @@
 # ISORIM 3D Strike Framework
 
-Version **0.6.10-raid-altitude-layers-r1** · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833895567)
+Version **0.6.11-crash-fire-r3** · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833895567)
 
-大编队每三架一组，从 12 格起按每组 6 格分层。12 架分为 12、18、24、30 格，16 架继续用到 36、42 格。遇到机型升限时，在可用高度内均分。各组俯冲后回到自己的高度。实体楼板拦住坠机残骸，撞击伤害限于该层。包含新机械警报和轻型机枪调整。
+新增第一人称紧凑武器卡、多武器挂载条和默认 K 键展开的座舱状态图。装填时显示真实进度，小地图显示爆炸武器预计落点。修复敌机重复进入地面待命任务。敌方 AI 和玩家共用默认 60% 的飞行灵活性。火焰损伤部件，泡沫可扑灭载具上的火焰。寻路连通性每批只更新一次受影响的邻格。请同时更新两个 ISORIM 模组。
 
-Large raids enter in flights of up to three, spaced six cells apart starting at 12. Twelve aircraft use 12, 18, 24 and 30 cells, and sixteen extend to 36 and 42. If the airframe ceiling limits the available space, layers are evenly spaced within it. Each flight climbs back to its own layer. Solid decks catch wrecks and contain crash damage. Includes the new mechanical siren and light gun tuning.
+Adds compact first-person weapon cards, an aircraft and vehicle weapon rail, and a cockpit status panel bound to K by default. Reload bars appear during loading. The minimaps mark projected explosive impacts. Enemy aircraft keep native jobs without re-entering ground job loops. Air handling defaults to 60% for both player and AI. Fire drains component durability and can be extinguished with foam. Path connectivity now updates each affected neighbor once per batch. Update both ISORIM mods together.
 
 GitHub Releases provides an installable ZIP. Extract its mod folder into RimWorld’s Mods directory.
 
 ## In-game screenshots / 实机截图
 
-- [Four flights at 12, 18, 24, and 30 cells / 12、18、24、30 格错层进场](Screenshots/01-formation-12-18-24-30.png)
-- [Fixed-wing strafing run / 固定翼俯冲扫射](Screenshots/02-strafing.png)
-- [Wreck on the second-floor plasteel deck / 残骸停在二楼玻璃钢楼板](Screenshots/03-wreck-upper-floor.png)
+- [Compact weapon card / 紧凑武器卡](Screenshots/armed-hud.png)
+- [Weapon rail and cockpit status / 挂载条与座舱状态](Screenshots/cockpit-hud.png)
+- [Infantry first-person weapon card / 人物第一人称武器卡](Screenshots/infantry-hud.png)
+- [Mortar reloading in first person / 第一人称迫击炮装填](Screenshots/turret-reload-hud.png)

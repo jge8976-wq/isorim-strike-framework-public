@@ -3,7 +3,7 @@
   <name>ISORIM 立体打击框架</name>
   <author>ISORIM FPS team</author>
   <packageId>isorim.strike.framework</packageId>
-  <modVersion IgnoreIfNoMatchingField="true">0.6.10-raid-altitude-layers-r1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="true">0.6.11-crash-fire-r3</modVersion>
   <supportedVersions>
     <li>1.7</li>
   </supportedVersions>
@@ -49,11 +49,8 @@
     <li>hsk.fpsbridge.control.r4</li>
     <li>hsk.importedmodels.vehicles</li>
   </loadAfter>
-  <description>[h2]0.6.10[/h2]
-大编队每三架一组，从 12 格起按每组 6 格分层。12 架分为 12、18、24、30 格，16 架继续用到 36、42 格。遇到机型升限时，在可用高度内均分。各组俯冲后回到自己的高度。实体楼板拦住坠机残骸，撞击伤害限于该层。包含新机械警报和轻型机枪调整。
-
-[h2]0.6.9[/h2]
-AI 固定翼缩短回转半径，扫射后拉起。大编队三机一组在 12、18、24 格高度进场，俯冲扫射后回到本组高度。机载 5.56 毫米机枪小幅提高 AI 射程和射速，武装侦察机可以转向自卫。命中火花显示在飞机实际受击点，直射防空弹跳过该发炮弹的操作员。坠机残骸停在撞到的实体楼板上，坠机爆炸伤害限定在撞击层。空袭预警换用新的机械警报音。请同时更新两个 ISORIM 模组。
+  <description>[h2]0.6.11[/h2]
+新增第一人称紧凑武器卡、多武器挂载条和默认 K 键展开的座舱状态图。装填时显示真实进度，小地图显示爆炸武器预计落点。修复敌机重复进入地面待命任务。敌方 AI 和玩家共用默认 60% 的飞行灵活性。火焰损伤部件，泡沫可扑灭载具上的火焰。寻路连通性每批只更新一次受影响的邻格。请同时更新两个 ISORIM 模组。
 
 [h2]0.6.4[/h2]
 常规空袭使用 7.62 毫米及以下机枪、40 毫米高爆弹或空爆弹。火箭弹和 20 毫米机炮用于高难度或 Boss 空战。八种原版载具拓展飞行器按机体与挂架计点。单人 Frog 加一挺 5.56 毫米机枪共 450 点。无武装侦察机盘旋四个游戏小时，侦察完成后有 80% 概率触发带倒计时和入场方向的空袭。兼容的空爆弹武器新增近炸防空模式，支持冲击波和空中破片。
@@ -105,10 +102,7 @@ AI 固定翼缩短回转半径，扫射后拉起。大编队三机一组在 12�
 需要Harmony、Vehicle Framework、Vanilla Vehicles Expanded、VVE - Upgrades、IsoRim Waylith、ISORIM独立载具模型包。原模组及它们自身的前置另装。飞行、立体战斗、空袭和跳伞需要配套FPS；仅原生改装与挂载可不装FPS，CE可选。
 关闭旧VTOL R1／R2／R3测试包，避免重复定义；同一配置只启用一份FPS。更新后彻底重启，大规模调整模组列表前保留存档副本。本体不混入测试场、私有检查器、原视频或上游DLL。
 
-封面为AI宣传插画。图库是实际游戏截图和玩家实测素材，动图为原视频的无声片段。感谢IsoRim与载具框架作者、美术组和所有参与测试的朋友，也欢迎继续反馈具体载具、武器、版本和复现方式。
-
-直接操控联动：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3824599915]ISORIM FPS Control Bridge（CE与原版）[/url]。
-</description>
+封面为AI宣传插画。图库是实际游戏截图和玩家实测素材，动图为原视频的无声片段。感谢IsoRim与载具框架作者、美术组和所有参与测试的朋友，也欢迎继续反馈具体载具、武器、版本和复现方式。</description>
   <incompatibleWith>
     <li>isorim.fps.vtol.r14</li>
     <li>isorim.vtol.armament</li>
